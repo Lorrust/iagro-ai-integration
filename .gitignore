@@ -1,7 +1,10 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
+
+# Visual Studio Code
+.vscode/
 
 # C extensions
 *.so
@@ -159,6 +162,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
 
 # Ruff stuff:
 .ruff_cache/

@@ -1,11 +1,11 @@
 {
     "schema_name": "DoclingDocument",
     "version": "1.3.0",
-    "name": "temp_input",
+    "name": "tmp5ipb8d3v",
     "origin": {
         "mimetype": "text/html",
-        "binary_hash": 1145753365694228860,
-        "filename": "temp_input.html"
+        "binary_hash": 16291297110676069523,
+        "filename": "tmp5ipb8d3v.html"
     },
     "furniture": {
         "self_ref": "#/furniture",
@@ -18,19 +18,10 @@
         "self_ref": "#/body",
         "children": [
             {
-                "$ref": "#/pictures/0"
-            },
-            {
                 "$ref": "#/groups/0"
             },
             {
-                "$ref": "#/pictures/1"
-            },
-            {
                 "$ref": "#/groups/1"
-            },
-            {
-                "$ref": "#/pictures/2"
             },
             {
                 "$ref": "#/texts/16"
@@ -202,9 +193,15 @@
         {
             "self_ref": "#/groups/4",
             "parent": {
-                "$ref": "#/texts/136"
+                "$ref": "#/texts/134"
             },
             "children": [
+                {
+                    "$ref": "#/texts/137"
+                },
+                {
+                    "$ref": "#/texts/138"
+                },
                 {
                     "$ref": "#/texts/139"
                 },
@@ -252,12 +249,6 @@
                 },
                 {
                     "$ref": "#/texts/154"
-                },
-                {
-                    "$ref": "#/texts/155"
-                },
-                {
-                    "$ref": "#/texts/156"
                 }
             ],
             "content_layer": "body",
@@ -267,11 +258,11 @@
         {
             "self_ref": "#/groups/5",
             "parent": {
-                "$ref": "#/texts/160"
+                "$ref": "#/texts/158"
             },
             "children": [
                 {
-                    "$ref": "#/texts/167"
+                    "$ref": "#/texts/165"
                 }
             ],
             "content_layer": "body",
@@ -281,17 +272,17 @@
         {
             "self_ref": "#/groups/6",
             "parent": {
-                "$ref": "#/texts/182"
+                "$ref": "#/texts/180"
             },
             "children": [
                 {
+                    "$ref": "#/texts/181"
+                },
+                {
+                    "$ref": "#/texts/182"
+                },
+                {
                     "$ref": "#/texts/183"
-                },
-                {
-                    "$ref": "#/texts/184"
-                },
-                {
-                    "$ref": "#/texts/185"
                 }
             ],
             "content_layer": "body",
@@ -301,14 +292,74 @@
         {
             "self_ref": "#/groups/7",
             "parent": {
-                "$ref": "#/texts/182"
+                "$ref": "#/texts/180"
             },
             "children": [
+                {
+                    "$ref": "#/texts/186"
+                },
+                {
+                    "$ref": "#/texts/190"
+                },
+                {
+                    "$ref": "#/texts/195"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/8",
+            "parent": {
+                "$ref": "#/texts/186"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/187"
+                },
                 {
                     "$ref": "#/texts/188"
                 },
                 {
+                    "$ref": "#/texts/189"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/9",
+            "parent": {
+                "$ref": "#/texts/190"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/191"
+                },
+                {
                     "$ref": "#/texts/192"
+                },
+                {
+                    "$ref": "#/texts/193"
+                },
+                {
+                    "$ref": "#/texts/194"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/10",
+            "parent": {
+                "$ref": "#/texts/195"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/196"
                 },
                 {
                     "$ref": "#/texts/197"
@@ -319,73 +370,13 @@
             "label": "list"
         },
         {
-            "self_ref": "#/groups/8",
+            "self_ref": "#/groups/11",
             "parent": {
-                "$ref": "#/texts/188"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/189"
-                },
-                {
-                    "$ref": "#/texts/190"
-                },
-                {
-                    "$ref": "#/texts/191"
-                }
-            ],
-            "content_layer": "body",
-            "name": "list",
-            "label": "list"
-        },
-        {
-            "self_ref": "#/groups/9",
-            "parent": {
-                "$ref": "#/texts/192"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/193"
-                },
-                {
-                    "$ref": "#/texts/194"
-                },
-                {
-                    "$ref": "#/texts/195"
-                },
-                {
-                    "$ref": "#/texts/196"
-                }
-            ],
-            "content_layer": "body",
-            "name": "list",
-            "label": "list"
-        },
-        {
-            "self_ref": "#/groups/10",
-            "parent": {
-                "$ref": "#/texts/197"
+                "$ref": "#/texts/180"
             },
             "children": [
                 {
                     "$ref": "#/texts/198"
-                },
-                {
-                    "$ref": "#/texts/199"
-                }
-            ],
-            "content_layer": "body",
-            "name": "list",
-            "label": "list"
-        },
-        {
-            "self_ref": "#/groups/11",
-            "parent": {
-                "$ref": "#/texts/182"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/200"
                 }
             ],
             "content_layer": "body",
@@ -395,17 +386,17 @@
         {
             "self_ref": "#/groups/12",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [
                 {
+                    "$ref": "#/texts/199"
+                },
+                {
+                    "$ref": "#/texts/200"
+                },
+                {
                     "$ref": "#/texts/201"
-                },
-                {
-                    "$ref": "#/texts/202"
-                },
-                {
-                    "$ref": "#/texts/203"
                 }
             ],
             "content_layer": "body",
@@ -415,11 +406,11 @@
         {
             "self_ref": "#/groups/13",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [
                 {
-                    "$ref": "#/texts/226"
+                    "$ref": "#/texts/224"
                 }
             ],
             "content_layer": "body",
@@ -429,20 +420,20 @@
         {
             "self_ref": "#/groups/14",
             "parent": {
-                "$ref": "#/texts/226"
+                "$ref": "#/texts/224"
             },
             "children": [
+                {
+                    "$ref": "#/texts/225"
+                },
+                {
+                    "$ref": "#/texts/226"
+                },
                 {
                     "$ref": "#/texts/227"
                 },
                 {
                     "$ref": "#/texts/228"
-                },
-                {
-                    "$ref": "#/texts/229"
-                },
-                {
-                    "$ref": "#/texts/230"
                 }
             ],
             "content_layer": "body",
@@ -721,34 +712,31 @@
                     "$ref": "#/texts/77"
                 },
                 {
-                    "$ref": "#/texts/86"
+                    "$ref": "#/texts/85"
                 },
                 {
-                    "$ref": "#/texts/87"
+                    "$ref": "#/texts/93"
                 },
                 {
-                    "$ref": "#/texts/95"
+                    "$ref": "#/texts/104"
                 },
                 {
-                    "$ref": "#/texts/106"
+                    "$ref": "#/texts/110"
                 },
                 {
-                    "$ref": "#/texts/112"
+                    "$ref": "#/texts/118"
                 },
                 {
-                    "$ref": "#/texts/120"
+                    "$ref": "#/texts/134"
                 },
                 {
-                    "$ref": "#/texts/136"
+                    "$ref": "#/texts/158"
                 },
                 {
-                    "$ref": "#/texts/160"
+                    "$ref": "#/texts/167"
                 },
                 {
-                    "$ref": "#/texts/169"
-                },
-                {
-                    "$ref": "#/texts/176"
+                    "$ref": "#/texts/174"
                 }
             ],
             "content_layer": "body",
@@ -1362,8 +1350,8 @@
             "content_layer": "body",
             "label": "text",
             "prov": [],
-            "orig": "“Causada pelo fungo\r\n                        \r\n                         Phakopsora pachyrhizi\r\n                        \r\n                        , seu principal dano é a desfolha precoce, o que impede a completa formação dos grãos, com consequente redução da produtividade”, relata Cláudia.\r\n                        \n\n\n\n\n\n\n\r\n                           Folhas infectadas pelo fungo da ferrugem-asiática tornam-se amarelas, ficam secas e caem",
-            "text": "“Causada pelo fungo\r\n                        \r\n                         Phakopsora pachyrhizi\r\n                        \r\n                        , seu principal dano é a desfolha precoce, o que impede a completa formação dos grãos, com consequente redução da produtividade”, relata Cláudia.\r\n                        \n\n\n\n\n\n\n\r\n                           Folhas infectadas pelo fungo da ferrugem-asiática tornam-se amarelas, ficam secas e caem"
+            "orig": "“Causada pelo fungo\r\n                        \r\n                         Phakopsora pachyrhizi\r\n                        \r\n                        , seu principal dano é a desfolha precoce, o que impede a completa formação dos grãos, com consequente redução da produtividade”, relata Cláudia.\r\n                        \n\n\r\n                           Folhas infectadas pelo fungo da ferrugem-asiática tornam-se amarelas, ficam secas e caem",
+            "text": "“Causada pelo fungo\r\n                        \r\n                         Phakopsora pachyrhizi\r\n                        \r\n                        , seu principal dano é a desfolha precoce, o que impede a completa formação dos grãos, com consequente redução da produtividade”, relata Cláudia.\r\n                        \n\n\r\n                           Folhas infectadas pelo fungo da ferrugem-asiática tornam-se amarelas, ficam secas e caem"
         },
         {
             "self_ref": "#/texts/60",
@@ -1637,10 +1625,7 @@
                     "$ref": "#/texts/80"
                 },
                 {
-                    "$ref": "#/texts/81"
-                },
-                {
-                    "$ref": "#/texts/83"
+                    "$ref": "#/texts/82"
                 }
             ],
             "content_layer": "body",
@@ -1680,22 +1665,9 @@
             "parent": {
                 "$ref": "#/texts/77"
             },
-            "children": [],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "",
-            "text": "",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/81",
-            "parent": {
-                "$ref": "#/texts/77"
-            },
             "children": [
                 {
-                    "$ref": "#/texts/82"
+                    "$ref": "#/texts/81"
                 }
             ],
             "content_layer": "body",
@@ -1706,9 +1678,9 @@
             "level": 2
         },
         {
-            "self_ref": "#/texts/82",
+            "self_ref": "#/texts/81",
             "parent": {
-                "$ref": "#/texts/81"
+                "$ref": "#/texts/80"
             },
             "children": [],
             "content_layer": "body",
@@ -1718,16 +1690,16 @@
             "text": "A alta umidade e a temperatura, características da região Centro-Oeste do país, criam condições para o surgimento da doença. O uso de sementes infectadas e deficiências nutricionais, principalmente de potássio, contribuem para a sua ocorrência. Sementes oriundas de lavouras que sofreram atraso de colheita, por causa de chuvas, podem apresentar índices mais elevados de infecção."
         },
         {
-            "self_ref": "#/texts/83",
+            "self_ref": "#/texts/82",
             "parent": {
                 "$ref": "#/texts/77"
             },
             "children": [
                 {
-                    "$ref": "#/texts/84"
+                    "$ref": "#/texts/83"
                 },
                 {
-                    "$ref": "#/texts/85"
+                    "$ref": "#/texts/84"
                 }
             ],
             "content_layer": "body",
@@ -1738,9 +1710,9 @@
             "level": 2
         },
         {
-            "self_ref": "#/texts/84",
+            "self_ref": "#/texts/83",
             "parent": {
-                "$ref": "#/texts/83"
+                "$ref": "#/texts/82"
             },
             "children": [],
             "content_layer": "body",
@@ -1750,9 +1722,9 @@
             "text": "Pode causar morte de plântulas e manchas negras nas nervuras das folhas, hastes e vagens. Pode haver queda total das vagens ou deterioração das sementes quando há atraso na colheita. As vagens infectadas nos estádios R3-R4 adquirem coloração castanho-escura a negra e ficam retorcidas."
         },
         {
-            "self_ref": "#/texts/85",
+            "self_ref": "#/texts/84",
             "parent": {
-                "$ref": "#/texts/83"
+                "$ref": "#/texts/82"
             },
             "children": [],
             "content_layer": "body",
@@ -1762,32 +1734,19 @@
             "text": "Nas vagens em granação, as lesões iniciam-se por estrias e evoluem para manchas negras. As partes infectadas, geralmente, apresentam várias pontuações negras, que são as frutificações do fungo."
         },
         {
-            "self_ref": "#/texts/86",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "",
-            "text": "",
-            "level": 1
-        },
-        {
-            "self_ref": "#/texts/87",
+            "self_ref": "#/texts/85",
             "parent": {
                 "$ref": "#/texts/16"
             },
             "children": [
                 {
-                    "$ref": "#/texts/88"
+                    "$ref": "#/texts/86"
+                },
+                {
+                    "$ref": "#/texts/87"
                 },
                 {
                     "$ref": "#/texts/89"
-                },
-                {
-                    "$ref": "#/texts/91"
                 }
             ],
             "content_layer": "body",
@@ -1798,6 +1757,35 @@
             "level": 1
         },
         {
+            "self_ref": "#/texts/86",
+            "parent": {
+                "$ref": "#/texts/85"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Doença com incidência cada vez maior nas lavouras é a mancha-alvo. Isto ocorre, segundo Cláudia, em razão do aumento da semeadura de cultivares suscetíveis e da baixa eficiência dos fungicidas mais comumente utilizados na cultura. Áreas de soja nos estados de Mato Grosso, Goiás, Minas Gerais, Tocantins, Maranhão e Piauí têm sido as mais severamente atacadas, onde tem provocado perdas entre 15% e 25%.\r\n                        \n\r\n                          Mancha-alvo tem provocado perdas entre 15% e 25% da lavoura (Foto: Agro Bayer)",
+            "text": "Doença com incidência cada vez maior nas lavouras é a mancha-alvo. Isto ocorre, segundo Cláudia, em razão do aumento da semeadura de cultivares suscetíveis e da baixa eficiência dos fungicidas mais comumente utilizados na cultura. Áreas de soja nos estados de Mato Grosso, Goiás, Minas Gerais, Tocantins, Maranhão e Piauí têm sido as mais severamente atacadas, onde tem provocado perdas entre 15% e 25%.\r\n                        \n\r\n                          Mancha-alvo tem provocado perdas entre 15% e 25% da lavoura (Foto: Agro Bayer)"
+        },
+        {
+            "self_ref": "#/texts/87",
+            "parent": {
+                "$ref": "#/texts/85"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/88"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Condições de desenvolvimento da\r\n                        \n\r\n                         Mancha-alvo",
+            "text": "Condições de desenvolvimento da\r\n                        \n\r\n                         Mancha-alvo",
+            "level": 2
+        },
+        {
             "self_ref": "#/texts/88",
             "parent": {
                 "$ref": "#/texts/87"
@@ -1806,24 +1794,30 @@
             "content_layer": "body",
             "label": "text",
             "prov": [],
-            "orig": "Doença com incidência cada vez maior nas lavouras é a mancha-alvo. Isto ocorre, segundo Cláudia, em razão do aumento da semeadura de cultivares suscetíveis e da baixa eficiência dos fungicidas mais comumente utilizados na cultura. Áreas de soja nos estados de Mato Grosso, Goiás, Minas Gerais, Tocantins, Maranhão e Piauí têm sido as mais severamente atacadas, onde tem provocado perdas entre 15% e 25%.\r\n                        \n\n\n\n\n\n\r\n                          Mancha-alvo tem provocado perdas entre 15% e 25% da lavoura (Foto: Agro Bayer)",
-            "text": "Doença com incidência cada vez maior nas lavouras é a mancha-alvo. Isto ocorre, segundo Cláudia, em razão do aumento da semeadura de cultivares suscetíveis e da baixa eficiência dos fungicidas mais comumente utilizados na cultura. Áreas de soja nos estados de Mato Grosso, Goiás, Minas Gerais, Tocantins, Maranhão e Piauí têm sido as mais severamente atacadas, onde tem provocado perdas entre 15% e 25%.\r\n                        \n\n\n\n\n\n\r\n                          Mancha-alvo tem provocado perdas entre 15% e 25% da lavoura (Foto: Agro Bayer)"
+            "orig": "O fungo é encontrado em praticamente todas as regiões de\r\n                        \r\n                         cultivo de soja\r\n                        \r\n                        do Brasil. Aparentemente, infecta um grande número de plantas nativas e cultivadas. Pode sobreviver em restos de cultura e semente infectada. Umidade é favorável à infecção na folha.",
+            "text": "O fungo é encontrado em praticamente todas as regiões de\r\n                        \r\n                         cultivo de soja\r\n                        \r\n                        do Brasil. Aparentemente, infecta um grande número de plantas nativas e cultivadas. Pode sobreviver em restos de cultura e semente infectada. Umidade é favorável à infecção na folha."
         },
         {
             "self_ref": "#/texts/89",
             "parent": {
-                "$ref": "#/texts/87"
+                "$ref": "#/texts/85"
             },
             "children": [
                 {
                     "$ref": "#/texts/90"
+                },
+                {
+                    "$ref": "#/texts/91"
+                },
+                {
+                    "$ref": "#/texts/92"
                 }
             ],
             "content_layer": "body",
             "label": "section_header",
             "prov": [],
-            "orig": "Condições de desenvolvimento da\r\n                        \n\r\n                         Mancha-alvo",
-            "text": "Condições de desenvolvimento da\r\n                        \n\r\n                         Mancha-alvo",
+            "orig": "Sintomas da\r\n                        \n\r\n                         Mancha-alvo",
+            "text": "Sintomas da\r\n                        \n\r\n                         Mancha-alvo",
             "level": 2
         },
         {
@@ -1835,48 +1829,13 @@
             "content_layer": "body",
             "label": "text",
             "prov": [],
-            "orig": "O fungo é encontrado em praticamente todas as regiões de\r\n                        \r\n                         cultivo de soja\r\n                        \r\n                        do Brasil. Aparentemente, infecta um grande número de plantas nativas e cultivadas. Pode sobreviver em restos de cultura e semente infectada. Umidade é favorável à infecção na folha.",
-            "text": "O fungo é encontrado em praticamente todas as regiões de\r\n                        \r\n                         cultivo de soja\r\n                        \r\n                        do Brasil. Aparentemente, infecta um grande número de plantas nativas e cultivadas. Pode sobreviver em restos de cultura e semente infectada. Umidade é favorável à infecção na folha."
-        },
-        {
-            "self_ref": "#/texts/91",
-            "parent": {
-                "$ref": "#/texts/87"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/92"
-                },
-                {
-                    "$ref": "#/texts/93"
-                },
-                {
-                    "$ref": "#/texts/94"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Sintomas da\r\n                        \n\r\n                         Mancha-alvo",
-            "text": "Sintomas da\r\n                        \n\r\n                         Mancha-alvo",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/92",
-            "parent": {
-                "$ref": "#/texts/91"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
             "orig": "Causada por um fungo, essa enfermidade apresenta, como sintomas mais comuns, manchas circulares de coloração castanha e com pontuação no centro, semelhante a um alvo. “Daí o nome da doença”, evidencia Cláudia.",
             "text": "Causada por um fungo, essa enfermidade apresenta, como sintomas mais comuns, manchas circulares de coloração castanha e com pontuação no centro, semelhante a um alvo. “Daí o nome da doença”, evidencia Cláudia."
         },
         {
-            "self_ref": "#/texts/93",
+            "self_ref": "#/texts/91",
             "parent": {
-                "$ref": "#/texts/91"
+                "$ref": "#/texts/89"
             },
             "children": [],
             "content_layer": "body",
@@ -1886,9 +1845,9 @@
             "text": "As lesões atingem até 2 cm de diâmetro. Cultivares suscetíveis podem sofrer severa desfolha. Também surgem manchas pardo-avermelhadas na haste e nas vagens, e raízes podem ser infectadas."
         },
         {
-            "self_ref": "#/texts/94",
+            "self_ref": "#/texts/92",
             "parent": {
-                "$ref": "#/texts/91"
+                "$ref": "#/texts/89"
             },
             "children": [],
             "content_layer": "body",
@@ -1898,22 +1857,22 @@
             "text": "Os primeiros sintomas são comumente observados após o fechamento do dossel da soja e da formação de microclima favorável. No entanto, dependendo da cultivar e das condições de clima, podem ocorrer ainda no período vegetativo."
         },
         {
-            "self_ref": "#/texts/95",
+            "self_ref": "#/texts/93",
             "parent": {
                 "$ref": "#/texts/16"
             },
             "children": [
                 {
+                    "$ref": "#/texts/94"
+                },
+                {
+                    "$ref": "#/texts/95"
+                },
+                {
                     "$ref": "#/texts/96"
                 },
                 {
-                    "$ref": "#/texts/97"
-                },
-                {
-                    "$ref": "#/texts/98"
-                },
-                {
-                    "$ref": "#/texts/102"
+                    "$ref": "#/texts/100"
                 }
             ],
             "content_layer": "body",
@@ -1924,9 +1883,9 @@
             "level": 1
         },
         {
-            "self_ref": "#/texts/96",
+            "self_ref": "#/texts/94",
             "parent": {
-                "$ref": "#/texts/95"
+                "$ref": "#/texts/93"
             },
             "children": [],
             "content_layer": "body",
@@ -1936,9 +1895,9 @@
             "text": "Também conhecida como podridão-de-esclerotinia, essa doença tem grande importância econômica no Brasil, com perdas estimadas na soja em mais de 30%."
         },
         {
-            "self_ref": "#/texts/97",
+            "self_ref": "#/texts/95",
             "parent": {
-                "$ref": "#/texts/95"
+                "$ref": "#/texts/93"
             },
             "children": [],
             "content_layer": "body",
@@ -1949,19 +1908,19 @@
             "level": 2
         },
         {
-            "self_ref": "#/texts/98",
+            "self_ref": "#/texts/96",
             "parent": {
-                "$ref": "#/texts/95"
+                "$ref": "#/texts/93"
             },
             "children": [
                 {
+                    "$ref": "#/texts/97"
+                },
+                {
+                    "$ref": "#/texts/98"
+                },
+                {
                     "$ref": "#/texts/99"
-                },
-                {
-                    "$ref": "#/texts/100"
-                },
-                {
-                    "$ref": "#/texts/101"
                 }
             ],
             "content_layer": "body",
@@ -1972,9 +1931,9 @@
             "level": 2
         },
         {
-            "self_ref": "#/texts/99",
+            "self_ref": "#/texts/97",
             "parent": {
-                "$ref": "#/texts/98"
+                "$ref": "#/texts/96"
             },
             "children": [],
             "content_layer": "body",
@@ -1984,9 +1943,9 @@
             "text": "De acordo com Cláudia, ocorre, principalmente, em regiões com altitude superior a 700 m, uma vez que o fungo é dependente de temperaturas amenas e alta umidade para se desenvolver."
         },
         {
-            "self_ref": "#/texts/100",
+            "self_ref": "#/texts/98",
             "parent": {
-                "$ref": "#/texts/98"
+                "$ref": "#/texts/96"
             },
             "children": [],
             "content_layer": "body",
@@ -1996,9 +1955,9 @@
             "text": "Uma das principais formas de introdução do patógeno na área é por meio de sementes contaminadas. Após introduzido o fungo na área, a erradicação se torna mais difícil. Por isso, medidas de prevenção são importantes."
         },
         {
-            "self_ref": "#/texts/101",
+            "self_ref": "#/texts/99",
             "parent": {
-                "$ref": "#/texts/98"
+                "$ref": "#/texts/96"
             },
             "children": [],
             "content_layer": "body",
@@ -2008,19 +1967,19 @@
             "text": "Esse patógeno pode sobreviver no solo por muitos anos na forma de escleródios. Quando há condições favoráveis, germinam e produzem esporos de infecção. É considerado um dos patógenos mais importantes do mundo, ocorrendo em todas regiões produtoras, sejam temperadas, subtropicais ou tropicais."
         },
         {
-            "self_ref": "#/texts/102",
+            "self_ref": "#/texts/100",
             "parent": {
-                "$ref": "#/texts/95"
+                "$ref": "#/texts/93"
             },
             "children": [
                 {
+                    "$ref": "#/texts/101"
+                },
+                {
+                    "$ref": "#/texts/102"
+                },
+                {
                     "$ref": "#/texts/103"
-                },
-                {
-                    "$ref": "#/texts/104"
-                },
-                {
-                    "$ref": "#/texts/105"
                 }
             ],
             "content_layer": "body",
@@ -2031,9 +1990,9 @@
             "level": 2
         },
         {
-            "self_ref": "#/texts/103",
+            "self_ref": "#/texts/101",
             "parent": {
-                "$ref": "#/texts/102"
+                "$ref": "#/texts/100"
             },
             "children": [],
             "content_layer": "body",
@@ -2043,9 +2002,9 @@
             "text": "Ao longo do ciclo da lavoura, pode atacar toda a planta, incluindo hastes, ramos, flores e raízes. Causa podridão da região atacada, normalmente em hastes e ramos, amarelando, murchando e secando as folhas. Pode, inclusive, ocasionar a morte da planta."
         },
         {
-            "self_ref": "#/texts/104",
+            "self_ref": "#/texts/102",
             "parent": {
-                "$ref": "#/texts/102"
+                "$ref": "#/texts/100"
             },
             "children": [],
             "content_layer": "body",
@@ -2055,9 +2014,9 @@
             "text": "Os sintomas iniciais do ataque do fungo são lesões encharcadas onde afeta. Produz, sob as áreas atacadas, uma massa de micélio branco, de aspecto cotonoso, característica marcante da doença."
         },
         {
-            "self_ref": "#/texts/105",
+            "self_ref": "#/texts/103",
             "parent": {
-                "$ref": "#/texts/102"
+                "$ref": "#/texts/100"
             },
             "children": [],
             "content_layer": "body",
@@ -2067,19 +2026,19 @@
             "text": "O período crítico para infecção inicia com a floração. Dessa forma, anterior às primeiras flores, é importante o monitoramento para definição do momento de\r\n                         \r\n                          aplicação de fungicidas\r\n                         \r\n                         , os quais devem ser aplicados preventivamente."
         },
         {
-            "self_ref": "#/texts/106",
+            "self_ref": "#/texts/104",
             "parent": {
                 "$ref": "#/texts/16"
             },
             "children": [
                 {
-                    "$ref": "#/texts/107"
+                    "$ref": "#/texts/105"
+                },
+                {
+                    "$ref": "#/texts/106"
                 },
                 {
                     "$ref": "#/texts/108"
-                },
-                {
-                    "$ref": "#/texts/110"
                 }
             ],
             "content_layer": "body",
@@ -2090,6 +2049,35 @@
             "level": 1
         },
         {
+            "self_ref": "#/texts/105",
+            "parent": {
+                "$ref": "#/texts/104"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "É uma das doenças mais comuns na soja. Ocorre em regiões com maior altitude e temperatura mais amena. Causada por um fungo que tem fácil dispersão pelo vento, a enfermidade ataca a parte aérea da planta.\r\n                        \n\r\n                          Inicialmente, o oídio causa uma fina cobertura esbranquiçada sobre a folha (Foto: Agro Bayer)",
+            "text": "É uma das doenças mais comuns na soja. Ocorre em regiões com maior altitude e temperatura mais amena. Causada por um fungo que tem fácil dispersão pelo vento, a enfermidade ataca a parte aérea da planta.\r\n                        \n\r\n                          Inicialmente, o oídio causa uma fina cobertura esbranquiçada sobre a folha (Foto: Agro Bayer)"
+        },
+        {
+            "self_ref": "#/texts/106",
+            "parent": {
+                "$ref": "#/texts/104"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/107"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Condições de desenvolvimento do\r\n                        \n\r\n                         Oídio",
+            "text": "Condições de desenvolvimento do\r\n                        \n\r\n                         Oídio",
+            "level": 2
+        },
+        {
             "self_ref": "#/texts/107",
             "parent": {
                 "$ref": "#/texts/106"
@@ -2098,13 +2086,13 @@
             "content_layer": "body",
             "label": "text",
             "prov": [],
-            "orig": "É uma das doenças mais comuns na soja. Ocorre em regiões com maior altitude e temperatura mais amena. Causada por um fungo que tem fácil dispersão pelo vento, a enfermidade ataca a parte aérea da planta.\r\n                        \n\n\n\n\n\n\n\n\r\n                          Inicialmente, o oídio causa uma fina cobertura esbranquiçada sobre a folha (Foto: Agro Bayer)",
-            "text": "É uma das doenças mais comuns na soja. Ocorre em regiões com maior altitude e temperatura mais amena. Causada por um fungo que tem fácil dispersão pelo vento, a enfermidade ataca a parte aérea da planta.\r\n                        \n\n\n\n\n\n\n\n\r\n                          Inicialmente, o oídio causa uma fina cobertura esbranquiçada sobre a folha (Foto: Agro Bayer)"
+            "orig": "A infecção pode ocorrer em qualquer estádio de desenvolvimento da planta. Porém, é mais comum no início da floração. Condições de baixa umidade relativa do ar e temperaturas amenas (18 °C a\r\n                        24 °C) são favoráveis ao desenvolvimento do fungo.",
+            "text": "A infecção pode ocorrer em qualquer estádio de desenvolvimento da planta. Porém, é mais comum no início da floração. Condições de baixa umidade relativa do ar e temperaturas amenas (18 °C a\r\n                        24 °C) são favoráveis ao desenvolvimento do fungo."
         },
         {
             "self_ref": "#/texts/108",
             "parent": {
-                "$ref": "#/texts/106"
+                "$ref": "#/texts/104"
             },
             "children": [
                 {
@@ -2114,8 +2102,8 @@
             "content_layer": "body",
             "label": "section_header",
             "prov": [],
-            "orig": "Condições de desenvolvimento do\r\n                        \n\r\n                         Oídio",
-            "text": "Condições de desenvolvimento do\r\n                        \n\r\n                         Oídio",
+            "orig": "Sintomas do\r\n                        \n\r\n                         Oídio",
+            "text": "Sintomas do\r\n                        \n\r\n                         Oídio",
             "level": 2
         },
         {
@@ -2127,55 +2115,26 @@
             "content_layer": "body",
             "label": "text",
             "prov": [],
-            "orig": "A infecção pode ocorrer em qualquer estádio de desenvolvimento da planta. Porém, é mais comum no início da floração. Condições de baixa umidade relativa do ar e temperaturas amenas (18 °C a\r\n                        \n\r\n                        24 °C) são favoráveis ao desenvolvimento do fungo.",
-            "text": "A infecção pode ocorrer em qualquer estádio de desenvolvimento da planta. Porém, é mais comum no início da floração. Condições de baixa umidade relativa do ar e temperaturas amenas (18 °C a\r\n                        \n\r\n                        24 °C) são favoráveis ao desenvolvimento do fungo."
-        },
-        {
-            "self_ref": "#/texts/110",
-            "parent": {
-                "$ref": "#/texts/106"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/111"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Sintomas do\r\n                        \n\r\n                         Oídio",
-            "text": "Sintomas do\r\n                        \n\r\n                         Oídio",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/111",
-            "parent": {
-                "$ref": "#/texts/110"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
             "orig": "Apresenta uma fina cobertura esbranquiçada. Nas folhas, com o passar do tempo, a coloração branca do fungo muda para castanho-acinzentada e, em condições de infecção severa, pode causar o secamento e a queda prematura das folhas.",
             "text": "Apresenta uma fina cobertura esbranquiçada. Nas folhas, com o passar do tempo, a coloração branca do fungo muda para castanho-acinzentada e, em condições de infecção severa, pode causar o secamento e a queda prematura das folhas."
         },
         {
-            "self_ref": "#/texts/112",
+            "self_ref": "#/texts/110",
             "parent": {
                 "$ref": "#/texts/16"
             },
             "children": [
                 {
+                    "$ref": "#/texts/111"
+                },
+                {
+                    "$ref": "#/texts/112"
+                },
+                {
                     "$ref": "#/texts/113"
                 },
                 {
-                    "$ref": "#/texts/114"
-                },
-                {
                     "$ref": "#/texts/115"
-                },
-                {
-                    "$ref": "#/texts/117"
                 }
             ],
             "content_layer": "body",
@@ -2186,9 +2145,9 @@
             "level": 1
         },
         {
-            "self_ref": "#/texts/113",
+            "self_ref": "#/texts/111",
             "parent": {
-                "$ref": "#/texts/112"
+                "$ref": "#/texts/110"
             },
             "children": [],
             "content_layer": "body",
@@ -2198,9 +2157,9 @@
             "text": "A podridão-de-carvão do fungo\r\n                         \n\r\n                          Macrophomina Phaseolina\r\n                         \n\r\n                          é a doença de soja radicular mais encontrada nas áreas cultivadas com soja. Pode ocorrer após o florescimento em condições de estresse hídrico, como veranicos prolongados e temperaturas elevadas."
         },
         {
-            "self_ref": "#/texts/114",
+            "self_ref": "#/texts/112",
             "parent": {
-                "$ref": "#/texts/112"
+                "$ref": "#/texts/110"
             },
             "children": [],
             "content_layer": "body",
@@ -2211,13 +2170,13 @@
             "level": 2
         },
         {
-            "self_ref": "#/texts/115",
+            "self_ref": "#/texts/113",
             "parent": {
-                "$ref": "#/texts/112"
+                "$ref": "#/texts/110"
             },
             "children": [
                 {
-                    "$ref": "#/texts/116"
+                    "$ref": "#/texts/114"
                 }
             ],
             "content_layer": "body",
@@ -2225,6 +2184,38 @@
             "prov": [],
             "orig": "Condições de desenvolvimento da\r\n                        \n\r\n                         Podridão-de-carvão",
             "text": "Condições de desenvolvimento da\r\n                        \n\r\n                         Podridão-de-carvão",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/114",
+            "parent": {
+                "$ref": "#/texts/113"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Nas lavouras onde o preparo do solo não é adequado, com formação de camada compactada, as plantas desenvolvem sistema radicular superficial, não suportando deficiência hídrica e tornando-se mais vulneráveis ao ataque do fungo.",
+            "text": "Nas lavouras onde o preparo do solo não é adequado, com formação de camada compactada, as plantas desenvolvem sistema radicular superficial, não suportando deficiência hídrica e tornando-se mais vulneráveis ao ataque do fungo."
+        },
+        {
+            "self_ref": "#/texts/115",
+            "parent": {
+                "$ref": "#/texts/110"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/116"
+                },
+                {
+                    "$ref": "#/texts/117"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Sintomas da\r\n                        \n\r\n                         Podridão-de-carvão",
+            "text": "Sintomas da\r\n                        \n\r\n                         Podridão-de-carvão",
             "level": 2
         },
         {
@@ -2236,45 +2227,13 @@
             "content_layer": "body",
             "label": "text",
             "prov": [],
-            "orig": "Nas lavouras onde o preparo do solo não é adequado, com formação de camada compactada, as plantas desenvolvem sistema radicular superficial, não suportando deficiência hídrica e tornando-se mais vulneráveis ao ataque do fungo.",
-            "text": "Nas lavouras onde o preparo do solo não é adequado, com formação de camada compactada, as plantas desenvolvem sistema radicular superficial, não suportando deficiência hídrica e tornando-se mais vulneráveis ao ataque do fungo."
-        },
-        {
-            "self_ref": "#/texts/117",
-            "parent": {
-                "$ref": "#/texts/112"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/118"
-                },
-                {
-                    "$ref": "#/texts/119"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Sintomas da\r\n                        \n\r\n                         Podridão-de-carvão",
-            "text": "Sintomas da\r\n                        \n\r\n                         Podridão-de-carvão",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/118",
-            "parent": {
-                "$ref": "#/texts/117"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
             "orig": "O principal sintoma na lavoura são plantas com folhas inicialmente descoradas, que secam e tornam-se marrons. Quando as plantas são retiradas do solo, é possível observar que as raízes ficam cinza. Já a epiderme fica destacada, mostrando massa de microescleródios negros.",
             "text": "O principal sintoma na lavoura são plantas com folhas inicialmente descoradas, que secam e tornam-se marrons. Quando as plantas são retiradas do solo, é possível observar que as raízes ficam cinza. Já a epiderme fica destacada, mostrando massa de microescleródios negros."
         },
         {
-            "self_ref": "#/texts/119",
+            "self_ref": "#/texts/117",
             "parent": {
-                "$ref": "#/texts/117"
+                "$ref": "#/texts/115"
             },
             "children": [],
             "content_layer": "body",
@@ -2284,34 +2243,34 @@
             "text": "A infecção das raízes pode ocorrer desde o início da germinação, já que o fungo é um habitante natural dos solos. Lesões no colo da planta são de coloração marrom-avermelhada e superficiais."
         },
         {
-            "self_ref": "#/texts/120",
+            "self_ref": "#/texts/118",
             "parent": {
                 "$ref": "#/texts/16"
             },
             "children": [
                 {
-                    "$ref": "#/texts/121"
+                    "$ref": "#/texts/119"
                 },
                 {
-                    "$ref": "#/texts/122"
+                    "$ref": "#/texts/120"
+                },
+                {
+                    "$ref": "#/texts/121"
                 },
                 {
                     "$ref": "#/texts/123"
                 },
                 {
-                    "$ref": "#/texts/125"
+                    "$ref": "#/texts/126"
                 },
                 {
                     "$ref": "#/texts/128"
                 },
                 {
-                    "$ref": "#/texts/130"
+                    "$ref": "#/texts/129"
                 },
                 {
                     "$ref": "#/texts/131"
-                },
-                {
-                    "$ref": "#/texts/133"
                 }
             ],
             "content_layer": "body",
@@ -2322,21 +2281,21 @@
             "level": 1
         },
         {
-            "self_ref": "#/texts/121",
+            "self_ref": "#/texts/119",
             "parent": {
-                "$ref": "#/texts/120"
+                "$ref": "#/texts/118"
             },
             "children": [],
             "content_layer": "body",
             "label": "text",
             "prov": [],
-            "orig": "No final de ciclo, quando ocorre a maturação das plantas, há uma maior incidência do crestamento foliar de cercospora. Essa enfermidade faz parte de um complexo chamado de doenças de final de ciclo (DFCs), que podem antecipar a desfolha da lavoura, causando redução de produtividade.\r\n                        \n\n\n\n\n\n\n\n\r\n                          Crestamento foliar de cercospora (Crédito: C Godoy; M Meyer; A Henning/ Embrapa)",
-            "text": "No final de ciclo, quando ocorre a maturação das plantas, há uma maior incidência do crestamento foliar de cercospora. Essa enfermidade faz parte de um complexo chamado de doenças de final de ciclo (DFCs), que podem antecipar a desfolha da lavoura, causando redução de produtividade.\r\n                        \n\n\n\n\n\n\n\n\r\n                          Crestamento foliar de cercospora (Crédito: C Godoy; M Meyer; A Henning/ Embrapa)"
+            "orig": "No final de ciclo, quando ocorre a maturação das plantas, há uma maior incidência do crestamento foliar de cercospora. Essa enfermidade faz parte de um complexo chamado de doenças de final de ciclo (DFCs), que podem antecipar a desfolha da lavoura, causando redução de produtividade.\r\n                        \n\r\n                          Crestamento foliar de cercospora (Crédito: C Godoy; M Meyer; A Henning/ Embrapa)",
+            "text": "No final de ciclo, quando ocorre a maturação das plantas, há uma maior incidência do crestamento foliar de cercospora. Essa enfermidade faz parte de um complexo chamado de doenças de final de ciclo (DFCs), que podem antecipar a desfolha da lavoura, causando redução de produtividade.\r\n                        \n\r\n                          Crestamento foliar de cercospora (Crédito: C Godoy; M Meyer; A Henning/ Embrapa)"
         },
         {
-            "self_ref": "#/texts/122",
+            "self_ref": "#/texts/120",
             "parent": {
-                "$ref": "#/texts/120"
+                "$ref": "#/texts/118"
             },
             "children": [],
             "content_layer": "body",
@@ -2346,13 +2305,13 @@
             "text": "Veja também\r\n                         \r\n                         :\r\n                         \r\n                          Aprenda quais os grupos de maturação da soja e saiba como calculá-los"
         },
         {
-            "self_ref": "#/texts/123",
+            "self_ref": "#/texts/121",
             "parent": {
-                "$ref": "#/texts/120"
+                "$ref": "#/texts/118"
             },
             "children": [
                 {
-                    "$ref": "#/texts/124"
+                    "$ref": "#/texts/122"
                 }
             ],
             "content_layer": "body",
@@ -2360,6 +2319,38 @@
             "prov": [],
             "orig": "Condições de desenvolvimento do\r\n                        \n\r\n                         Crestamento foliar de cercospora",
             "text": "Condições de desenvolvimento do\r\n                        \n\r\n                         Crestamento foliar de cercospora",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/122",
+            "parent": {
+                "$ref": "#/texts/121"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O fungo está disseminado por todas as regiões produtoras de soja do país. Porém, é mais severo nas que são mais quentes e chuvosas. É o fungo mais frequentemente encontrado em lotes de sementes, embora não afete a germinação. Pode ser introduzido na lavoura por meio de semente infectada, se não for tratada com fungicida. Pode sobreviver em restos culturais. A doença é favorecida por temperaturas entre 23 °C e 27 °C e alta umidade.",
+            "text": "O fungo está disseminado por todas as regiões produtoras de soja do país. Porém, é mais severo nas que são mais quentes e chuvosas. É o fungo mais frequentemente encontrado em lotes de sementes, embora não afete a germinação. Pode ser introduzido na lavoura por meio de semente infectada, se não for tratada com fungicida. Pode sobreviver em restos culturais. A doença é favorecida por temperaturas entre 23 °C e 27 °C e alta umidade."
+        },
+        {
+            "self_ref": "#/texts/123",
+            "parent": {
+                "$ref": "#/texts/118"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/124"
+                },
+                {
+                    "$ref": "#/texts/125"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Sintomas do\r\n                        \n\r\n                         Crestamento foliar de cercospora",
+            "text": "Sintomas do\r\n                        \n\r\n                         Crestamento foliar de cercospora",
             "level": 2
         },
         {
@@ -2371,45 +2362,13 @@
             "content_layer": "body",
             "label": "text",
             "prov": [],
-            "orig": "O fungo está disseminado por todas as regiões produtoras de soja do país. Porém, é mais severo nas que são mais quentes e chuvosas. É o fungo mais frequentemente encontrado em lotes de sementes, embora não afete a germinação. Pode ser introduzido na lavoura por meio de semente infectada, se não for tratada com fungicida. Pode sobreviver em restos culturais. A doença é favorecida por temperaturas entre 23 °C e 27 °C e alta umidade.",
-            "text": "O fungo está disseminado por todas as regiões produtoras de soja do país. Porém, é mais severo nas que são mais quentes e chuvosas. É o fungo mais frequentemente encontrado em lotes de sementes, embora não afete a germinação. Pode ser introduzido na lavoura por meio de semente infectada, se não for tratada com fungicida. Pode sobreviver em restos culturais. A doença é favorecida por temperaturas entre 23 °C e 27 °C e alta umidade."
-        },
-        {
-            "self_ref": "#/texts/125",
-            "parent": {
-                "$ref": "#/texts/120"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/126"
-                },
-                {
-                    "$ref": "#/texts/127"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Sintomas do\r\n                        \n\r\n                         Crestamento foliar de cercospora",
-            "text": "Sintomas do\r\n                        \n\r\n                         Crestamento foliar de cercospora",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/126",
-            "parent": {
-                "$ref": "#/texts/125"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
             "orig": "O fungo ataca todas as partes da planta. Nas folhas, os sintomas são caracterizados por pontuações escuras (castanho-avermelhadas) e bordas difusas, as quais formam grandes manchas escuras que resultam crestamento (queimadura superficial) e desfolha prematura.",
             "text": "O fungo ataca todas as partes da planta. Nas folhas, os sintomas são caracterizados por pontuações escuras (castanho-avermelhadas) e bordas difusas, as quais formam grandes manchas escuras que resultam crestamento (queimadura superficial) e desfolha prematura."
         },
         {
-            "self_ref": "#/texts/127",
+            "self_ref": "#/texts/125",
             "parent": {
-                "$ref": "#/texts/125"
+                "$ref": "#/texts/123"
             },
             "children": [],
             "content_layer": "body",
@@ -2419,13 +2378,13 @@
             "text": "Nas vagens, aparecem pontuações vermelhas que evoluem para manchas castanho-avermelhadas. Por meio da vagem, o fungo atinge a semente e causa uma mancha púrpura no tegumento. Nas hastes, provoca manchas vermelhas, geralmente superficiais. Quando a infecção ocorre em nós, o fungo pode penetrar na haste e causar necrose de coloração avermelhada."
         },
         {
-            "self_ref": "#/texts/128",
+            "self_ref": "#/texts/126",
             "parent": {
-                "$ref": "#/texts/120"
+                "$ref": "#/texts/118"
             },
             "children": [
                 {
-                    "$ref": "#/texts/129"
+                    "$ref": "#/texts/127"
                 }
             ],
             "content_layer": "body",
@@ -2436,9 +2395,9 @@
             "level": 2
         },
         {
-            "self_ref": "#/texts/129",
+            "self_ref": "#/texts/127",
             "parent": {
-                "$ref": "#/texts/128"
+                "$ref": "#/texts/126"
             },
             "children": [],
             "content_layer": "body",
@@ -2448,9 +2407,9 @@
             "text": "É uma mancha foliar causada por um fungo que reside em restos de cultura. A planta pode apresentar os primeiros sinais em seu ciclo inicial, mas apresenta maior incidência na fase de maturação das plantas, associada ao crestamento foliar de cercospora. Essa enfermidade faz parte do complexo de doenças de final de ciclo (CFCs)."
         },
         {
-            "self_ref": "#/texts/130",
+            "self_ref": "#/texts/128",
             "parent": {
-                "$ref": "#/texts/120"
+                "$ref": "#/texts/118"
             },
             "children": [],
             "content_layer": "body",
@@ -2461,13 +2420,13 @@
             "level": 2
         },
         {
-            "self_ref": "#/texts/131",
+            "self_ref": "#/texts/129",
             "parent": {
-                "$ref": "#/texts/120"
+                "$ref": "#/texts/118"
             },
             "children": [
                 {
-                    "$ref": "#/texts/132"
+                    "$ref": "#/texts/130"
                 }
             ],
             "content_layer": "body",
@@ -2475,6 +2434,38 @@
             "prov": [],
             "orig": "Condições de desenvolvimento da\r\n                        \n\r\n                         Mancha-parda ou septoriose",
             "text": "Condições de desenvolvimento da\r\n                        \n\r\n                         Mancha-parda ou septoriose",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/130",
+            "parent": {
+                "$ref": "#/texts/129"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A infecção e o desenvolvimento da doença são favorecidos por condições quentes e úmidas. A dispersão dos esporos ocorre pela ação da água e do vento. O fungo necessita de um período mínimo de molhamento de 6 horas e temperaturas entre 15 °C e 30 °C para desenvolver sintomas.",
+            "text": "A infecção e o desenvolvimento da doença são favorecidos por condições quentes e úmidas. A dispersão dos esporos ocorre pela ação da água e do vento. O fungo necessita de um período mínimo de molhamento de 6 horas e temperaturas entre 15 °C e 30 °C para desenvolver sintomas."
+        },
+        {
+            "self_ref": "#/texts/131",
+            "parent": {
+                "$ref": "#/texts/118"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/132"
+                },
+                {
+                    "$ref": "#/texts/133"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Sintomas da\r\n                        \n\r\n                         Mancha-parda ou septoriose",
+            "text": "Sintomas da\r\n                        \n\r\n                         Mancha-parda ou septoriose",
             "level": 2
         },
         {
@@ -2486,45 +2477,13 @@
             "content_layer": "body",
             "label": "text",
             "prov": [],
-            "orig": "A infecção e o desenvolvimento da doença são favorecidos por condições quentes e úmidas. A dispersão dos esporos ocorre pela ação da água e do vento. O fungo necessita de um período mínimo de molhamento de 6 horas e temperaturas entre 15 °C e 30 °C para desenvolver sintomas.",
-            "text": "A infecção e o desenvolvimento da doença são favorecidos por condições quentes e úmidas. A dispersão dos esporos ocorre pela ação da água e do vento. O fungo necessita de um período mínimo de molhamento de 6 horas e temperaturas entre 15 °C e 30 °C para desenvolver sintomas."
-        },
-        {
-            "self_ref": "#/texts/133",
-            "parent": {
-                "$ref": "#/texts/120"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/134"
-                },
-                {
-                    "$ref": "#/texts/135"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Sintomas da\r\n                        \n\r\n                         Mancha-parda ou septoriose",
-            "text": "Sintomas da\r\n                        \n\r\n                         Mancha-parda ou septoriose",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/134",
-            "parent": {
-                "$ref": "#/texts/133"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
             "orig": "Aparecem cerca de duas semanas após a emergência, como pequenas pontuações ou manchas de contornos angulares, castanho-avermelhadas, nas folhas unifolioladas. Em situações favoráveis, a doença pode atingir os primeiros trifólios e causar severa desfolha. Nas folhas, surgem pontuações pardas, menores que 1 mm de diâmetro, as quais evoluem e formam manchas com halos amarelados e centro de contorno angular, de coloração castanha em ambas as faces, medindo até 4 mm de diâmetro. Em infecções severas, causa desfolha e maturação precoce.",
             "text": "Aparecem cerca de duas semanas após a emergência, como pequenas pontuações ou manchas de contornos angulares, castanho-avermelhadas, nas folhas unifolioladas. Em situações favoráveis, a doença pode atingir os primeiros trifólios e causar severa desfolha. Nas folhas, surgem pontuações pardas, menores que 1 mm de diâmetro, as quais evoluem e formam manchas com halos amarelados e centro de contorno angular, de coloração castanha em ambas as faces, medindo até 4 mm de diâmetro. Em infecções severas, causa desfolha e maturação precoce."
         },
         {
-            "self_ref": "#/texts/135",
+            "self_ref": "#/texts/133",
             "parent": {
-                "$ref": "#/texts/133"
+                "$ref": "#/texts/131"
             },
             "children": [],
             "content_layer": "body",
@@ -2534,28 +2493,28 @@
             "text": "NÃO DEIXE DE CONFERIR:\r\n                         \n\n\r\n                            Proteção de cultivos: até onde a tecnologia pode nos levar"
         },
         {
-            "self_ref": "#/texts/136",
+            "self_ref": "#/texts/134",
             "parent": {
                 "$ref": "#/texts/16"
             },
             "children": [
                 {
-                    "$ref": "#/texts/137"
+                    "$ref": "#/texts/135"
                 },
                 {
-                    "$ref": "#/texts/138"
+                    "$ref": "#/texts/136"
                 },
                 {
                     "$ref": "#/groups/4"
                 },
                 {
+                    "$ref": "#/texts/155"
+                },
+                {
+                    "$ref": "#/texts/156"
+                },
+                {
                     "$ref": "#/texts/157"
-                },
-                {
-                    "$ref": "#/texts/158"
-                },
-                {
-                    "$ref": "#/texts/159"
                 }
             ],
             "content_layer": "body",
@@ -2566,9 +2525,9 @@
             "level": 1
         },
         {
-            "self_ref": "#/texts/137",
+            "self_ref": "#/texts/135",
             "parent": {
-                "$ref": "#/texts/136"
+                "$ref": "#/texts/134"
             },
             "children": [],
             "content_layer": "body",
@@ -2578,9 +2537,9 @@
             "text": "Para\r\n                        \r\n                         controlar as doenças na cultura da soja\r\n                        \r\n                        e, ao mesmo tempo, realizar um sistema produtivo sustentável, o agricultor pode adotar um modelo integrado, conhecido como\r\n                        \r\n                         Manejo Integrado de Doenças (MID)\r\n                        \r\n                        . Consiste num conjunto de estratégias que evitam ou controlam doenças na lavoura, conciliando métodos que levam em consideração o custo de produção e o impacto sobre o ambiente."
         },
         {
-            "self_ref": "#/texts/138",
+            "self_ref": "#/texts/136",
             "parent": {
-                "$ref": "#/texts/136"
+                "$ref": "#/texts/134"
             },
             "children": [],
             "content_layer": "body",
@@ -2590,7 +2549,7 @@
             "text": "Dentre as ações propostas pelo MID, estão:"
         },
         {
-            "self_ref": "#/texts/139",
+            "self_ref": "#/texts/137",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2604,7 +2563,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/140",
+            "self_ref": "#/texts/138",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2618,7 +2577,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/141",
+            "self_ref": "#/texts/139",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2632,7 +2591,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/142",
+            "self_ref": "#/texts/140",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2646,7 +2605,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/143",
+            "self_ref": "#/texts/141",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2660,7 +2619,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/144",
+            "self_ref": "#/texts/142",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2674,7 +2633,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/145",
+            "self_ref": "#/texts/143",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2688,7 +2647,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/146",
+            "self_ref": "#/texts/144",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2702,7 +2661,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/147",
+            "self_ref": "#/texts/145",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2716,7 +2675,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/148",
+            "self_ref": "#/texts/146",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2730,7 +2689,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/149",
+            "self_ref": "#/texts/147",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2744,7 +2703,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/150",
+            "self_ref": "#/texts/148",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2758,7 +2717,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/151",
+            "self_ref": "#/texts/149",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2772,7 +2731,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/152",
+            "self_ref": "#/texts/150",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2786,7 +2745,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/153",
+            "self_ref": "#/texts/151",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2800,7 +2759,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/154",
+            "self_ref": "#/texts/152",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2814,7 +2773,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/155",
+            "self_ref": "#/texts/153",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2828,7 +2787,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/156",
+            "self_ref": "#/texts/154",
             "parent": {
                 "$ref": "#/groups/4"
             },
@@ -2842,9 +2801,9 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/157",
+            "self_ref": "#/texts/155",
             "parent": {
-                "$ref": "#/texts/136"
+                "$ref": "#/texts/134"
             },
             "children": [],
             "content_layer": "body",
@@ -2854,9 +2813,9 @@
             "text": "É importante utilizar fungicidas antes ou no início do estabelecimento do patógeno, visando maior eficácia de controle. Além disso, é necessário rotacionar mecanismos de ação e ingredientes ativos."
         },
         {
-            "self_ref": "#/texts/158",
+            "self_ref": "#/texts/156",
             "parent": {
-                "$ref": "#/texts/136"
+                "$ref": "#/texts/134"
             },
             "children": [],
             "content_layer": "body",
@@ -2866,9 +2825,9 @@
             "text": "Segundo Cláudia, todas as estratégias de controle devem ser utilizadas conjuntamente, desde o planejamento da lavoura, e sempre levando em conta as principais doenças presentes na região."
         },
         {
-            "self_ref": "#/texts/159",
+            "self_ref": "#/texts/157",
             "parent": {
-                "$ref": "#/texts/136"
+                "$ref": "#/texts/134"
             },
             "children": [],
             "content_layer": "body",
@@ -2878,11 +2837,17 @@
             "text": "De qualquer forma, todas as medidas de manejo e controle adotadas na lavoura devem estar em sintonia com as características de cada enfermidade."
         },
         {
-            "self_ref": "#/texts/160",
+            "self_ref": "#/texts/158",
             "parent": {
                 "$ref": "#/texts/16"
             },
             "children": [
+                {
+                    "$ref": "#/texts/159"
+                },
+                {
+                    "$ref": "#/texts/160"
+                },
                 {
                     "$ref": "#/texts/161"
                 },
@@ -2896,12 +2861,6 @@
                     "$ref": "#/texts/164"
                 },
                 {
-                    "$ref": "#/texts/165"
-                },
-                {
-                    "$ref": "#/texts/166"
-                },
-                {
                     "$ref": "#/groups/5"
                 }
             ],
@@ -2913,9 +2872,9 @@
             "level": 1
         },
         {
-            "self_ref": "#/texts/161",
+            "self_ref": "#/texts/159",
             "parent": {
-                "$ref": "#/texts/160"
+                "$ref": "#/texts/158"
             },
             "children": [],
             "content_layer": "body",
@@ -2925,9 +2884,9 @@
             "text": "O controle eficiente das doenças em soja é um desafio permanente. Crucial para o aumento dos atuais patamares de produtividade da cultura, segundo Cláudia. Ela destaca outra questão preocupante: a perda de ferramentas químicas em razão da seleção de inimigos resistentes."
         },
         {
-            "self_ref": "#/texts/162",
+            "self_ref": "#/texts/160",
             "parent": {
-                "$ref": "#/texts/160"
+                "$ref": "#/texts/158"
             },
             "children": [],
             "content_layer": "body",
@@ -2937,9 +2896,9 @@
             "text": "“Os fungos que incidem na cultura vêm sendo selecionados para resistência aos principais fungicidas sítio-específicos utilizados. Considerando a ferrugem-asiática, que é a doença que tem o maior potencial de dano para a cultura, a redução de eficiência de controle tem um impacto direto na produtividade”, alerta a pesquisadora."
         },
         {
-            "self_ref": "#/texts/163",
+            "self_ref": "#/texts/161",
             "parent": {
-                "$ref": "#/texts/160"
+                "$ref": "#/texts/158"
             },
             "children": [],
             "content_layer": "body",
@@ -2949,9 +2908,9 @@
             "text": "O produtor não pode dar nenhuma brecha às doenças por conta dos riscos que oferecem à lavoura. Precisa monitorar periodicamente e com detalhes os talhões. Uma boa pedida é utilizar as ferramentas da agricultura digital, como as funcionalidades da plataforma\r\n                        \n\r\n                          Climate FieldView\r\n                         \n\n\r\n                         ™\r\n                        \r\n                        , da\r\n                        \n\r\n                          Bayer\r\n                         \n\r\n                        ."
         },
         {
-            "self_ref": "#/texts/164",
+            "self_ref": "#/texts/162",
             "parent": {
-                "$ref": "#/texts/160"
+                "$ref": "#/texts/158"
             },
             "children": [],
             "content_layer": "body",
@@ -2961,9 +2920,9 @@
             "text": "Ao analisar os mapas e imagens do\r\n                        \n\r\n                          Diagnóstico FieldView\r\n                         \n\n\r\n                         ™\r\n                        \r\n                        , por exemplo, o produtor tem condições de detectar pontos da lavoura com problemas de desenvolvimento, o que pode ser um indicativo de áreas com presença de patógenos."
         },
         {
-            "self_ref": "#/texts/165",
+            "self_ref": "#/texts/163",
             "parent": {
-                "$ref": "#/texts/160"
+                "$ref": "#/texts/158"
             },
             "children": [],
             "content_layer": "body",
@@ -2973,9 +2932,9 @@
             "text": "Com o apoio das funcionalidades da agricultura digital, é possível acompanhar de perto todas as fases da soja, fornecendo dados precisos e com agilidade, ajudando o agricultor a tomar medidas assertivas, sempre que necessário. Para o controle e manejo de doenças, esse suporte pode ser decisivo."
         },
         {
-            "self_ref": "#/texts/166",
+            "self_ref": "#/texts/164",
             "parent": {
-                "$ref": "#/texts/160"
+                "$ref": "#/texts/158"
             },
             "children": [],
             "content_layer": "body",
@@ -2985,13 +2944,13 @@
             "text": "ASSISTA A UM EPISÓDIO DO FIELDVIEW TV E SAIBA MAIS:\r\n                        \n\n\r\n                          Qual a importância do vazio sanitário?"
         },
         {
-            "self_ref": "#/texts/167",
+            "self_ref": "#/texts/165",
             "parent": {
                 "$ref": "#/groups/5"
             },
             "children": [
                 {
-                    "$ref": "#/texts/168"
+                    "$ref": "#/texts/166"
                 }
             ],
             "content_layer": "body",
@@ -3002,9 +2961,9 @@
             "level": 3
         },
         {
-            "self_ref": "#/texts/168",
+            "self_ref": "#/texts/166",
             "parent": {
-                "$ref": "#/texts/167"
+                "$ref": "#/texts/165"
             },
             "children": [],
             "content_layer": "body",
@@ -3014,11 +2973,17 @@
             "text": "Compartilhar:"
         },
         {
-            "self_ref": "#/texts/169",
+            "self_ref": "#/texts/167",
             "parent": {
                 "$ref": "#/texts/16"
             },
             "children": [
+                {
+                    "$ref": "#/texts/168"
+                },
+                {
+                    "$ref": "#/texts/169"
+                },
                 {
                     "$ref": "#/texts/170"
                 },
@@ -3026,38 +2991,23 @@
                     "$ref": "#/texts/171"
                 },
                 {
-                    "$ref": "#/pictures/3"
-                },
-                {
                     "$ref": "#/texts/172"
                 },
                 {
                     "$ref": "#/texts/173"
-                },
-                {
-                    "$ref": "#/pictures/4"
-                },
-                {
-                    "$ref": "#/texts/174"
-                },
-                {
-                    "$ref": "#/texts/175"
-                },
-                {
-                    "$ref": "#/pictures/5"
                 }
             ],
             "content_layer": "body",
             "label": "section_header",
             "prov": [],
-            "orig": "POSTS\r\n                   \n\n\r\n                    MAIS LIDOS",
-            "text": "POSTS\r\n                   \n\n\r\n                    MAIS LIDOS",
+            "orig": "POSTS\r\n                   \r\n                    MAIS LIDOS",
+            "text": "POSTS\r\n                   \r\n                    MAIS LIDOS",
             "level": 1
         },
         {
-            "self_ref": "#/texts/170",
+            "self_ref": "#/texts/168",
             "parent": {
-                "$ref": "#/texts/169"
+                "$ref": "#/texts/167"
             },
             "children": [],
             "content_layer": "body",
@@ -3067,9 +3017,9 @@
             "text": "Agricultura Digital: o que é, como fazer e tendências"
         },
         {
-            "self_ref": "#/texts/171",
+            "self_ref": "#/texts/169",
             "parent": {
-                "$ref": "#/texts/169"
+                "$ref": "#/texts/167"
             },
             "children": [],
             "content_layer": "body",
@@ -3079,9 +3029,9 @@
             "text": "Aprenda quais os grupos de maturação da soja e saiba como calculá-los"
         },
         {
-            "self_ref": "#/texts/172",
+            "self_ref": "#/texts/170",
             "parent": {
-                "$ref": "#/texts/169"
+                "$ref": "#/texts/167"
             },
             "children": [],
             "content_layer": "body",
@@ -3091,9 +3041,33 @@
             "text": "Tecnologia no agronegócio: conheça 7 inovações tecnológicas"
         },
         {
+            "self_ref": "#/texts/171",
+            "parent": {
+                "$ref": "#/texts/167"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "#ferramentas digitais\r\n           \r\n          \r\n          \r\n            #agronegócio\r\n           \r\n          \r\n          \r\n            #software\r\n           \r\n          \r\n          \r\n            #Inovação e Tecnologia\r\n           \r\n          \r\n          \r\n            #artigos",
+            "text": "#ferramentas digitais\r\n           \r\n          \r\n          \r\n            #agronegócio\r\n           \r\n          \r\n          \r\n            #software\r\n           \r\n          \r\n          \r\n            #Inovação e Tecnologia\r\n           \r\n          \r\n          \r\n            #artigos"
+        },
+        {
+            "self_ref": "#/texts/172",
+            "parent": {
+                "$ref": "#/texts/167"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Tecnologia no campo: qual a importância e os benefícios",
+            "text": "Tecnologia no campo: qual a importância e os benefícios"
+        },
+        {
             "self_ref": "#/texts/173",
             "parent": {
-                "$ref": "#/texts/169"
+                "$ref": "#/texts/167"
             },
             "children": [],
             "content_layer": "body",
@@ -3105,49 +3079,60 @@
         {
             "self_ref": "#/texts/174",
             "parent": {
-                "$ref": "#/texts/169"
+                "$ref": "#/texts/16"
             },
-            "children": [],
+            "children": [
+                {
+                    "$ref": "#/texts/175"
+                },
+                {
+                    "$ref": "#/texts/176"
+                }
+            ],
             "content_layer": "body",
-            "label": "text",
+            "label": "section_header",
             "prov": [],
-            "orig": "Tecnologia no campo: qual a importância e os benefícios",
-            "text": "Tecnologia no campo: qual a importância e os benefícios"
+            "orig": "ASSINE NOSSA\r\n                      \r\n                       NEWSLETTER",
+            "text": "ASSINE NOSSA\r\n                      \r\n                       NEWSLETTER",
+            "level": 1
         },
         {
             "self_ref": "#/texts/175",
             "parent": {
-                "$ref": "#/texts/169"
+                "$ref": "#/texts/174"
             },
             "children": [],
             "content_layer": "body",
             "label": "text",
             "prov": [],
-            "orig": "#ferramentas digitais\r\n           \r\n          \r\n          \r\n            #agronegócio\r\n           \r\n          \r\n          \r\n            #software\r\n           \r\n          \r\n          \r\n            #Inovação e Tecnologia\r\n           \r\n          \r\n          \r\n            #artigos",
-            "text": "#ferramentas digitais\r\n           \r\n          \r\n          \r\n            #agronegócio\r\n           \r\n          \r\n          \r\n            #software\r\n           \r\n          \r\n          \r\n            #Inovação e Tecnologia\r\n           \r\n          \r\n          \r\n            #artigos"
+            "orig": "Prometemos não utilizar suas informações para enviar qualquer tipo de SPAM.",
+            "text": "Prometemos não utilizar suas informações para enviar qualquer tipo de SPAM."
         },
         {
             "self_ref": "#/texts/176",
             "parent": {
-                "$ref": "#/texts/16"
+                "$ref": "#/texts/174"
             },
             "children": [
                 {
                     "$ref": "#/texts/177"
                 },
                 {
-                    "$ref": "#/pictures/6"
+                    "$ref": "#/texts/178"
                 },
                 {
-                    "$ref": "#/texts/178"
+                    "$ref": "#/texts/179"
+                },
+                {
+                    "$ref": "#/texts/180"
                 }
             ],
             "content_layer": "body",
             "label": "section_header",
             "prov": [],
-            "orig": "ASSINE NOSSA\r\n                      \n\n\r\n                       NEWSLETTER",
-            "text": "ASSINE NOSSA\r\n                      \n\n\r\n                       NEWSLETTER",
-            "level": 1
+            "orig": "SOMOS HISTÓRIAS DE\r\n                 \r\n                  SUCESSO",
+            "text": "SOMOS HISTÓRIAS DE\r\n                 \r\n                  SUCESSO",
+            "level": 2
         },
         {
             "self_ref": "#/texts/177",
@@ -3158,54 +3143,13 @@
             "content_layer": "body",
             "label": "text",
             "prov": [],
-            "orig": "Prometemos não utilizar suas informações para enviar qualquer tipo de SPAM.",
-            "text": "Prometemos não utilizar suas informações para enviar qualquer tipo de SPAM."
+            "orig": "Confira casos reais de lavoura que estão conquistando resultados extraordinários contadas por quem entende melhor do que ninguém: você.",
+            "text": "Confira casos reais de lavoura que estão conquistando resultados extraordinários contadas por quem entende melhor do que ninguém: você."
         },
         {
             "self_ref": "#/texts/178",
             "parent": {
                 "$ref": "#/texts/176"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/179"
-                },
-                {
-                    "$ref": "#/texts/180"
-                },
-                {
-                    "$ref": "#/texts/181"
-                },
-                {
-                    "$ref": "#/pictures/7"
-                },
-                {
-                    "$ref": "#/texts/182"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "SOMOS HISTÓRIAS DE\r\n                 \n\n\r\n                  SUCESSO",
-            "text": "SOMOS HISTÓRIAS DE\r\n                 \n\n\r\n                  SUCESSO",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/179",
-            "parent": {
-                "$ref": "#/texts/178"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Confira casos reais de lavoura que estão conquistando resultados extraordinários contadas por quem entende melhor do que ninguém: você.",
-            "text": "Confira casos reais de lavoura que estão conquistando resultados extraordinários contadas por quem entende melhor do que ninguém: você."
-        },
-        {
-            "self_ref": "#/texts/180",
-            "parent": {
-                "$ref": "#/texts/178"
             },
             "children": [],
             "content_layer": "body",
@@ -3215,9 +3159,9 @@
             "text": "Maiores produtores agrícolas do mundo e o que eles ensinam sobre agricultura digital"
         },
         {
-            "self_ref": "#/texts/181",
+            "self_ref": "#/texts/179",
             "parent": {
-                "$ref": "#/texts/178"
+                "$ref": "#/texts/176"
             },
             "children": [],
             "content_layer": "body",
@@ -3227,25 +3171,19 @@
             "text": "Entenda as diferenças entre a agricultura tradicional e a moderna"
         },
         {
-            "self_ref": "#/texts/182",
+            "self_ref": "#/texts/180",
             "parent": {
-                "$ref": "#/texts/178"
+                "$ref": "#/texts/176"
             },
             "children": [
                 {
                     "$ref": "#/groups/6"
                 },
                 {
-                    "$ref": "#/texts/186"
+                    "$ref": "#/texts/184"
                 },
                 {
-                    "$ref": "#/texts/187"
-                },
-                {
-                    "$ref": "#/pictures/8"
-                },
-                {
-                    "$ref": "#/pictures/9"
+                    "$ref": "#/texts/185"
                 },
                 {
                     "$ref": "#/groups/7"
@@ -3262,7 +3200,7 @@
             "level": 3
         },
         {
-            "self_ref": "#/texts/183",
+            "self_ref": "#/texts/181",
             "parent": {
                 "$ref": "#/groups/6"
             },
@@ -3276,7 +3214,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/184",
+            "self_ref": "#/texts/182",
             "parent": {
                 "$ref": "#/groups/6"
             },
@@ -3290,7 +3228,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/185",
+            "self_ref": "#/texts/183",
             "parent": {
                 "$ref": "#/groups/6"
             },
@@ -3304,9 +3242,9 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/186",
+            "self_ref": "#/texts/184",
             "parent": {
-                "$ref": "#/texts/182"
+                "$ref": "#/texts/180"
             },
             "children": [],
             "content_layer": "body",
@@ -3316,9 +3254,9 @@
             "text": "Nossos serviços fornecem estimativas ou recomendações baseadas em modelos. Estes não garantem \r\n    resultados. Consulte seu agrônomo, consultor e outros profissionais de serviços antes de tomar \r\n    decisões financeiras, de gerenciamento de riscos e de práticas agrícolas."
         },
         {
-            "self_ref": "#/texts/187",
+            "self_ref": "#/texts/185",
             "parent": {
-                "$ref": "#/texts/182"
+                "$ref": "#/texts/180"
             },
             "children": [],
             "content_layer": "body",
@@ -3328,7 +3266,7 @@
             "text": "Tome decisões diárias sobre sua lavoura de forma rápida, fácil e confiável. Faça o download do aplicativo hoje!"
         },
         {
-            "self_ref": "#/texts/188",
+            "self_ref": "#/texts/186",
             "parent": {
                 "$ref": "#/groups/7"
             },
@@ -3346,7 +3284,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/189",
+            "self_ref": "#/texts/187",
             "parent": {
                 "$ref": "#/groups/8"
             },
@@ -3360,7 +3298,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/190",
+            "self_ref": "#/texts/188",
             "parent": {
                 "$ref": "#/groups/8"
             },
@@ -3374,7 +3312,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/191",
+            "self_ref": "#/texts/189",
             "parent": {
                 "$ref": "#/groups/8"
             },
@@ -3388,7 +3326,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/192",
+            "self_ref": "#/texts/190",
             "parent": {
                 "$ref": "#/groups/7"
             },
@@ -3406,7 +3344,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/193",
+            "self_ref": "#/texts/191",
             "parent": {
                 "$ref": "#/groups/9"
             },
@@ -3420,7 +3358,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/194",
+            "self_ref": "#/texts/192",
             "parent": {
                 "$ref": "#/groups/9"
             },
@@ -3434,7 +3372,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/195",
+            "self_ref": "#/texts/193",
             "parent": {
                 "$ref": "#/groups/9"
             },
@@ -3448,7 +3386,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/196",
+            "self_ref": "#/texts/194",
             "parent": {
                 "$ref": "#/groups/9"
             },
@@ -3462,7 +3400,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/197",
+            "self_ref": "#/texts/195",
             "parent": {
                 "$ref": "#/groups/7"
             },
@@ -3480,7 +3418,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/198",
+            "self_ref": "#/texts/196",
             "parent": {
                 "$ref": "#/groups/10"
             },
@@ -3494,7 +3432,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/199",
+            "self_ref": "#/texts/197",
             "parent": {
                 "$ref": "#/groups/10"
             },
@@ -3508,7 +3446,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/200",
+            "self_ref": "#/texts/198",
             "parent": {
                 "$ref": "#/groups/11"
             },
@@ -3517,133 +3455,70 @@
                     "$ref": "#/groups/12"
                 },
                 {
-                    "$ref": "#/pictures/10"
+                    "$ref": "#/texts/202"
+                },
+                {
+                    "$ref": "#/texts/203"
                 },
                 {
                     "$ref": "#/texts/204"
                 },
                 {
-                    "$ref": "#/pictures/11"
-                },
-                {
                     "$ref": "#/texts/205"
-                },
-                {
-                    "$ref": "#/pictures/12"
                 },
                 {
                     "$ref": "#/texts/206"
                 },
                 {
-                    "$ref": "#/pictures/13"
-                },
-                {
                     "$ref": "#/texts/207"
-                },
-                {
-                    "$ref": "#/pictures/14"
                 },
                 {
                     "$ref": "#/texts/208"
                 },
                 {
-                    "$ref": "#/pictures/15"
-                },
-                {
                     "$ref": "#/texts/209"
-                },
-                {
-                    "$ref": "#/pictures/16"
                 },
                 {
                     "$ref": "#/texts/210"
                 },
                 {
-                    "$ref": "#/pictures/17"
-                },
-                {
                     "$ref": "#/texts/211"
-                },
-                {
-                    "$ref": "#/pictures/18"
                 },
                 {
                     "$ref": "#/texts/212"
                 },
                 {
-                    "$ref": "#/pictures/19"
-                },
-                {
                     "$ref": "#/texts/213"
-                },
-                {
-                    "$ref": "#/pictures/20"
                 },
                 {
                     "$ref": "#/texts/214"
                 },
                 {
-                    "$ref": "#/pictures/21"
-                },
-                {
                     "$ref": "#/texts/215"
-                },
-                {
-                    "$ref": "#/pictures/22"
                 },
                 {
                     "$ref": "#/texts/216"
                 },
                 {
-                    "$ref": "#/pictures/23"
-                },
-                {
                     "$ref": "#/texts/217"
-                },
-                {
-                    "$ref": "#/pictures/24"
                 },
                 {
                     "$ref": "#/texts/218"
                 },
                 {
-                    "$ref": "#/pictures/25"
-                },
-                {
                     "$ref": "#/texts/219"
-                },
-                {
-                    "$ref": "#/pictures/26"
                 },
                 {
                     "$ref": "#/texts/220"
                 },
                 {
-                    "$ref": "#/pictures/27"
-                },
-                {
                     "$ref": "#/texts/221"
-                },
-                {
-                    "$ref": "#/pictures/28"
                 },
                 {
                     "$ref": "#/texts/222"
                 },
                 {
-                    "$ref": "#/pictures/29"
-                },
-                {
                     "$ref": "#/texts/223"
-                },
-                {
-                    "$ref": "#/pictures/30"
-                },
-                {
-                    "$ref": "#/texts/224"
-                },
-                {
-                    "$ref": "#/texts/225"
                 },
                 {
                     "$ref": "#/groups/13"
@@ -3657,7 +3532,7 @@
             "level": 5
         },
         {
-            "self_ref": "#/texts/201",
+            "self_ref": "#/texts/199",
             "parent": {
                 "$ref": "#/groups/12"
             },
@@ -3671,7 +3546,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/202",
+            "self_ref": "#/texts/200",
             "parent": {
                 "$ref": "#/groups/12"
             },
@@ -3685,7 +3560,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/203",
+            "self_ref": "#/texts/201",
             "parent": {
                 "$ref": "#/groups/12"
             },
@@ -3699,9 +3574,9 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/204",
+            "self_ref": "#/texts/202",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3711,9 +3586,9 @@
             "text": "Brasil"
         },
         {
-            "self_ref": "#/texts/205",
+            "self_ref": "#/texts/203",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3723,9 +3598,9 @@
             "text": "Argentina"
         },
         {
-            "self_ref": "#/texts/206",
+            "self_ref": "#/texts/204",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3735,9 +3610,9 @@
             "text": "België"
         },
         {
-            "self_ref": "#/texts/207",
+            "self_ref": "#/texts/205",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3747,9 +3622,9 @@
             "text": "България"
         },
         {
-            "self_ref": "#/texts/208",
+            "self_ref": "#/texts/206",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3759,9 +3634,9 @@
             "text": "Canada"
         },
         {
-            "self_ref": "#/texts/209",
+            "self_ref": "#/texts/207",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3771,9 +3646,9 @@
             "text": "Česká republika"
         },
         {
-            "self_ref": "#/texts/210",
+            "self_ref": "#/texts/208",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3783,9 +3658,9 @@
             "text": "Deutschland"
         },
         {
-            "self_ref": "#/texts/211",
+            "self_ref": "#/texts/209",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3795,9 +3670,9 @@
             "text": "España"
         },
         {
-            "self_ref": "#/texts/212",
+            "self_ref": "#/texts/210",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3807,9 +3682,9 @@
             "text": "France"
         },
         {
-            "self_ref": "#/texts/213",
+            "self_ref": "#/texts/211",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3819,9 +3694,9 @@
             "text": "Ελλάδα"
         },
         {
-            "self_ref": "#/texts/214",
+            "self_ref": "#/texts/212",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3831,9 +3706,9 @@
             "text": "Magyarország"
         },
         {
-            "self_ref": "#/texts/215",
+            "self_ref": "#/texts/213",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3843,9 +3718,9 @@
             "text": "Italia"
         },
         {
-            "self_ref": "#/texts/216",
+            "self_ref": "#/texts/214",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3855,9 +3730,9 @@
             "text": "Polska"
         },
         {
-            "self_ref": "#/texts/217",
+            "self_ref": "#/texts/215",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3867,9 +3742,9 @@
             "text": "Portugal"
         },
         {
-            "self_ref": "#/texts/218",
+            "self_ref": "#/texts/216",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3879,9 +3754,9 @@
             "text": "Paraguay"
         },
         {
-            "self_ref": "#/texts/219",
+            "self_ref": "#/texts/217",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3891,9 +3766,9 @@
             "text": "România"
         },
         {
-            "self_ref": "#/texts/220",
+            "self_ref": "#/texts/218",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3903,9 +3778,9 @@
             "text": "Türkiye"
         },
         {
-            "self_ref": "#/texts/221",
+            "self_ref": "#/texts/219",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3915,9 +3790,9 @@
             "text": "Україна"
         },
         {
-            "self_ref": "#/texts/222",
+            "self_ref": "#/texts/220",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3927,9 +3802,9 @@
             "text": "United Kingdom"
         },
         {
-            "self_ref": "#/texts/223",
+            "self_ref": "#/texts/221",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3939,9 +3814,9 @@
             "text": "United States"
         },
         {
-            "self_ref": "#/texts/224",
+            "self_ref": "#/texts/222",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3951,9 +3826,9 @@
             "text": "Uruguay"
         },
         {
-            "self_ref": "#/texts/225",
+            "self_ref": "#/texts/223",
             "parent": {
-                "$ref": "#/texts/200"
+                "$ref": "#/texts/198"
             },
             "children": [],
             "content_layer": "body",
@@ -3963,7 +3838,7 @@
             "text": "© 2023 Climate Corporation Todos os Direitos Reservados"
         },
         {
-            "self_ref": "#/texts/226",
+            "self_ref": "#/texts/224",
             "parent": {
                 "$ref": "#/groups/13"
             },
@@ -3981,7 +3856,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/227",
+            "self_ref": "#/texts/225",
             "parent": {
                 "$ref": "#/groups/14"
             },
@@ -3995,7 +3870,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/228",
+            "self_ref": "#/texts/226",
             "parent": {
                 "$ref": "#/groups/14"
             },
@@ -4009,7 +3884,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/229",
+            "self_ref": "#/texts/227",
             "parent": {
                 "$ref": "#/groups/14"
             },
@@ -4023,7 +3898,7 @@
             "marker": "-"
         },
         {
-            "self_ref": "#/texts/230",
+            "self_ref": "#/texts/228",
             "parent": {
                 "$ref": "#/groups/14"
             },
@@ -4037,442 +3912,7 @@
             "marker": "-"
         }
     ],
-    "pictures": [
-        {
-            "self_ref": "#/pictures/0",
-            "parent": {
-                "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "furniture",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/1",
-            "parent": {
-                "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "furniture",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/2",
-            "parent": {
-                "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "furniture",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/3",
-            "parent": {
-                "$ref": "#/texts/169"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/4",
-            "parent": {
-                "$ref": "#/texts/169"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/5",
-            "parent": {
-                "$ref": "#/texts/169"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/6",
-            "parent": {
-                "$ref": "#/texts/176"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/7",
-            "parent": {
-                "$ref": "#/texts/178"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/8",
-            "parent": {
-                "$ref": "#/texts/182"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/9",
-            "parent": {
-                "$ref": "#/texts/182"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/10",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/11",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/12",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/13",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/14",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/15",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/16",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/17",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/18",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/19",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/20",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/21",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/22",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/23",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/24",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/25",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/26",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/27",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/28",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/29",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/30",
-            "parent": {
-                "$ref": "#/texts/200"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        }
-    ],
+    "pictures": [],
     "tables": [],
     "key_value_items": [],
     "form_items": [],

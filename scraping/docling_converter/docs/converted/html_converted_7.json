@@ -1,11 +1,11 @@
 {
     "schema_name": "DoclingDocument",
     "version": "1.3.0",
-    "name": "temp_input",
+    "name": "tmpgqo02l5g",
     "origin": {
         "mimetype": "text/html",
-        "binary_hash": 6443890069995173376,
-        "filename": "temp_input.html"
+        "binary_hash": 10484548535551059544,
+        "filename": "tmpgqo02l5g.html"
     },
     "furniture": {
         "self_ref": "#/furniture",
@@ -17,18 +17,6 @@
     "body": {
         "self_ref": "#/body",
         "children": [
-            {
-                "$ref": "#/pictures/0"
-            },
-            {
-                "$ref": "#/pictures/1"
-            },
-            {
-                "$ref": "#/pictures/2"
-            },
-            {
-                "$ref": "#/pictures/3"
-            },
             {
                 "$ref": "#/groups/0"
             },
@@ -151,8 +139,8 @@
             "content_layer": "body",
             "label": "list_item",
             "prov": [],
-            "orig": "Search for:\r\n            \n\n\n\n\r\n             Search Button",
-            "text": "Search for:\r\n            \n\n\n\n\r\n             Search Button",
+            "orig": "Search for:\r\n            \n\n\n\r\n             Search Button",
+            "text": "Search for:\r\n            \n\n\n\r\n             Search Button",
             "enumerated": false,
             "marker": "-"
         },
@@ -169,64 +157,7 @@
             "text": "Carregando..."
         }
     ],
-    "pictures": [
-        {
-            "self_ref": "#/pictures/0",
-            "parent": {
-                "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/1",
-            "parent": {
-                "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/2",
-            "parent": {
-                "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        },
-        {
-            "self_ref": "#/pictures/3",
-            "parent": {
-                "$ref": "#/body"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "picture",
-            "prov": [],
-            "captions": [],
-            "references": [],
-            "footnotes": [],
-            "annotations": []
-        }
-    ],
+    "pictures": [],
     "tables": [],
     "key_value_items": [],
     "form_items": [],

@@ -9,6 +9,12 @@ def fetch_data():
             response = requests.get(url)
             if response.status_code == 200:
                 soup = BeautifulSoup(response.text, 'html.parser')
+
+                # Extract the HTML content
+                for tag in soup.find_all():
+                    if not tag.get_text(strip=True):
+                        tag.decompose()
+                    
                 html_data = soup.prettify()
                 results.append(html_data)
             else:

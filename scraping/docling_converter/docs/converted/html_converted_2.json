@@ -1,0 +1,4178 @@
+{
+    "schema_name": "DoclingDocument",
+    "version": "1.3.0",
+    "name": "tmpu01c9j1o",
+    "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 17296692515926362557,
+        "filename": "tmpu01c9j1o.html"
+    },
+    "furniture": {
+        "self_ref": "#/furniture",
+        "children": [],
+        "content_layer": "furniture",
+        "name": "_root_",
+        "label": "unspecified"
+    },
+    "body": {
+        "self_ref": "#/body",
+        "children": [
+            {
+                "$ref": "#/pictures/0"
+            },
+            {
+                "$ref": "#/groups/0"
+            },
+            {
+                "$ref": "#/pictures/1"
+            },
+            {
+                "$ref": "#/pictures/2"
+            },
+            {
+                "$ref": "#/groups/1"
+            },
+            {
+                "$ref": "#/pictures/3"
+            },
+            {
+                "$ref": "#/texts/15"
+            },
+            {
+                "$ref": "#/texts/16"
+            },
+            {
+                "$ref": "#/texts/17"
+            },
+            {
+                "$ref": "#/texts/18"
+            },
+            {
+                "$ref": "#/pictures/4"
+            },
+            {
+                "$ref": "#/texts/19"
+            },
+            {
+                "$ref": "#/texts/20"
+            },
+            {
+                "$ref": "#/texts/21"
+            },
+            {
+                "$ref": "#/texts/22"
+            },
+            {
+                "$ref": "#/pictures/5"
+            },
+            {
+                "$ref": "#/texts/23"
+            },
+            {
+                "$ref": "#/texts/24"
+            },
+            {
+                "$ref": "#/texts/25"
+            },
+            {
+                "$ref": "#/texts/26"
+            },
+            {
+                "$ref": "#/pictures/6"
+            },
+            {
+                "$ref": "#/texts/27"
+            },
+            {
+                "$ref": "#/texts/28"
+            },
+            {
+                "$ref": "#/texts/29"
+            },
+            {
+                "$ref": "#/texts/30"
+            },
+            {
+                "$ref": "#/pictures/7"
+            },
+            {
+                "$ref": "#/texts/31"
+            },
+            {
+                "$ref": "#/texts/32"
+            },
+            {
+                "$ref": "#/texts/33"
+            },
+            {
+                "$ref": "#/texts/34"
+            },
+            {
+                "$ref": "#/pictures/8"
+            },
+            {
+                "$ref": "#/texts/35"
+            },
+            {
+                "$ref": "#/texts/36"
+            },
+            {
+                "$ref": "#/texts/37"
+            },
+            {
+                "$ref": "#/texts/38"
+            },
+            {
+                "$ref": "#/pictures/9"
+            },
+            {
+                "$ref": "#/texts/39"
+            },
+            {
+                "$ref": "#/texts/40"
+            },
+            {
+                "$ref": "#/texts/41"
+            },
+            {
+                "$ref": "#/texts/42"
+            },
+            {
+                "$ref": "#/pictures/10"
+            },
+            {
+                "$ref": "#/texts/43"
+            },
+            {
+                "$ref": "#/texts/44"
+            },
+            {
+                "$ref": "#/texts/45"
+            },
+            {
+                "$ref": "#/texts/46"
+            },
+            {
+                "$ref": "#/pictures/11"
+            },
+            {
+                "$ref": "#/texts/47"
+            },
+            {
+                "$ref": "#/texts/48"
+            },
+            {
+                "$ref": "#/texts/49"
+            },
+            {
+                "$ref": "#/texts/50"
+            },
+            {
+                "$ref": "#/pictures/12"
+            },
+            {
+                "$ref": "#/texts/51"
+            },
+            {
+                "$ref": "#/texts/52"
+            },
+            {
+                "$ref": "#/texts/53"
+            },
+            {
+                "$ref": "#/texts/54"
+            },
+            {
+                "$ref": "#/pictures/13"
+            },
+            {
+                "$ref": "#/texts/55"
+            },
+            {
+                "$ref": "#/texts/56"
+            },
+            {
+                "$ref": "#/texts/57"
+            },
+            {
+                "$ref": "#/texts/58"
+            },
+            {
+                "$ref": "#/pictures/14"
+            },
+            {
+                "$ref": "#/texts/59"
+            },
+            {
+                "$ref": "#/texts/60"
+            },
+            {
+                "$ref": "#/texts/61"
+            },
+            {
+                "$ref": "#/texts/62"
+            },
+            {
+                "$ref": "#/pictures/15"
+            },
+            {
+                "$ref": "#/texts/63"
+            },
+            {
+                "$ref": "#/texts/64"
+            },
+            {
+                "$ref": "#/texts/65"
+            },
+            {
+                "$ref": "#/texts/66"
+            },
+            {
+                "$ref": "#/texts/67"
+            },
+            {
+                "$ref": "#/texts/68"
+            },
+            {
+                "$ref": "#/texts/72"
+            }
+        ],
+        "content_layer": "body",
+        "name": "_root_",
+        "label": "unspecified"
+    },
+    "groups": [
+        {
+            "self_ref": "#/groups/0",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/0"
+                },
+                {
+                    "$ref": "#/texts/1"
+                },
+                {
+                    "$ref": "#/texts/2"
+                },
+                {
+                    "$ref": "#/texts/3"
+                },
+                {
+                    "$ref": "#/texts/4"
+                }
+            ],
+            "content_layer": "furniture",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/1",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/5"
+                },
+                {
+                    "$ref": "#/texts/6"
+                },
+                {
+                    "$ref": "#/texts/7"
+                },
+                {
+                    "$ref": "#/texts/8"
+                },
+                {
+                    "$ref": "#/texts/9"
+                },
+                {
+                    "$ref": "#/texts/10"
+                },
+                {
+                    "$ref": "#/texts/11"
+                },
+                {
+                    "$ref": "#/texts/12"
+                },
+                {
+                    "$ref": "#/texts/13"
+                },
+                {
+                    "$ref": "#/texts/14"
+                }
+            ],
+            "content_layer": "furniture",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/2",
+            "parent": {
+                "$ref": "#/texts/88"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/92"
+                }
+            ],
+            "content_layer": "body",
+            "name": "header-3",
+            "label": "section"
+        },
+        {
+            "self_ref": "#/groups/3",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/4",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/151"
+                },
+                {
+                    "$ref": "#/texts/152"
+                },
+                {
+                    "$ref": "#/texts/153"
+                },
+                {
+                    "$ref": "#/texts/154"
+                },
+                {
+                    "$ref": "#/texts/155"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/5",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/157"
+                },
+                {
+                    "$ref": "#/texts/158"
+                },
+                {
+                    "$ref": "#/texts/159"
+                },
+                {
+                    "$ref": "#/texts/160"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/6",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/161"
+                },
+                {
+                    "$ref": "#/texts/162"
+                },
+                {
+                    "$ref": "#/texts/163"
+                },
+                {
+                    "$ref": "#/texts/164"
+                },
+                {
+                    "$ref": "#/texts/165"
+                },
+                {
+                    "$ref": "#/texts/166"
+                },
+                {
+                    "$ref": "#/texts/167"
+                },
+                {
+                    "$ref": "#/texts/168"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/7",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/170"
+                },
+                {
+                    "$ref": "#/texts/171"
+                },
+                {
+                    "$ref": "#/texts/172"
+                },
+                {
+                    "$ref": "#/texts/173"
+                },
+                {
+                    "$ref": "#/texts/174"
+                },
+                {
+                    "$ref": "#/texts/175"
+                },
+                {
+                    "$ref": "#/texts/176"
+                },
+                {
+                    "$ref": "#/texts/177"
+                },
+                {
+                    "$ref": "#/texts/178"
+                },
+                {
+                    "$ref": "#/texts/179"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/8",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/180"
+                },
+                {
+                    "$ref": "#/texts/181"
+                },
+                {
+                    "$ref": "#/texts/182"
+                },
+                {
+                    "$ref": "#/texts/183"
+                },
+                {
+                    "$ref": "#/texts/184"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/9",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/185"
+                },
+                {
+                    "$ref": "#/texts/186"
+                },
+                {
+                    "$ref": "#/texts/187"
+                },
+                {
+                    "$ref": "#/texts/188"
+                },
+                {
+                    "$ref": "#/texts/189"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        }
+    ],
+    "texts": [
+        {
+            "self_ref": "#/texts/0",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Últimas notícias",
+            "text": "Últimas notícias",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/1",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "opinião",
+            "text": "opinião",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/2",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "política",
+            "text": "política",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/3",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "economia",
+            "text": "economia",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/4",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Estadão Verifica",
+            "text": "Estadão Verifica",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/5",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Notícias",
+            "text": "Notícias",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/6",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Cotações",
+            "text": "Cotações",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/7",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Economia",
+            "text": "Economia",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/8",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Agropolítica",
+            "text": "Agropolítica",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/9",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Clima",
+            "text": "Clima",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/10",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Inovação",
+            "text": "Inovação",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/11",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Gente",
+            "text": "Gente",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/12",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Sustentabilidade",
+            "text": "Sustentabilidade",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/13",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Opinião",
+            "text": "Opinião",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/14",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "AgroSP",
+            "text": "AgroSP",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/15",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Soja - Grão",
+            "text": "Soja - Grão"
+        },
+        {
+            "self_ref": "#/texts/16",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ CEPEA",
+            "text": "/ CEPEA"
+        },
+        {
+            "self_ref": "#/texts/17",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,00",
+            "text": "0,00"
+        },
+        {
+            "self_ref": "#/texts/18",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 127,55",
+            "text": "R$ 127,55"
+        },
+        {
+            "self_ref": "#/texts/19",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Milho",
+            "text": "Milho"
+        },
+        {
+            "self_ref": "#/texts/20",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ CEPEA",
+            "text": "/ CEPEA"
+        },
+        {
+            "self_ref": "#/texts/21",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,00",
+            "text": "0,00"
+        },
+        {
+            "self_ref": "#/texts/22",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 84,63",
+            "text": "R$ 84,63"
+        },
+        {
+            "self_ref": "#/texts/23",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Etanol Hidratado",
+            "text": "Etanol Hidratado"
+        },
+        {
+            "self_ref": "#/texts/24",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ CEPEA",
+            "text": "/ CEPEA"
+        },
+        {
+            "self_ref": "#/texts/25",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,00",
+            "text": "0,00"
+        },
+        {
+            "self_ref": "#/texts/26",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 2.871,00",
+            "text": "R$ 2.871,00"
+        },
+        {
+            "self_ref": "#/texts/27",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Etanol Anidro (semanal)",
+            "text": "Etanol Anidro (semanal)"
+        },
+        {
+            "self_ref": "#/texts/28",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ CEPEA",
+            "text": "/ CEPEA"
+        },
+        {
+            "self_ref": "#/texts/29",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,00",
+            "text": "0,00"
+        },
+        {
+            "self_ref": "#/texts/30",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 3,16",
+            "text": "R$ 3,16"
+        },
+        {
+            "self_ref": "#/texts/31",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Açúcar",
+            "text": "Açúcar"
+        },
+        {
+            "self_ref": "#/texts/32",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ CEPEA",
+            "text": "/ CEPEA"
+        },
+        {
+            "self_ref": "#/texts/33",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,00",
+            "text": "0,00"
+        },
+        {
+            "self_ref": "#/texts/34",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 139,84",
+            "text": "R$ 139,84"
+        },
+        {
+            "self_ref": "#/texts/35",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Café Arábica - Tipo 6",
+            "text": "Café Arábica - Tipo 6"
+        },
+        {
+            "self_ref": "#/texts/36",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ CEPEA",
+            "text": "/ CEPEA"
+        },
+        {
+            "self_ref": "#/texts/37",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,00",
+            "text": "0,00"
+        },
+        {
+            "self_ref": "#/texts/38",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 2.508,41",
+            "text": "R$ 2.508,41"
+        },
+        {
+            "self_ref": "#/texts/39",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Café Conillon - Tipo 6",
+            "text": "Café Conillon - Tipo 6"
+        },
+        {
+            "self_ref": "#/texts/40",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ CEPEA",
+            "text": "/ CEPEA"
+        },
+        {
+            "self_ref": "#/texts/41",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,00",
+            "text": "0,00"
+        },
+        {
+            "self_ref": "#/texts/42",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 1.718,34",
+            "text": "R$ 1.718,34"
+        },
+        {
+            "self_ref": "#/texts/43",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Algodão",
+            "text": "Algodão"
+        },
+        {
+            "self_ref": "#/texts/44",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ CEPEA",
+            "text": "/ CEPEA"
+        },
+        {
+            "self_ref": "#/texts/45",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,00",
+            "text": "0,00"
+        },
+        {
+            "self_ref": "#/texts/46",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 418,59",
+            "text": "R$ 418,59"
+        },
+        {
+            "self_ref": "#/texts/47",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Arroz com Casca",
+            "text": "Arroz com Casca"
+        },
+        {
+            "self_ref": "#/texts/48",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ CEPEA",
+            "text": "/ CEPEA"
+        },
+        {
+            "self_ref": "#/texts/49",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,00",
+            "text": "0,00"
+        },
+        {
+            "self_ref": "#/texts/50",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 76,65",
+            "text": "R$ 76,65"
+        },
+        {
+            "self_ref": "#/texts/51",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Boi Gordo",
+            "text": "Boi Gordo"
+        },
+        {
+            "self_ref": "#/texts/52",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ CEPEA",
+            "text": "/ CEPEA"
+        },
+        {
+            "self_ref": "#/texts/53",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,00",
+            "text": "0,00"
+        },
+        {
+            "self_ref": "#/texts/54",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 324,60",
+            "text": "R$ 324,60"
+        },
+        {
+            "self_ref": "#/texts/55",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Bezerro",
+            "text": "Bezerro"
+        },
+        {
+            "self_ref": "#/texts/56",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ CEPEA",
+            "text": "/ CEPEA"
+        },
+        {
+            "self_ref": "#/texts/57",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,00",
+            "text": "0,00"
+        },
+        {
+            "self_ref": "#/texts/58",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 2.765,65",
+            "text": "R$ 2.765,65"
+        },
+        {
+            "self_ref": "#/texts/59",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Dólar Comercial",
+            "text": "Dólar Comercial"
+        },
+        {
+            "self_ref": "#/texts/60",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ Broadcast",
+            "text": "/ Broadcast"
+        },
+        {
+            "self_ref": "#/texts/61",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,13",
+            "text": "0,13"
+        },
+        {
+            "self_ref": "#/texts/62",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 5,84",
+            "text": "R$ 5,84"
+        },
+        {
+            "self_ref": "#/texts/63",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Euro Comercial",
+            "text": "Euro Comercial"
+        },
+        {
+            "self_ref": "#/texts/64",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "/ Broadcast",
+            "text": "/ Broadcast"
+        },
+        {
+            "self_ref": "#/texts/65",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "0,09",
+            "text": "0,09"
+        },
+        {
+            "self_ref": "#/texts/66",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "R$ 6,39",
+            "text": "R$ 6,39"
+        },
+        {
+            "self_ref": "#/texts/67",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/68",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/69"
+                },
+                {
+                    "$ref": "#/pictures/16"
+                },
+                {
+                    "$ref": "#/texts/70"
+                },
+                {
+                    "$ref": "#/texts/71"
+                },
+                {
+                    "$ref": "#/pictures/17"
+                },
+                {
+                    "$ref": "#/pictures/18"
+                },
+                {
+                    "$ref": "#/pictures/19"
+                },
+                {
+                    "$ref": "#/pictures/20"
+                },
+                {
+                    "$ref": "#/texts/73"
+                },
+                {
+                    "$ref": "#/texts/74"
+                },
+                {
+                    "$ref": "#/texts/75"
+                },
+                {
+                    "$ref": "#/texts/76"
+                },
+                {
+                    "$ref": "#/texts/79"
+                },
+                {
+                    "$ref": "#/texts/82"
+                },
+                {
+                    "$ref": "#/texts/85"
+                },
+                {
+                    "$ref": "#/texts/88"
+                },
+                {
+                    "$ref": "#/texts/124"
+                }
+            ],
+            "content_layer": "body",
+            "label": "title",
+            "prov": [],
+            "orig": "5 principais pragas nos cultivos de grãos",
+            "text": "5 principais pragas nos cultivos de grãos"
+        },
+        {
+            "self_ref": "#/texts/69",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Safra recorde de grãos impõe desafio ao agronegócio para o controle de pragas após a colheita",
+            "text": "Safra recorde de grãos impõe desafio ao agronegócio para o controle de pragas após a colheita"
+        },
+        {
+            "self_ref": "#/texts/70",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit agro",
+            "text": "Summit agro"
+        },
+        {
+            "self_ref": "#/texts/71",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "26/10/2023 - 12:11",
+            "text": "26/10/2023 - 12:11"
+        },
+        {
+            "self_ref": "#/texts/72",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "caption",
+            "prov": [],
+            "orig": "",
+            "text": ""
+        },
+        {
+            "self_ref": "#/texts/73",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O Brasil deve alcançar um volume recorde de 317,6 milhões de toneladas de grãos na safra 2022/2023. Os cultivos de soja, com 154 milhões de toneladas, e de milho, com 127 milhões de toneladas, respondem por 88% da produção brasileira de grãos. Por isso, também merecem maior atenção quanto ao ataque de pragas.",
+            "text": "O Brasil deve alcançar um volume recorde de 317,6 milhões de toneladas de grãos na safra 2022/2023. Os cultivos de soja, com 154 milhões de toneladas, e de milho, com 127 milhões de toneladas, respondem por 88% da produção brasileira de grãos. Por isso, também merecem maior atenção quanto ao ataque de pragas."
+        },
+        {
+            "self_ref": "#/texts/74",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O manejo integrado é fundamental para o controle eficiente das pragas. Isso envolve desde o uso de técnicas preventivas, como a escolha de cultivares resistentes e a rotação de culturas, além do monitoramento adequado e a adoção de medidas corretivas quando necessário.",
+            "text": "O manejo integrado é fundamental para o controle eficiente das pragas. Isso envolve desde o uso de técnicas preventivas, como a escolha de cultivares resistentes e a rotação de culturas, além do monitoramento adequado e a adoção de medidas corretivas quando necessário."
+        },
+        {
+            "self_ref": "#/texts/75",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Conheça, a seguir, as cinco principais pragas das lavouras de grãos.",
+            "text": "Conheça, a seguir, as cinco principais pragas das lavouras de grãos."
+        },
+        {
+            "self_ref": "#/texts/76",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/77"
+                },
+                {
+                    "$ref": "#/texts/78"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "1. Lagarta-do-cartucho (\r\n        \r\n         Spodoptera frugiperda\r\n        \r\n        )",
+            "text": "1. Lagarta-do-cartucho (\r\n        \r\n         Spodoptera frugiperda\r\n        \r\n        )",
+            "level": 1
+        },
+        {
+            "self_ref": "#/texts/77",
+            "parent": {
+                "$ref": "#/texts/76"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A lagarta-do-cartucho é considerada uma das principais pragas do milho no Brasil e em outros países produtores de grãos. Suas larvas se alimentam das folhas e espigas do milho, causando danos significativos às plantas. Essa praga é conhecida por sua alta capacidade de reprodução e rápida disseminação, o que pode levar a surtos populacionais devastadores.",
+            "text": "A lagarta-do-cartucho é considerada uma das principais pragas do milho no Brasil e em outros países produtores de grãos. Suas larvas se alimentam das folhas e espigas do milho, causando danos significativos às plantas. Essa praga é conhecida por sua alta capacidade de reprodução e rápida disseminação, o que pode levar a surtos populacionais devastadores."
+        },
+        {
+            "self_ref": "#/texts/78",
+            "parent": {
+                "$ref": "#/texts/76"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O controle efetivo da praga envolve o uso de variedades de milho geneticamente modificadas resistentes, o monitoramento constante das lavouras para detectar o inseto em seus primeiros estágios e o uso criterioso de inseticidas seletivos apenas quando necessário, a fim de evitar o desenvolvimento de resistência e minimizar os impactos ambientais.",
+            "text": "O controle efetivo da praga envolve o uso de variedades de milho geneticamente modificadas resistentes, o monitoramento constante das lavouras para detectar o inseto em seus primeiros estágios e o uso criterioso de inseticidas seletivos apenas quando necessário, a fim de evitar o desenvolvimento de resistência e minimizar os impactos ambientais."
+        },
+        {
+            "self_ref": "#/texts/79",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/80"
+                },
+                {
+                    "$ref": "#/texts/81"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "2. Lagarta-da-soja (\r\n        \r\n         Anticarsia gemmatalis\r\n        \r\n        )",
+            "text": "2. Lagarta-da-soja (\r\n        \r\n         Anticarsia gemmatalis\r\n        \r\n        )",
+            "level": 1
+        },
+        {
+            "self_ref": "#/texts/80",
+            "parent": {
+                "$ref": "#/texts/79"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A lagarta-da-soja é uma das principais pragas da cultura da soja no Brasil. Suas larvas se alimentam das folhas da planta, podendo causar desfolha intensa e comprometer o desenvolvimento e produtividade das lavouras. A alta mobilidade e facilidade de dispersão das lagartas tornam o controle do inseto desafiador.",
+            "text": "A lagarta-da-soja é uma das principais pragas da cultura da soja no Brasil. Suas larvas se alimentam das folhas da planta, podendo causar desfolha intensa e comprometer o desenvolvimento e produtividade das lavouras. A alta mobilidade e facilidade de dispersão das lagartas tornam o controle do inseto desafiador."
+        },
+        {
+            "self_ref": "#/texts/81",
+            "parent": {
+                "$ref": "#/texts/79"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O monitoramento regular das áreas cultivadas é fundamental para detectar infestações precocemente. O manejo integrado de pragas (MIP) é uma abordagem recomendada, que inclui o uso de inimigos naturais, aplicação de inseticidas seletivos quando necessário e o uso de cultivares de soja com resistência à lagarta.",
+            "text": "O monitoramento regular das áreas cultivadas é fundamental para detectar infestações precocemente. O manejo integrado de pragas (MIP) é uma abordagem recomendada, que inclui o uso de inimigos naturais, aplicação de inseticidas seletivos quando necessário e o uso de cultivares de soja com resistência à lagarta."
+        },
+        {
+            "self_ref": "#/texts/82",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/83"
+                },
+                {
+                    "$ref": "#/texts/84"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "3. Broca-do-colmo (\r\n        \r\n         Diatraea saccharalis\r\n        \r\n        )",
+            "text": "3. Broca-do-colmo (\r\n        \r\n         Diatraea saccharalis\r\n        \r\n        )",
+            "level": 1
+        },
+        {
+            "self_ref": "#/texts/83",
+            "parent": {
+                "$ref": "#/texts/82"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A broca-do-colmo é uma das principais pragas que afetam os cultivos de grãos, como milho e sorgo. Essa praga causa danos ao perfurar e se alimentar do interior dos colmos das plantas, enfraquecendo-as e favorecendo a quebra e queda. Além disso, a broca-do-colmo também pode transmitir doenças que comprometem a produtividade das culturas.",
+            "text": "A broca-do-colmo é uma das principais pragas que afetam os cultivos de grãos, como milho e sorgo. Essa praga causa danos ao perfurar e se alimentar do interior dos colmos das plantas, enfraquecendo-as e favorecendo a quebra e queda. Além disso, a broca-do-colmo também pode transmitir doenças que comprometem a produtividade das culturas."
+        },
+        {
+            "self_ref": "#/texts/84",
+            "parent": {
+                "$ref": "#/texts/82"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O controle dessa praga envolve a adoção de medidas preventivas, como a eliminação de restos de cultura após a colheita, para reduzir a sobrevivência das larvas durante o período entre safras. O uso de variedades de grãos resistentes à broca-do-colmo também é uma estratégia importante, bem como a aplicação de inseticidas em momentos chave.",
+            "text": "O controle dessa praga envolve a adoção de medidas preventivas, como a eliminação de restos de cultura após a colheita, para reduzir a sobrevivência das larvas durante o período entre safras. O uso de variedades de grãos resistentes à broca-do-colmo também é uma estratégia importante, bem como a aplicação de inseticidas em momentos chave."
+        },
+        {
+            "self_ref": "#/texts/85",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/86"
+                },
+                {
+                    "$ref": "#/texts/87"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "4. Percevejos (\r\n        \r\n         Nezara viridula\r\n        \r\n        e\r\n        \r\n         Euschistus heros\r\n        \r\n        )",
+            "text": "4. Percevejos (\r\n        \r\n         Nezara viridula\r\n        \r\n        e\r\n        \r\n         Euschistus heros\r\n        \r\n        )",
+            "level": 1
+        },
+        {
+            "self_ref": "#/texts/86",
+            "parent": {
+                "$ref": "#/texts/85"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Os percevejos são pragas de grande importância econômica para as culturas de grãos, como soja, milho, feijão e algodão. Esses insetos se alimentam sugando a seiva das plantas, o que pode causar danos diretos aos grãos em formação e reduzir a qualidade dos produtos colhidos.",
+            "text": "Os percevejos são pragas de grande importância econômica para as culturas de grãos, como soja, milho, feijão e algodão. Esses insetos se alimentam sugando a seiva das plantas, o que pode causar danos diretos aos grãos em formação e reduzir a qualidade dos produtos colhidos."
+        },
+        {
+            "self_ref": "#/texts/87",
+            "parent": {
+                "$ref": "#/texts/85"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O manejo da praga é complexo, devido à diversidade de espécies e sua capacidade de desenvolver resistência aos inseticidas. Portanto, o controle integrado é essencial, combinando o uso de táticas como o controle biológico com inimigos naturais e o uso de armadilhas para monitoramento.",
+            "text": "O manejo da praga é complexo, devido à diversidade de espécies e sua capacidade de desenvolver resistência aos inseticidas. Portanto, o controle integrado é essencial, combinando o uso de táticas como o controle biológico com inimigos naturais e o uso de armadilhas para monitoramento."
+        },
+        {
+            "self_ref": "#/texts/88",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/89"
+                },
+                {
+                    "$ref": "#/texts/90"
+                },
+                {
+                    "$ref": "#/texts/91"
+                },
+                {
+                    "$ref": "#/groups/2"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "5. Helicoverpa (\r\n        \r\n         Helicoverpa armigera e Helicoverpa zea\r\n        \r\n        )",
+            "text": "5. Helicoverpa (\r\n        \r\n         Helicoverpa armigera e Helicoverpa zea\r\n        \r\n        )",
+            "level": 1
+        },
+        {
+            "self_ref": "#/texts/89",
+            "parent": {
+                "$ref": "#/texts/88"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "As lagartas do gênero\r\n        \r\n         Helicoverpa\r\n        \r\n        são pragas polífagas que afetam várias culturas de grãos, como milho, soja, algodão, entre outras. Elas se alimentam de folhas, flores e frutos, causando danos significativos e reduzindo a produtividade das lavouras. Essas pragas têm alta capacidade de adaptação e resistência a inseticidas.",
+            "text": "As lagartas do gênero\r\n        \r\n         Helicoverpa\r\n        \r\n        são pragas polífagas que afetam várias culturas de grãos, como milho, soja, algodão, entre outras. Elas se alimentam de folhas, flores e frutos, causando danos significativos e reduzindo a produtividade das lavouras. Essas pragas têm alta capacidade de adaptação e resistência a inseticidas."
+        },
+        {
+            "self_ref": "#/texts/90",
+            "parent": {
+                "$ref": "#/texts/88"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A abordagem mais eficaz de controle do inseto é o MIP, envolvendo o monitoramento constante das áreas cultivadas, o uso de produtos biológicos, como baculovírus e nematoides entomopatogênicos, além do uso de inseticidas seletivos de forma criteriosa, visando preservar os inimigos naturais e reduzir os impactos ambientais.",
+            "text": "A abordagem mais eficaz de controle do inseto é o MIP, envolvendo o monitoramento constante das áreas cultivadas, o uso de produtos biológicos, como baculovírus e nematoides entomopatogênicos, além do uso de inseticidas seletivos de forma criteriosa, visando preservar os inimigos naturais e reduzir os impactos ambientais."
+        },
+        {
+            "self_ref": "#/texts/91",
+            "parent": {
+                "$ref": "#/texts/88"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Fontes\r\n        \r\n        : Empresa Brasileira de Pesquisa Agropecuária (Embrapa), Conferência da Agricultura e Pecuária do Brasil (CNA), Companhia Nacional de Abastecimento (Conab)",
+            "text": "Fontes\r\n        \r\n        : Empresa Brasileira de Pesquisa Agropecuária (Embrapa), Conferência da Agricultura e Pecuária do Brasil (CNA), Companhia Nacional de Abastecimento (Conab)"
+        },
+        {
+            "self_ref": "#/texts/92",
+            "parent": {
+                "$ref": "#/groups/2"
+            },
+            "children": [
+                {
+                    "$ref": "#/pictures/21"
+                },
+                {
+                    "$ref": "#/texts/93"
+                },
+                {
+                    "$ref": "#/pictures/22"
+                },
+                {
+                    "$ref": "#/texts/94"
+                },
+                {
+                    "$ref": "#/pictures/23"
+                },
+                {
+                    "$ref": "#/texts/95"
+                },
+                {
+                    "$ref": "#/pictures/24"
+                },
+                {
+                    "$ref": "#/texts/96"
+                },
+                {
+                    "$ref": "#/pictures/25"
+                },
+                {
+                    "$ref": "#/texts/97"
+                },
+                {
+                    "$ref": "#/pictures/26"
+                },
+                {
+                    "$ref": "#/texts/98"
+                },
+                {
+                    "$ref": "#/pictures/27"
+                },
+                {
+                    "$ref": "#/texts/99"
+                },
+                {
+                    "$ref": "#/pictures/28"
+                },
+                {
+                    "$ref": "#/pictures/29"
+                },
+                {
+                    "$ref": "#/texts/100"
+                },
+                {
+                    "$ref": "#/texts/101"
+                },
+                {
+                    "$ref": "#/texts/102"
+                },
+                {
+                    "$ref": "#/texts/103"
+                },
+                {
+                    "$ref": "#/texts/104"
+                },
+                {
+                    "$ref": "#/texts/105"
+                },
+                {
+                    "$ref": "#/texts/106"
+                },
+                {
+                    "$ref": "#/texts/107"
+                },
+                {
+                    "$ref": "#/texts/108"
+                },
+                {
+                    "$ref": "#/texts/109"
+                },
+                {
+                    "$ref": "#/texts/110"
+                },
+                {
+                    "$ref": "#/texts/111"
+                },
+                {
+                    "$ref": "#/texts/112"
+                },
+                {
+                    "$ref": "#/texts/113"
+                },
+                {
+                    "$ref": "#/texts/114"
+                },
+                {
+                    "$ref": "#/texts/115"
+                },
+                {
+                    "$ref": "#/texts/116"
+                },
+                {
+                    "$ref": "#/texts/117"
+                },
+                {
+                    "$ref": "#/texts/118"
+                },
+                {
+                    "$ref": "#/texts/119"
+                },
+                {
+                    "$ref": "#/texts/120"
+                },
+                {
+                    "$ref": "#/pictures/30"
+                },
+                {
+                    "$ref": "#/pictures/31"
+                },
+                {
+                    "$ref": "#/pictures/32"
+                },
+                {
+                    "$ref": "#/texts/121"
+                },
+                {
+                    "$ref": "#/pictures/33"
+                },
+                {
+                    "$ref": "#/texts/122"
+                },
+                {
+                    "$ref": "#/texts/123"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Siga o Agro Estadão no Google News, WhatsApp, Instagram, Facebook ou assine nossa Newsletter",
+            "text": "Siga o Agro Estadão no Google News, WhatsApp, Instagram, Facebook ou assine nossa Newsletter",
+            "level": 3
+        },
+        {
+            "self_ref": "#/texts/93",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Instagram",
+            "text": "Instagram"
+        },
+        {
+            "self_ref": "#/texts/94",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Twitter",
+            "text": "Twitter"
+        },
+        {
+            "self_ref": "#/texts/95",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Facebook",
+            "text": "Facebook"
+        },
+        {
+            "self_ref": "#/texts/96",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Whatsapp",
+            "text": "Whatsapp"
+        },
+        {
+            "self_ref": "#/texts/97",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Telegram",
+            "text": "Telegram"
+        },
+        {
+            "self_ref": "#/texts/98",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Google News",
+            "text": "Google News"
+        },
+        {
+            "self_ref": "#/texts/99",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Newsletter",
+            "text": "Newsletter"
+        },
+        {
+            "self_ref": "#/texts/100",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Newsletter",
+            "text": "Newsletter"
+        },
+        {
+            "self_ref": "#/texts/101",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Acorde\r\n         \r\n          bem informado\r\n          \n\n\r\n         com as\r\n         \r\n          notícias do campo",
+            "text": "Acorde\r\n         \r\n          bem informado\r\n          \n\n\r\n         com as\r\n         \r\n          notícias do campo"
+        },
+        {
+            "self_ref": "#/texts/102",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Mais lidas de Summit Agro",
+            "text": "Mais lidas de Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/103",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "1",
+            "text": "1"
+        },
+        {
+            "self_ref": "#/texts/104",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/105",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Tubérculos: o que são e quais os benefícios para a saúde?",
+            "text": "Tubérculos: o que são e quais os benefícios para a saúde?"
+        },
+        {
+            "self_ref": "#/texts/106",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "2",
+            "text": "2"
+        },
+        {
+            "self_ref": "#/texts/107",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/108",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Erva-de-santa-maria: para que serve e como utilizar o mastruz?",
+            "text": "Erva-de-santa-maria: para que serve e como utilizar o mastruz?"
+        },
+        {
+            "self_ref": "#/texts/109",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "3",
+            "text": "3"
+        },
+        {
+            "self_ref": "#/texts/110",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/111",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Qual é a diferença entre rancho, sítio, fazenda e chácara?",
+            "text": "Qual é a diferença entre rancho, sítio, fazenda e chácara?"
+        },
+        {
+            "self_ref": "#/texts/112",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "4",
+            "text": "4"
+        },
+        {
+            "self_ref": "#/texts/113",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/114",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Banana: quantos tipos existem e quais são os principais",
+            "text": "Banana: quantos tipos existem e quais são os principais"
+        },
+        {
+            "self_ref": "#/texts/115",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "5",
+            "text": "5"
+        },
+        {
+            "self_ref": "#/texts/116",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/117",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Hectare ou alqueire: o que é cada um e quais suas diferenças?",
+            "text": "Hectare ou alqueire: o que é cada um e quais suas diferenças?"
+        },
+        {
+            "self_ref": "#/texts/118",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "6",
+            "text": "6"
+        },
+        {
+            "self_ref": "#/texts/119",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/120",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Caruncho: o que é, como prevenir e acabar com essa praga em casa e na plantação",
+            "text": "Caruncho: o que é, como prevenir e acabar com essa praga em casa e na plantação"
+        },
+        {
+            "self_ref": "#/texts/121",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Mapeamento completo das\r\n         \n\n\r\n           condições do clima\r\n           \n\r\n          para a sua região",
+            "text": "Mapeamento completo das\r\n         \n\n\r\n           condições do clima\r\n           \n\r\n          para a sua região"
+        },
+        {
+            "self_ref": "#/texts/122",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "VER INDICADORES DO CLIMA",
+            "text": "VER INDICADORES DO CLIMA"
+        },
+        {
+            "self_ref": "#/texts/123",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "PUBLICIDADE",
+            "text": "PUBLICIDADE"
+        },
+        {
+            "self_ref": "#/texts/124",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [
+                {
+                    "$ref": "#/pictures/34"
+                },
+                {
+                    "$ref": "#/texts/125"
+                },
+                {
+                    "$ref": "#/texts/126"
+                },
+                {
+                    "$ref": "#/texts/129"
+                },
+                {
+                    "$ref": "#/texts/132"
+                },
+                {
+                    "$ref": "#/texts/135"
+                },
+                {
+                    "$ref": "#/texts/138"
+                },
+                {
+                    "$ref": "#/texts/141"
+                },
+                {
+                    "$ref": "#/texts/144"
+                },
+                {
+                    "$ref": "#/texts/147"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Notícias Relacionadas",
+            "text": "Notícias Relacionadas",
+            "level": 1
+        },
+        {
+            "self_ref": "#/texts/125",
+            "parent": {
+                "$ref": "#/texts/124"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/126",
+            "parent": {
+                "$ref": "#/texts/124"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/127"
+                },
+                {
+                    "$ref": "#/pictures/35"
+                },
+                {
+                    "$ref": "#/texts/128"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Mexerica, tangerina, poncã, bergamota: entenda as diferenças",
+            "text": "Mexerica, tangerina, poncã, bergamota: entenda as diferenças",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/127",
+            "parent": {
+                "$ref": "#/texts/126"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Entenda as variedades da fruta e por que os nomes geram tanta confusão",
+            "text": "Entenda as variedades da fruta e por que os nomes geram tanta confusão"
+        },
+        {
+            "self_ref": "#/texts/128",
+            "parent": {
+                "$ref": "#/texts/126"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/129",
+            "parent": {
+                "$ref": "#/texts/124"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/130"
+                },
+                {
+                    "$ref": "#/pictures/36"
+                },
+                {
+                    "$ref": "#/texts/131"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "O impacto da tecnologia na cadeia produtiva do agronegócio",
+            "text": "O impacto da tecnologia na cadeia produtiva do agronegócio",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/130",
+            "parent": {
+                "$ref": "#/texts/129"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "AgTechs devem mudar a forma como a produção agrícola brasileira é operacionalizada e comercializada",
+            "text": "AgTechs devem mudar a forma como a produção agrícola brasileira é operacionalizada e comercializada"
+        },
+        {
+            "self_ref": "#/texts/131",
+            "parent": {
+                "$ref": "#/texts/129"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/132",
+            "parent": {
+                "$ref": "#/texts/124"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/133"
+                },
+                {
+                    "$ref": "#/pictures/37"
+                },
+                {
+                    "$ref": "#/texts/134"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Desafios da automação na produção de alimentos",
+            "text": "Desafios da automação na produção de alimentos",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/133",
+            "parent": {
+                "$ref": "#/texts/132"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A automação no agronegócio será fundamental para produzir mais e abastecer o mundo de maneira sustentável",
+            "text": "A automação no agronegócio será fundamental para produzir mais e abastecer o mundo de maneira sustentável"
+        },
+        {
+            "self_ref": "#/texts/134",
+            "parent": {
+                "$ref": "#/texts/132"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/135",
+            "parent": {
+                "$ref": "#/texts/124"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/136"
+                },
+                {
+                    "$ref": "#/texts/137"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Tecnologia na agricultura pode auxiliar na sustentabilidade",
+            "text": "Tecnologia na agricultura pode auxiliar na sustentabilidade",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/136",
+            "parent": {
+                "$ref": "#/texts/135"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Aumentar a produção de alimentos sem causar danos ambientais é um desafio que o campo precisa superar, a resposta pode estar no uso inteligente da tecnologia",
+            "text": "Aumentar a produção de alimentos sem causar danos ambientais é um desafio que o campo precisa superar, a resposta pode estar no uso inteligente da tecnologia"
+        },
+        {
+            "self_ref": "#/texts/137",
+            "parent": {
+                "$ref": "#/texts/135"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/138",
+            "parent": {
+                "$ref": "#/texts/124"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/139"
+                },
+                {
+                    "$ref": "#/texts/140"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Peste suína: o que é e qual é o seu impacto na economia?",
+            "text": "Peste suína: o que é e qual é o seu impacto na economia?",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/139",
+            "parent": {
+                "$ref": "#/texts/138"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Conheça a doença altamente contagiosa, mortal e que ameaça o comércio de carne suína em países asiáticos",
+            "text": "Conheça a doença altamente contagiosa, mortal e que ameaça o comércio de carne suína em países asiáticos"
+        },
+        {
+            "self_ref": "#/texts/140",
+            "parent": {
+                "$ref": "#/texts/138"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/141",
+            "parent": {
+                "$ref": "#/texts/124"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/142"
+                },
+                {
+                    "$ref": "#/texts/143"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Saneamento rural: modelos de gestão e principais desafios",
+            "text": "Saneamento rural: modelos de gestão e principais desafios",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/142",
+            "parent": {
+                "$ref": "#/texts/141"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O saneamento rural é obrigação do poder público, mas a iniciativa privada, o terceiro setor e as próprias comunidades também podem contribuir",
+            "text": "O saneamento rural é obrigação do poder público, mas a iniciativa privada, o terceiro setor e as próprias comunidades também podem contribuir"
+        },
+        {
+            "self_ref": "#/texts/143",
+            "parent": {
+                "$ref": "#/texts/141"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/144",
+            "parent": {
+                "$ref": "#/texts/124"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/145"
+                },
+                {
+                    "$ref": "#/texts/146"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Interessado na produção de leite? Veja mitos e verdades sobre a atividade",
+            "text": "Interessado na produção de leite? Veja mitos e verdades sobre a atividade",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/145",
+            "parent": {
+                "$ref": "#/texts/144"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O processo produtivo de leite é cheio de detalhes que podem favorecer o produtor",
+            "text": "O processo produtivo de leite é cheio de detalhes que podem favorecer o produtor"
+        },
+        {
+            "self_ref": "#/texts/146",
+            "parent": {
+                "$ref": "#/texts/144"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro"
+        },
+        {
+            "self_ref": "#/texts/147",
+            "parent": {
+                "$ref": "#/texts/124"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/148"
+                },
+                {
+                    "$ref": "#/pictures/38"
+                },
+                {
+                    "$ref": "#/pictures/39"
+                },
+                {
+                    "$ref": "#/pictures/40"
+                },
+                {
+                    "$ref": "#/pictures/41"
+                },
+                {
+                    "$ref": "#/pictures/42"
+                },
+                {
+                    "$ref": "#/pictures/43"
+                },
+                {
+                    "$ref": "#/texts/149"
+                },
+                {
+                    "$ref": "#/pictures/44"
+                },
+                {
+                    "$ref": "#/groups/3"
+                },
+                {
+                    "$ref": "#/texts/150"
+                },
+                {
+                    "$ref": "#/groups/4"
+                },
+                {
+                    "$ref": "#/texts/156"
+                },
+                {
+                    "$ref": "#/groups/5"
+                },
+                {
+                    "$ref": "#/pictures/45"
+                },
+                {
+                    "$ref": "#/groups/6"
+                },
+                {
+                    "$ref": "#/texts/169"
+                },
+                {
+                    "$ref": "#/pictures/46"
+                },
+                {
+                    "$ref": "#/groups/7"
+                },
+                {
+                    "$ref": "#/groups/8"
+                },
+                {
+                    "$ref": "#/pictures/47"
+                },
+                {
+                    "$ref": "#/groups/9"
+                },
+                {
+                    "$ref": "#/pictures/48"
+                },
+                {
+                    "$ref": "#/pictures/49"
+                },
+                {
+                    "$ref": "#/texts/190"
+                },
+                {
+                    "$ref": "#/texts/191"
+                },
+                {
+                    "$ref": "#/texts/192"
+                },
+                {
+                    "$ref": "#/texts/193"
+                },
+                {
+                    "$ref": "#/texts/194"
+                },
+                {
+                    "$ref": "#/texts/195"
+                },
+                {
+                    "$ref": "#/texts/196"
+                },
+                {
+                    "$ref": "#/texts/197"
+                },
+                {
+                    "$ref": "#/texts/198"
+                },
+                {
+                    "$ref": "#/texts/199"
+                },
+                {
+                    "$ref": "#/texts/200"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "A importância do Manejo Integrado de Pragas para a agricultura",
+            "text": "A importância do Manejo Integrado de Pragas para a agricultura",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/148",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Técnica tem como objetivo a redução máxima de pesticidas e agrotóxicos",
+            "text": "Técnica tem como objetivo a redução máxima de pesticidas e agrotóxicos"
+        },
+        {
+            "self_ref": "#/texts/149",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "2025 - Estadão Agro - Todos os direitos reservados. Com inteligência e tecnologia:",
+            "text": "2025 - Estadão Agro - Todos os direitos reservados. Com inteligência e tecnologia:"
+        },
+        {
+            "self_ref": "#/texts/150",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "INSTITUCIONAL",
+            "text": "INSTITUCIONAL"
+        },
+        {
+            "self_ref": "#/texts/151",
+            "parent": {
+                "$ref": "#/groups/4"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Código de ética",
+            "text": "Código de ética",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/152",
+            "parent": {
+                "$ref": "#/groups/4"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Politica anticorrupção",
+            "text": "Politica anticorrupção",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/153",
+            "parent": {
+                "$ref": "#/groups/4"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Curso de jornalismo",
+            "text": "Curso de jornalismo",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/154",
+            "parent": {
+                "$ref": "#/groups/4"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Demonstrações Contábeis",
+            "text": "Demonstrações Contábeis",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/155",
+            "parent": {
+                "$ref": "#/groups/4"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Termo de uso",
+            "text": "Termo de uso",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/156",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "ATENDIMENTO",
+            "text": "ATENDIMENTO"
+        },
+        {
+            "self_ref": "#/texts/157",
+            "parent": {
+                "$ref": "#/groups/5"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Correções",
+            "text": "Correções",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/158",
+            "parent": {
+                "$ref": "#/groups/5"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Portal do assinante",
+            "text": "Portal do assinante",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/159",
+            "parent": {
+                "$ref": "#/groups/5"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Fale conosco",
+            "text": "Fale conosco",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/160",
+            "parent": {
+                "$ref": "#/groups/5"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Trabalhe conosco",
+            "text": "Trabalhe conosco",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/161",
+            "parent": {
+                "$ref": "#/groups/6"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Paladar",
+            "text": "Paladar",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/162",
+            "parent": {
+                "$ref": "#/groups/6"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Jornal do Carro",
+            "text": "Jornal do Carro",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/163",
+            "parent": {
+                "$ref": "#/groups/6"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Recomenda",
+            "text": "Recomenda",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/164",
+            "parent": {
+                "$ref": "#/groups/6"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Imóveis",
+            "text": "Imóveis",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/165",
+            "parent": {
+                "$ref": "#/groups/6"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Mobilidade",
+            "text": "Mobilidade",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/166",
+            "parent": {
+                "$ref": "#/groups/6"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Estradão",
+            "text": "Estradão",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/167",
+            "parent": {
+                "$ref": "#/groups/6"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "BlueStudio",
+            "text": "BlueStudio",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/168",
+            "parent": {
+                "$ref": "#/groups/6"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Estadão R.I.",
+            "text": "Estadão R.I.",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/169",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Copyright © 1995 - 2025 Grupo Estado",
+            "text": "Copyright © 1995 - 2025 Grupo Estado"
+        },
+        {
+            "self_ref": "#/texts/170",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Notícias",
+            "text": "Notícias",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/171",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Cotações",
+            "text": "Cotações",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/172",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Economia",
+            "text": "Economia",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/173",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Agropolítica",
+            "text": "Agropolítica",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/174",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Clima",
+            "text": "Clima",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/175",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Inovação",
+            "text": "Inovação",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/176",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Gente",
+            "text": "Gente",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/177",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Sustentabilidade",
+            "text": "Sustentabilidade",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/178",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Opinião",
+            "text": "Opinião",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/179",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "AgroSP",
+            "text": "AgroSP",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/180",
+            "parent": {
+                "$ref": "#/groups/8"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Vídeos",
+            "text": "Vídeos",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/181",
+            "parent": {
+                "$ref": "#/groups/8"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Webstories",
+            "text": "Webstories",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/182",
+            "parent": {
+                "$ref": "#/groups/8"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Summit Agro",
+            "text": "Summit Agro",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/183",
+            "parent": {
+                "$ref": "#/groups/8"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Fale Conosco",
+            "text": "Fale Conosco",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/184",
+            "parent": {
+                "$ref": "#/groups/8"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Expediente",
+            "text": "Expediente",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/185",
+            "parent": {
+                "$ref": "#/groups/9"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Últimas notícias",
+            "text": "Últimas notícias",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/186",
+            "parent": {
+                "$ref": "#/groups/9"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "opinião",
+            "text": "opinião",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/187",
+            "parent": {
+                "$ref": "#/groups/9"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "política",
+            "text": "política",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/188",
+            "parent": {
+                "$ref": "#/groups/9"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "economia",
+            "text": "economia",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/189",
+            "parent": {
+                "$ref": "#/groups/9"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Estadão Verifica",
+            "text": "Estadão Verifica",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/190",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Newsletter",
+            "text": "Newsletter"
+        },
+        {
+            "self_ref": "#/texts/191",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Carregando...",
+            "text": "Carregando..."
+        },
+        {
+            "self_ref": "#/texts/192",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Seu e-mail foi cadastrado!",
+            "text": "Seu e-mail foi cadastrado!"
+        },
+        {
+            "self_ref": "#/texts/193",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Agora complete as informações para personalizar sua newsletter e recebê-la também em seu Whatsapp",
+            "text": "Agora complete as informações para personalizar sua newsletter e recebê-la também em seu Whatsapp"
+        },
+        {
+            "self_ref": "#/texts/194",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Sua função",
+            "text": "Sua função"
+        },
+        {
+            "self_ref": "#/texts/195",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Tipo de cultura",
+            "text": "Tipo de cultura"
+        },
+        {
+            "self_ref": "#/texts/196",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Bem-vindo (a) ao Bom dia, Agro!",
+            "text": "Bem-vindo (a) ao Bom dia, Agro!"
+        },
+        {
+            "self_ref": "#/texts/197",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Tudo certo. Estamos preparados para oferecer uma experiência ainda mais personalizada e relevante para você.",
+            "text": "Tudo certo. Estamos preparados para oferecer uma experiência ainda mais personalizada e relevante para você."
+        },
+        {
+            "self_ref": "#/texts/198",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Mantenha-se conectado!",
+            "text": "Mantenha-se conectado!"
+        },
+        {
+            "self_ref": "#/texts/199",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Fique atento ao seu e-mail e Whatsapp para atualizações. Estamos ansiosos para ser parte do seu dia a dia no campo!",
+            "text": "Fique atento ao seu e-mail e Whatsapp para atualizações. Estamos ansiosos para ser parte do seu dia a dia no campo!"
+        },
+        {
+            "self_ref": "#/texts/200",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Enviamos um e-mail de boas-vindas para você! Se não o encontrar na sua caixa de entrada, por favor, verifique a pasta de Spam (lixo eletrônico) e marque a mensagem como ‘Não é spam” para garantir que você receberá os próximos e-mails corretamente.",
+            "text": "Enviamos um e-mail de boas-vindas para você! Se não o encontrar na sua caixa de entrada, por favor, verifique a pasta de Spam (lixo eletrônico) e marque a mensagem como ‘Não é spam” para garantir que você receberá os próximos e-mails corretamente."
+        }
+    ],
+    "pictures": [
+        {
+            "self_ref": "#/pictures/0",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/1",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/2",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/3",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/4",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/5",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/6",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/7",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/8",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/9",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/10",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/11",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/12",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/13",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/14",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/15",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/16",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/17",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/18",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/19",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/20",
+            "parent": {
+                "$ref": "#/texts/68"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [
+                {
+                    "$ref": "#/texts/72"
+                }
+            ],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/21",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/22",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/23",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/24",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/25",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/26",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/27",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/28",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/29",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/30",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/31",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/32",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/33",
+            "parent": {
+                "$ref": "#/texts/92"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/34",
+            "parent": {
+                "$ref": "#/texts/124"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/35",
+            "parent": {
+                "$ref": "#/texts/126"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/36",
+            "parent": {
+                "$ref": "#/texts/129"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/37",
+            "parent": {
+                "$ref": "#/texts/132"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/38",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/39",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/40",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/41",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/42",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/43",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/44",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/45",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/46",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/47",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/48",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/49",
+            "parent": {
+                "$ref": "#/texts/147"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "picture",
+            "prov": [],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        }
+    ],
+    "tables": [],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {}
+}

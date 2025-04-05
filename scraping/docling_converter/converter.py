@@ -1,11 +1,12 @@
 import os
 import json
+import tempfile
 from pathlib import Path
 from datetime import datetime
 from docling.document_converter import DocumentConverter
 
 #Variable that contains all the url to convert
-from docs.raw.doc_paths import DOC_PATHS
+from docling_converter.docs.raw.doc_paths import DOC_PATHS
 
 class Converter:
     def __init__(self, path: str):
@@ -78,10 +79,17 @@ class Converter:
         print("Converting HTML content...")
 
         try:
-            result = self.converter.convert(html, format="html")
+            with tempfile.NamedTemporaryFile(delete=False, suffix=".html", mode='w', encoding='utf-8') as tmp_file:
+                tmp_file.write(html)
+                tmp_path = Path(tmp_file.name)
+            
+            result = self.converter.convert(tmp_path)
             converted_file = result.document.export_to_dict()
             print("HTML content converted successfully!")
+
+            os.remove(tmp_path)
             return converted_file
+        
         except Exception as e:
             print(f"Error while converting HTML: {e}")
             return None

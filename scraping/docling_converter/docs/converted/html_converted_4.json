@@ -1,11 +1,11 @@
 {
     "schema_name": "DoclingDocument",
     "version": "1.3.0",
-    "name": "tmp1ki9b7eg",
+    "name": "temp_input",
     "origin": {
         "mimetype": "text/html",
         "binary_hash": 1145753365694228860,
-        "filename": "tmp1ki9b7eg.html"
+        "filename": "temp_input.html"
     },
     "furniture": {
         "self_ref": "#/furniture",

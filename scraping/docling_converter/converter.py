@@ -13,7 +13,7 @@ class Converter:
         self.path = path
         self.converter = DocumentConverter()
 
-    def doc_converter_by_url(self, url: str) -> dict:
+    def doc_converter_by_url(self) -> dict:
         """
         Convert a document to JSON format.
         Args:
@@ -21,7 +21,11 @@ class Converter:
         Returns:
             dict: Converted document in JSON format.
         """
-        source = DOC_PATHS  # PDF URL
+        source = DOC_PATHS  # PDF URLs list
+        if not source:
+            print("No URLs found!")
+            return None
+
         print("Searching files...")
 
         for url in range(len(source)):
@@ -47,21 +51,26 @@ class Converter:
             dict: Converted document in JSON format.
         """
         source = Path(path)  # PDF path directory
-        print("Searching file...")
 
         if not source.exists():
             print("File not found!")
             return None
 
-        print(f"File {source} found!")
-        print("Converting file...")
+        try:
+            print("Searching file...")
+            print(f"File {source} found!")
+            print("Converting file...")
 
-        result = self.converter.convert(source)
+            result = self.converter.convert(source)
 
-        converted_file = result.document.export_to_dict()
-        print("File converted successfully!")
+            converted_file = result.document.export_to_dict()
+            print("File converted successfully!")
 
-        return converted_file
+            return converted_file
+        
+        except Exception as e:
+            print(f"Error while converting file: {e}")
+            return None
     
     def doc_converter_by_html(self, html: str) -> dict:
         # HTML returned from the scraper
@@ -87,7 +96,9 @@ class Converter:
             converted_file = result.document.export_to_dict()
             print("HTML content converted successfully!")
 
-            os.remove(tmp_path)
+            if tmp_path.exists():
+                os.remove(tmp_path)
+            
             return converted_file
         
         except Exception as e:

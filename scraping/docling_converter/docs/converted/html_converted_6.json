@@ -1,0 +1,2144 @@
+{
+    "schema_name": "DoclingDocument",
+    "version": "1.3.0",
+    "name": "tmp4hmqqlz1",
+    "origin": {
+        "mimetype": "text/html",
+        "binary_hash": 1767938743499724389,
+        "filename": "tmp4hmqqlz1.html"
+    },
+    "furniture": {
+        "self_ref": "#/furniture",
+        "children": [],
+        "content_layer": "furniture",
+        "name": "_root_",
+        "label": "unspecified"
+    },
+    "body": {
+        "self_ref": "#/body",
+        "children": [
+            {
+                "$ref": "#/groups/0"
+            },
+            {
+                "$ref": "#/texts/8"
+            }
+        ],
+        "content_layer": "body",
+        "name": "_root_",
+        "label": "unspecified"
+    },
+    "groups": [
+        {
+            "self_ref": "#/groups/0",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/0"
+                },
+                {
+                    "$ref": "#/texts/1"
+                },
+                {
+                    "$ref": "#/texts/2"
+                },
+                {
+                    "$ref": "#/texts/3"
+                },
+                {
+                    "$ref": "#/texts/4"
+                },
+                {
+                    "$ref": "#/texts/5"
+                },
+                {
+                    "$ref": "#/texts/6"
+                },
+                {
+                    "$ref": "#/texts/7"
+                }
+            ],
+            "content_layer": "furniture",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/1",
+            "parent": {
+                "$ref": "#/texts/8"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/14"
+                },
+                {
+                    "$ref": "#/texts/22"
+                },
+                {
+                    "$ref": "#/texts/58"
+                },
+                {
+                    "$ref": "#/texts/76"
+                },
+                {
+                    "$ref": "#/texts/79"
+                },
+                {
+                    "$ref": "#/texts/81"
+                },
+                {
+                    "$ref": "#/texts/83"
+                },
+                {
+                    "$ref": "#/texts/85"
+                }
+            ],
+            "content_layer": "body",
+            "name": "header-2",
+            "label": "section"
+        },
+        {
+            "self_ref": "#/groups/2",
+            "parent": {
+                "$ref": "#/texts/58"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/63"
+                },
+                {
+                    "$ref": "#/texts/64"
+                },
+                {
+                    "$ref": "#/texts/65"
+                },
+                {
+                    "$ref": "#/texts/66"
+                },
+                {
+                    "$ref": "#/texts/67"
+                },
+                {
+                    "$ref": "#/texts/68"
+                },
+                {
+                    "$ref": "#/texts/69"
+                },
+                {
+                    "$ref": "#/texts/70"
+                },
+                {
+                    "$ref": "#/texts/71"
+                },
+                {
+                    "$ref": "#/texts/72"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/3",
+            "parent": {
+                "$ref": "#/texts/76"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/78"
+                }
+            ],
+            "content_layer": "body",
+            "name": "header-4",
+            "label": "section"
+        },
+        {
+            "self_ref": "#/groups/4",
+            "parent": {
+                "$ref": "#/texts/79"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/80"
+                }
+            ],
+            "content_layer": "body",
+            "name": "header-4",
+            "label": "section"
+        },
+        {
+            "self_ref": "#/groups/5",
+            "parent": {
+                "$ref": "#/texts/81"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/82"
+                }
+            ],
+            "content_layer": "body",
+            "name": "header-4",
+            "label": "section"
+        },
+        {
+            "self_ref": "#/groups/6",
+            "parent": {
+                "$ref": "#/texts/83"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/84"
+                }
+            ],
+            "content_layer": "body",
+            "name": "header-4",
+            "label": "section"
+        },
+        {
+            "self_ref": "#/groups/7",
+            "parent": {
+                "$ref": "#/texts/85"
+            },
+            "children": [
+                {
+                    "$ref": "#/groups/8"
+                }
+            ],
+            "content_layer": "body",
+            "name": "header-4",
+            "label": "section"
+        },
+        {
+            "self_ref": "#/groups/8",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/86"
+                },
+                {
+                    "$ref": "#/texts/93"
+                },
+                {
+                    "$ref": "#/texts/99"
+                },
+                {
+                    "$ref": "#/texts/103"
+                },
+                {
+                    "$ref": "#/texts/110"
+                }
+            ],
+            "content_layer": "body",
+            "name": "header-5",
+            "label": "section"
+        },
+        {
+            "self_ref": "#/groups/9",
+            "parent": {
+                "$ref": "#/texts/86"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/87"
+                },
+                {
+                    "$ref": "#/texts/88"
+                },
+                {
+                    "$ref": "#/texts/89"
+                },
+                {
+                    "$ref": "#/texts/90"
+                },
+                {
+                    "$ref": "#/texts/91"
+                },
+                {
+                    "$ref": "#/texts/92"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/10",
+            "parent": {
+                "$ref": "#/texts/93"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/94"
+                },
+                {
+                    "$ref": "#/texts/95"
+                },
+                {
+                    "$ref": "#/texts/96"
+                },
+                {
+                    "$ref": "#/texts/97"
+                },
+                {
+                    "$ref": "#/texts/98"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/11",
+            "parent": {
+                "$ref": "#/texts/99"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/100"
+                },
+                {
+                    "$ref": "#/texts/101"
+                },
+                {
+                    "$ref": "#/texts/102"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/12",
+            "parent": {
+                "$ref": "#/texts/103"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/104"
+                },
+                {
+                    "$ref": "#/texts/105"
+                },
+                {
+                    "$ref": "#/texts/106"
+                },
+                {
+                    "$ref": "#/texts/107"
+                },
+                {
+                    "$ref": "#/texts/108"
+                },
+                {
+                    "$ref": "#/texts/109"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/13",
+            "parent": {
+                "$ref": "#/texts/110"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/113"
+                },
+                {
+                    "$ref": "#/texts/114"
+                },
+                {
+                    "$ref": "#/texts/115"
+                },
+                {
+                    "$ref": "#/texts/116"
+                },
+                {
+                    "$ref": "#/texts/117"
+                },
+                {
+                    "$ref": "#/texts/118"
+                }
+            ],
+            "content_layer": "body",
+            "name": "list",
+            "label": "list"
+        }
+    ],
+    "texts": [
+        {
+            "self_ref": "#/texts/0",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Sementes\r\n            \n\n\r\n            arrow_drop_down",
+            "text": "Sementes\r\n            \n\n\r\n            arrow_drop_down",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/1",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Proteção de Cultivos\r\n            \n\n\r\n            arrow_drop_down",
+            "text": "Proteção de Cultivos\r\n            \n\n\r\n            arrow_drop_down",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/2",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Impulso Bayer\r\n            \n\n\r\n            arrow_drop_down",
+            "text": "Impulso Bayer\r\n            \n\n\r\n            arrow_drop_down",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/3",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Programas e Soluções\r\n            \n\n\r\n            arrow_drop_down",
+            "text": "Programas e Soluções\r\n            \n\n\r\n            arrow_drop_down",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/4",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Conteúdos Agro\r\n            \n\n\r\n            arrow_drop_down",
+            "text": "Conteúdos Agro\r\n            \n\n\r\n            arrow_drop_down",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/5",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Sobre a Bayer\r\n            \n\n\r\n            arrow_drop_down",
+            "text": "Sobre a Bayer\r\n            \n\n\r\n            arrow_drop_down",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/6",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Fale Conosco\r\n            \n\n\r\n            arrow_drop_down",
+            "text": "Fale Conosco\r\n            \n\n\r\n            arrow_drop_down",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/7",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "content_layer": "furniture",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Minha Área Logada\r\n            \n\n\r\n            arrow_drop_down",
+            "text": "Minha Área Logada\r\n            \n\n\r\n            arrow_drop_down",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/8",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/9"
+                },
+                {
+                    "$ref": "#/texts/10"
+                },
+                {
+                    "$ref": "#/texts/11"
+                },
+                {
+                    "$ref": "#/texts/12"
+                },
+                {
+                    "$ref": "#/texts/13"
+                },
+                {
+                    "$ref": "#/groups/1"
+                }
+            ],
+            "content_layer": "body",
+            "label": "title",
+            "prov": [],
+            "orig": "Conheça as 5 principais doenças da soja",
+            "text": "Conheça as 5 principais doenças da soja"
+        },
+        {
+            "self_ref": "#/texts/9",
+            "parent": {
+                "$ref": "#/texts/8"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "As pragas agrícolas são as principais inimigas dos produtores. Em todas as safras, eles investem gastam valores consideráveis para otimizar o controle das pragas, evitando a perda da produtividade na lavoura.",
+            "text": "As pragas agrícolas são as principais inimigas dos produtores. Em todas as safras, eles investem gastam valores consideráveis para otimizar o controle das pragas, evitando a perda da produtividade na lavoura."
+        },
+        {
+            "self_ref": "#/texts/10",
+            "parent": {
+                "$ref": "#/texts/8"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "No Brasil existem grandes variedades\r\n             \r\n              de doenças e pragas da soja\r\n             \r\n             . Pensando nisso, preparamos uma lista com as 9 principais pragas que atacam os grãos, assim como a melhor forma de controlá-las. Confira!",
+            "text": "No Brasil existem grandes variedades\r\n             \r\n              de doenças e pragas da soja\r\n             \r\n             . Pensando nisso, preparamos uma lista com as 9 principais pragas que atacam os grãos, assim como a melhor forma de controlá-las. Confira!"
+        },
+        {
+            "self_ref": "#/texts/11",
+            "parent": {
+                "$ref": "#/texts/8"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Fazer o controle das doenças da soja é um dos principais desafios que o sojicultor deve superar para garantir uma safra produtiva. Caso contrário, a disseminação de patógenos pode reduzir de forma significativa a produtividade da cultura.",
+            "text": "Fazer o controle das doenças da soja é um dos principais desafios que o sojicultor deve superar para garantir uma safra produtiva. Caso contrário, a disseminação de patógenos pode reduzir de forma significativa a produtividade da cultura."
+        },
+        {
+            "self_ref": "#/texts/12",
+            "parent": {
+                "$ref": "#/texts/8"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Para evitar prejuízos, o sojicultor precisa aprender como prevenir doenças na\r\n             \r\n              cultura da soja\r\n             \r\n             e como eliminá-las da lavoura. O primeiro passo para alcançar esse objetivo é aprender como identificar as principais doenças da soja.",
+            "text": "Para evitar prejuízos, o sojicultor precisa aprender como prevenir doenças na\r\n             \r\n              cultura da soja\r\n             \r\n             e como eliminá-las da lavoura. O primeiro passo para alcançar esse objetivo é aprender como identificar as principais doenças da soja."
+        },
+        {
+            "self_ref": "#/texts/13",
+            "parent": {
+                "$ref": "#/texts/8"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Neste artigo, explicaremos quais são essas doenças, como identificá-las e quais as melhores estratégias de manejo para lidar com esse problema.",
+            "text": "Neste artigo, explicaremos quais são essas doenças, como identificá-las e quais as melhores estratégias de manejo para lidar com esse problema."
+        },
+        {
+            "self_ref": "#/texts/14",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/15"
+                },
+                {
+                    "$ref": "#/texts/16"
+                },
+                {
+                    "$ref": "#/texts/17"
+                },
+                {
+                    "$ref": "#/texts/18"
+                },
+                {
+                    "$ref": "#/texts/19"
+                },
+                {
+                    "$ref": "#/texts/20"
+                },
+                {
+                    "$ref": "#/texts/21"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Como identificar doenças nas plantações de soja?",
+            "text": "Como identificar doenças nas plantações de soja?",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/15",
+            "parent": {
+                "$ref": "#/texts/14"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A identificação correta das doenças da soja é uma das práticas mais importantes para garantir o sucesso das estratégias de controle.",
+            "text": "A identificação correta das doenças da soja é uma das práticas mais importantes para garantir o sucesso das estratégias de controle."
+        },
+        {
+            "self_ref": "#/texts/16",
+            "parent": {
+                "$ref": "#/texts/14"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Isso porque cada doença é causada por um microrganismo específico, com características únicas. Por esse motivo, cada doença pode exigir que o produtor adote medidas de controle químico específicas.",
+            "text": "Isso porque cada doença é causada por um microrganismo específico, com características únicas. Por esse motivo, cada doença pode exigir que o produtor adote medidas de controle químico específicas."
+        },
+        {
+            "self_ref": "#/texts/17",
+            "parent": {
+                "$ref": "#/texts/14"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O ideal é que a identificação seja feita de forma precoce. Afinal, quanto antes a doença for detectada, mais cedo o produtor adotará as práticas necessárias para acabar com o problema.",
+            "text": "O ideal é que a identificação seja feita de forma precoce. Afinal, quanto antes a doença for detectada, mais cedo o produtor adotará as práticas necessárias para acabar com o problema."
+        },
+        {
+            "self_ref": "#/texts/18",
+            "parent": {
+                "$ref": "#/texts/14"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "E a única maneira de garantir a identificação precisa e precoce dos patógenos na lavoura de soja é investir no monitoramento contínuo da plantação.",
+            "text": "E a única maneira de garantir a identificação precisa e precoce dos patógenos na lavoura de soja é investir no monitoramento contínuo da plantação."
+        },
+        {
+            "self_ref": "#/texts/19",
+            "parent": {
+                "$ref": "#/texts/14"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Esse monitoramento consiste na realização de visitas contínuas à lavoura, nas quais o produtor deve ficar atento a quaisquer sinais incomuns em uma planta saudável.",
+            "text": "Esse monitoramento consiste na realização de visitas contínuas à lavoura, nas quais o produtor deve ficar atento a quaisquer sinais incomuns em uma planta saudável."
+        },
+        {
+            "self_ref": "#/texts/20",
+            "parent": {
+                "$ref": "#/texts/14"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Por exemplo, folhas manchadas, vagens com pontos negros, caule necrosado, crescimento anormal, desfolha precoce, entre outros sinais.",
+            "text": "Por exemplo, folhas manchadas, vagens com pontos negros, caule necrosado, crescimento anormal, desfolha precoce, entre outros sinais."
+        },
+        {
+            "self_ref": "#/texts/21",
+            "parent": {
+                "$ref": "#/texts/14"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O uso de ferramentas da agricultura digital também auxilia nesse monitoramento, facilitando a identificação de problemas nos talhões, como falhas e falta de uniformidade. Tais problemas podem sinalizar as plantas infectadas na lavoura.",
+            "text": "O uso de ferramentas da agricultura digital também auxilia nesse monitoramento, facilitando a identificação de problemas nos talhões, como falhas e falta de uniformidade. Tais problemas podem sinalizar as plantas infectadas na lavoura."
+        },
+        {
+            "self_ref": "#/texts/22",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/23"
+                },
+                {
+                    "$ref": "#/texts/24"
+                },
+                {
+                    "$ref": "#/texts/25"
+                },
+                {
+                    "$ref": "#/texts/26"
+                },
+                {
+                    "$ref": "#/texts/27"
+                },
+                {
+                    "$ref": "#/texts/32"
+                },
+                {
+                    "$ref": "#/texts/39"
+                },
+                {
+                    "$ref": "#/texts/47"
+                },
+                {
+                    "$ref": "#/texts/52"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "5 principais doenças que afetam a cultura da soja",
+            "text": "5 principais doenças que afetam a cultura da soja",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/23",
+            "parent": {
+                "$ref": "#/texts/22"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Assim que o produtor identifica alguma anormalidade nas plantas, ele deve verificar se esse sinal é o sintoma de alguma doença da soja. Para fazer essa associação, ele precisa ter algum conhecimento sobre as doenças que atacam a cultura.",
+            "text": "Assim que o produtor identifica alguma anormalidade nas plantas, ele deve verificar se esse sinal é o sintoma de alguma doença da soja. Para fazer essa associação, ele precisa ter algum conhecimento sobre as doenças que atacam a cultura."
+        },
+        {
+            "self_ref": "#/texts/24",
+            "parent": {
+                "$ref": "#/texts/22"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Segundo o\r\n             \r\n              Manual de Identificação de Doenças da Soja\r\n             \r\n             , elaborado pela Embrapa (Empresa Brasileira de Pesquisa Agropecuária), já foram identificadas mais de 40 doenças nocivas à oleaginosa. No entanto, o produtor não precisa conhecer todas elas.",
+            "text": "Segundo o\r\n             \r\n              Manual de Identificação de Doenças da Soja\r\n             \r\n             , elaborado pela Embrapa (Empresa Brasileira de Pesquisa Agropecuária), já foram identificadas mais de 40 doenças nocivas à oleaginosa. No entanto, o produtor não precisa conhecer todas elas."
+        },
+        {
+            "self_ref": "#/texts/25",
+            "parent": {
+                "$ref": "#/texts/22"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O ideal é que conheça pelo menos os sintomas das principais doenças da soja, especialmente daquelas com histórico de incidência na região da fazenda.",
+            "text": "O ideal é que conheça pelo menos os sintomas das principais doenças da soja, especialmente daquelas com histórico de incidência na região da fazenda."
+        },
+        {
+            "self_ref": "#/texts/26",
+            "parent": {
+                "$ref": "#/texts/22"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Confira abaixo as características de algumas das doenças mais frequentes nas lavouras de soja do país.",
+            "text": "Confira abaixo as características de algumas das doenças mais frequentes nas lavouras de soja do país."
+        },
+        {
+            "self_ref": "#/texts/27",
+            "parent": {
+                "$ref": "#/texts/22"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/28"
+                },
+                {
+                    "$ref": "#/texts/29"
+                },
+                {
+                    "$ref": "#/texts/30"
+                },
+                {
+                    "$ref": "#/texts/31"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "1. Ferrugem asiática (Phakopsora pachyrhizi)",
+            "text": "1. Ferrugem asiática (Phakopsora pachyrhizi)",
+            "level": 3
+        },
+        {
+            "self_ref": "#/texts/28",
+            "parent": {
+                "$ref": "#/texts/27"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A\r\n             \r\n              ferrugem asiática\r\n             \r\n             é uma doença fúngica que ataca lavouras de todas as regiões do Brasil. Atualmente, ela apresenta o maior potencial de dano à cultura da soja, já que pode\r\n             \r\n              reduzir a produção em até 90%.",
+            "text": "A\r\n             \r\n              ferrugem asiática\r\n             \r\n             é uma doença fúngica que ataca lavouras de todas as regiões do Brasil. Atualmente, ela apresenta o maior potencial de dano à cultura da soja, já que pode\r\n             \r\n              reduzir a produção em até 90%."
+        },
+        {
+            "self_ref": "#/texts/29",
+            "parent": {
+                "$ref": "#/texts/27"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O fungo ataca principalmente as folhas, inibindo a fotossíntese e causando a desfolha precoce. Como resultado, o ataque impede a formação completa dos grãos, reduzindo a produtividade da lavoura.",
+            "text": "O fungo ataca principalmente as folhas, inibindo a fotossíntese e causando a desfolha precoce. Como resultado, o ataque impede a formação completa dos grãos, reduzindo a produtividade da lavoura."
+        },
+        {
+            "self_ref": "#/texts/30",
+            "parent": {
+                "$ref": "#/texts/27"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A presença da doença na plantação pode ser identificada ainda nos primeiros estágios de infestação, quando ocorre a formação de pequenos pontos mais escuros do que o tecido sadio da parte superior da folha. Esses pontos podem variar entre verde e cinza-esverdeado.",
+            "text": "A presença da doença na plantação pode ser identificada ainda nos primeiros estágios de infestação, quando ocorre a formação de pequenos pontos mais escuros do que o tecido sadio da parte superior da folha. Esses pontos podem variar entre verde e cinza-esverdeado."
+        },
+        {
+            "self_ref": "#/texts/31",
+            "parent": {
+                "$ref": "#/texts/27"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Já na parte inferior da folha, é possível observar a formação de pequenas protuberâncias com coloração castanha, semelhantes a feridas ou bolhas. Essas protuberâncias são conhecidas como urédias, estruturas responsáveis pela disseminação do fungo da ferrugem-asiática pelo ar.",
+            "text": "Já na parte inferior da folha, é possível observar a formação de pequenas protuberâncias com coloração castanha, semelhantes a feridas ou bolhas. Essas protuberâncias são conhecidas como urédias, estruturas responsáveis pela disseminação do fungo da ferrugem-asiática pelo ar."
+        },
+        {
+            "self_ref": "#/texts/32",
+            "parent": {
+                "$ref": "#/texts/22"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/33"
+                },
+                {
+                    "$ref": "#/texts/34"
+                },
+                {
+                    "$ref": "#/texts/35"
+                },
+                {
+                    "$ref": "#/texts/36"
+                },
+                {
+                    "$ref": "#/texts/37"
+                },
+                {
+                    "$ref": "#/texts/38"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "2. Antracnose (Colletotrichum truncatum)",
+            "text": "2. Antracnose (Colletotrichum truncatum)",
+            "level": 3
+        },
+        {
+            "self_ref": "#/texts/33",
+            "parent": {
+                "$ref": "#/texts/32"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A\r\n             \r\n              antracnose\r\n             \r\n             é uma das principais doenças fúngicas que ocorrem nas plantações de soja localizadas em regiões de Cerrado e no Matopiba. Essa doença é causada pelo fungo Colletotrichum truncatum, que pode causar danos nas folhas, caules, vagens e sementes da oleaginosa.",
+            "text": "A\r\n             \r\n              antracnose\r\n             \r\n             é uma das principais doenças fúngicas que ocorrem nas plantações de soja localizadas em regiões de Cerrado e no Matopiba. Essa doença é causada pelo fungo Colletotrichum truncatum, que pode causar danos nas folhas, caules, vagens e sementes da oleaginosa."
+        },
+        {
+            "self_ref": "#/texts/34",
+            "parent": {
+                "$ref": "#/texts/32"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O principal sintoma da antracnose é o aparecimento de manchas marrons ou em tons mais escuros. Essas manchas podem ser encontradas nas nervuras das folhas, hastes e vagens.",
+            "text": "O principal sintoma da antracnose é o aparecimento de manchas marrons ou em tons mais escuros. Essas manchas podem ser encontradas nas nervuras das folhas, hastes e vagens."
+        },
+        {
+            "self_ref": "#/texts/35",
+            "parent": {
+                "$ref": "#/texts/32"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Quando as vagens são infectadas nos estádios R3 e R4, elas podem apresentar uma mudança na coloração, que passa a variar entre castanho-escuro e negra. As vagens também podem ficar retorcidas e, quando estão em granação, podem apresentar manchas e pontuações negras.",
+            "text": "Quando as vagens são infectadas nos estádios R3 e R4, elas podem apresentar uma mudança na coloração, que passa a variar entre castanho-escuro e negra. As vagens também podem ficar retorcidas e, quando estão em granação, podem apresentar manchas e pontuações negras."
+        },
+        {
+            "self_ref": "#/texts/36",
+            "parent": {
+                "$ref": "#/texts/32"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O desenvolvimento desses sintomas pode causar a morte das plântulas, necrose nas folhas, quedas nas vagens e deterioração das sementes.",
+            "text": "O desenvolvimento desses sintomas pode causar a morte das plântulas, necrose nas folhas, quedas nas vagens e deterioração das sementes."
+        },
+        {
+            "self_ref": "#/texts/37",
+            "parent": {
+                "$ref": "#/texts/32"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O fungo causador da doença pode ser encontrado em sementes infectadas ou restos culturais contaminados de uma safra anterior. Lavouras com problemas de deficiência nutricional são mais suscetíveis à antractnose.",
+            "text": "O fungo causador da doença pode ser encontrado em sementes infectadas ou restos culturais contaminados de uma safra anterior. Lavouras com problemas de deficiência nutricional são mais suscetíveis à antractnose."
+        },
+        {
+            "self_ref": "#/texts/38",
+            "parent": {
+                "$ref": "#/texts/32"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Umidade e temperatura elevadas, características da região Centro-Oeste do país, também favorecem o desenvolvimento da antracnose.",
+            "text": "Umidade e temperatura elevadas, características da região Centro-Oeste do país, também favorecem o desenvolvimento da antracnose."
+        },
+        {
+            "self_ref": "#/texts/39",
+            "parent": {
+                "$ref": "#/texts/22"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/40"
+                },
+                {
+                    "$ref": "#/texts/41"
+                },
+                {
+                    "$ref": "#/texts/42"
+                },
+                {
+                    "$ref": "#/texts/43"
+                },
+                {
+                    "$ref": "#/texts/44"
+                },
+                {
+                    "$ref": "#/texts/45"
+                },
+                {
+                    "$ref": "#/texts/46"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "3. Podridão radicular de fitóftora (Phytophthora sojae)",
+            "text": "3. Podridão radicular de fitóftora (Phytophthora sojae)",
+            "level": 3
+        },
+        {
+            "self_ref": "#/texts/40",
+            "parent": {
+                "$ref": "#/texts/39"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A podridão radicular de fitóftora é uma doença causada pelo oomiceto Phytophthora sojae, um microrganismo semelhante ao fungo. Essa doença pode causar danos a diferentes culturas, inclusive na soja.",
+            "text": "A podridão radicular de fitóftora é uma doença causada pelo oomiceto Phytophthora sojae, um microrganismo semelhante ao fungo. Essa doença pode causar danos a diferentes culturas, inclusive na soja."
+        },
+        {
+            "self_ref": "#/texts/41",
+            "parent": {
+                "$ref": "#/texts/39"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Nesse caso, os sintomas da presença da podridão radicular podem ser identificados desde a fase de pré-emergência até a fase adulta da soja.",
+            "text": "Nesse caso, os sintomas da presença da podridão radicular podem ser identificados desde a fase de pré-emergência até a fase adulta da soja."
+        },
+        {
+            "self_ref": "#/texts/42",
+            "parent": {
+                "$ref": "#/texts/39"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O oomiceto pode infectar as sementes da oleaginosa, causando seu apodrecimento ou retardo no processo de germinação, causando a morte das plântulas.",
+            "text": "O oomiceto pode infectar as sementes da oleaginosa, causando seu apodrecimento ou retardo no processo de germinação, causando a morte das plântulas."
+        },
+        {
+            "self_ref": "#/texts/43",
+            "parent": {
+                "$ref": "#/texts/39"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "No entanto, o sintoma mais conhecido dessa doença é o comprometimento do sistema radicular da planta, já que as raízes secundárias são destruídas e a raiz principal também apodrecem.",
+            "text": "No entanto, o sintoma mais conhecido dessa doença é o comprometimento do sistema radicular da planta, já que as raízes secundárias são destruídas e a raiz principal também apodrecem."
+        },
+        {
+            "self_ref": "#/texts/44",
+            "parent": {
+                "$ref": "#/texts/39"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Além disso, quando a infecção ocorre na fase adulta, a planta pode apresentar outros sintomas. Por exemplo, clorose nas folhas, murchamento, apodrecimento da haste e dos ramos laterais, que adquirem uma coloração marrom-escura.",
+            "text": "Além disso, quando a infecção ocorre na fase adulta, a planta pode apresentar outros sintomas. Por exemplo, clorose nas folhas, murchamento, apodrecimento da haste e dos ramos laterais, que adquirem uma coloração marrom-escura."
+        },
+        {
+            "self_ref": "#/texts/45",
+            "parent": {
+                "$ref": "#/texts/39"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Caso não seja controlada, a doença pode causar a redução do rendimento da lavoura e da produtividade dos grãos.  A disseminação da podridão radicular está relacionada principalmente ao contato com solo e restos culturais contaminados.",
+            "text": "Caso não seja controlada, a doença pode causar a redução do rendimento da lavoura e da produtividade dos grãos.  A disseminação da podridão radicular está relacionada principalmente ao contato com solo e restos culturais contaminados."
+        },
+        {
+            "self_ref": "#/texts/46",
+            "parent": {
+                "$ref": "#/texts/39"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Temperaturas em torno de 25°C e a elevada umidade do solo durante a semeadura e a emergência também favorecem o desenvolvimento da doença.",
+            "text": "Temperaturas em torno de 25°C e a elevada umidade do solo durante a semeadura e a emergência também favorecem o desenvolvimento da doença."
+        },
+        {
+            "self_ref": "#/texts/47",
+            "parent": {
+                "$ref": "#/texts/22"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/48"
+                },
+                {
+                    "$ref": "#/texts/49"
+                },
+                {
+                    "$ref": "#/texts/50"
+                },
+                {
+                    "$ref": "#/texts/51"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "4. Oídio (Microsphaera diffusa)",
+            "text": "4. Oídio (Microsphaera diffusa)",
+            "level": 3
+        },
+        {
+            "self_ref": "#/texts/48",
+            "parent": {
+                "$ref": "#/texts/47"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "O\r\n             \r\n              oídio\r\n             \r\n             é uma doença fúngica que ataca a parte aérea das plantações. A principal característica dessa doença é o surgimento de micélio e esporos pulverulentos. Essas estruturas formam uma fina camada esbranquiçada nas folhas que, com o tempo, se torna castanho-acinzentada.",
+            "text": "O\r\n             \r\n              oídio\r\n             \r\n             é uma doença fúngica que ataca a parte aérea das plantações. A principal característica dessa doença é o surgimento de micélio e esporos pulverulentos. Essas estruturas formam uma fina camada esbranquiçada nas folhas que, com o tempo, se torna castanho-acinzentada."
+        },
+        {
+            "self_ref": "#/texts/49",
+            "parent": {
+                "$ref": "#/texts/47"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A presença dessa camada dificulta a realização da fotossíntese, podendo causar sintomas como seca e queda prematura das folhas.",
+            "text": "A presença dessa camada dificulta a realização da fotossíntese, podendo causar sintomas como seca e queda prematura das folhas."
+        },
+        {
+            "self_ref": "#/texts/50",
+            "parent": {
+                "$ref": "#/texts/47"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Embora possa ocorrer em qualquer estádio de desenvolvimento da soja, geralmente a infestação é registrada no início da floração. A doença ocorre principalmente em regiões com umidade do ar baixa e temperaturas amenas.",
+            "text": "Embora possa ocorrer em qualquer estádio de desenvolvimento da soja, geralmente a infestação é registrada no início da floração. A doença ocorre principalmente em regiões com umidade do ar baixa e temperaturas amenas."
+        },
+        {
+            "self_ref": "#/texts/51",
+            "parent": {
+                "$ref": "#/texts/47"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Como o oídio é facilmente disseminado com o vento, se espalhando gradativamente pela lavoura, o tratamento tardio da doença pode gerar grandes perdas na produção.",
+            "text": "Como o oídio é facilmente disseminado com o vento, se espalhando gradativamente pela lavoura, o tratamento tardio da doença pode gerar grandes perdas na produção."
+        },
+        {
+            "self_ref": "#/texts/52",
+            "parent": {
+                "$ref": "#/texts/22"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/53"
+                },
+                {
+                    "$ref": "#/texts/54"
+                },
+                {
+                    "$ref": "#/texts/55"
+                },
+                {
+                    "$ref": "#/texts/56"
+                },
+                {
+                    "$ref": "#/texts/57"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "5. Mancha olho de rã (Cercospora sojina)",
+            "text": "5. Mancha olho de rã (Cercospora sojina)",
+            "level": 3
+        },
+        {
+            "self_ref": "#/texts/53",
+            "parent": {
+                "$ref": "#/texts/52"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A mancha olho de rã é outra doença fúngica que já foi identificada em todas as regiões produtoras do país. Embora possa ocorrer em todos os estádios de desenvolvimento da soja, a doença é mais comum a partir da fase de floração.",
+            "text": "A mancha olho de rã é outra doença fúngica que já foi identificada em todas as regiões produtoras do país. Embora possa ocorrer em todos os estádios de desenvolvimento da soja, a doença é mais comum a partir da fase de floração."
+        },
+        {
+            "self_ref": "#/texts/54",
+            "parent": {
+                "$ref": "#/texts/52"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Em seu estágio inicial, a mancha olho de rã causa o aparecimento de pequenas manchas encharcadas na folha. Com o tempo, essas manchas passam a apresentar bordas castanho-avermelhadas, com centro acinzentado na parte inferior das folhas, e castanho-claro, na parte superior.",
+            "text": "Em seu estágio inicial, a mancha olho de rã causa o aparecimento de pequenas manchas encharcadas na folha. Com o tempo, essas manchas passam a apresentar bordas castanho-avermelhadas, com centro acinzentado na parte inferior das folhas, e castanho-claro, na parte superior."
+        },
+        {
+            "self_ref": "#/texts/55",
+            "parent": {
+                "$ref": "#/texts/52"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "A presença dessas lesões na folha pode causar a desfolha precoce e prejudicar a realização da fotossíntese, comprometendo o desenvolvimento das vagens e grãos.",
+            "text": "A presença dessas lesões na folha pode causar a desfolha precoce e prejudicar a realização da fotossíntese, comprometendo o desenvolvimento das vagens e grãos."
+        },
+        {
+            "self_ref": "#/texts/56",
+            "parent": {
+                "$ref": "#/texts/52"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Também é possível identificar a formação de lesões encharcadas que evoluem para manchas nos caules e vagens atacados pela doença. Nas sementes, o patógeno causa a formação de fissuras e manchas que variam entre parda e cinza.",
+            "text": "Também é possível identificar a formação de lesões encharcadas que evoluem para manchas nos caules e vagens atacados pela doença. Nas sementes, o patógeno causa a formação de fissuras e manchas que variam entre parda e cinza."
+        },
+        {
+            "self_ref": "#/texts/57",
+            "parent": {
+                "$ref": "#/texts/52"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Vale lembrar que a ocorrência da mancha de olho de rã é favorecida em ambientes com alta umidade e temperaturas médias entre 15ºC e 25ºC.",
+            "text": "Vale lembrar que a ocorrência da mancha de olho de rã é favorecida em ambientes com alta umidade e temperaturas médias entre 15ºC e 25ºC."
+        },
+        {
+            "self_ref": "#/texts/58",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/59"
+                },
+                {
+                    "$ref": "#/texts/60"
+                },
+                {
+                    "$ref": "#/texts/61"
+                },
+                {
+                    "$ref": "#/texts/62"
+                },
+                {
+                    "$ref": "#/groups/2"
+                },
+                {
+                    "$ref": "#/texts/73"
+                },
+                {
+                    "$ref": "#/texts/74"
+                },
+                {
+                    "$ref": "#/texts/75"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Quais as melhores estratégias de controle de doenças na soja?",
+            "text": "Quais as melhores estratégias de controle de doenças na soja?",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/59",
+            "parent": {
+                "$ref": "#/texts/58"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "As estratégias recomendadas para prevenir e controlar as doenças da soja variam de acordo com o patógeno.",
+            "text": "As estratégias recomendadas para prevenir e controlar as doenças da soja variam de acordo com o patógeno."
+        },
+        {
+            "self_ref": "#/texts/60",
+            "parent": {
+                "$ref": "#/texts/58"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Seja qual for esse microrganismo, o controle de doenças na soja deve ser realizado a partir da combinação de diferentes técnicas de manejo, conforme orienta o chamado Manejo Integrado de Doenças (MID).",
+            "text": "Seja qual for esse microrganismo, o controle de doenças na soja deve ser realizado a partir da combinação de diferentes técnicas de manejo, conforme orienta o chamado Manejo Integrado de Doenças (MID)."
+        },
+        {
+            "self_ref": "#/texts/61",
+            "parent": {
+                "$ref": "#/texts/58"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Essa abordagem recomenda a aplicação de um conjunto de estratégias de controle cultural, biológico, químico e genético na lavoura. O objetivo é reduzir as condições favoráveis à disseminação de patógenos na plantação e garantir que o produtor adote medidas de controle químico de forma assertiva.",
+            "text": "Essa abordagem recomenda a aplicação de um conjunto de estratégias de controle cultural, biológico, químico e genético na lavoura. O objetivo é reduzir as condições favoráveis à disseminação de patógenos na plantação e garantir que o produtor adote medidas de controle químico de forma assertiva."
+        },
+        {
+            "self_ref": "#/texts/62",
+            "parent": {
+                "$ref": "#/texts/58"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Confira abaixo algumas das principais estratégias do MID que o sojicultor pode utilizar na plantação.",
+            "text": "Confira abaixo algumas das principais estratégias do MID que o sojicultor pode utilizar na plantação."
+        },
+        {
+            "self_ref": "#/texts/63",
+            "parent": {
+                "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Uso de cultivares resistentes a doenças;",
+            "text": "Uso de cultivares resistentes a doenças;",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/64",
+            "parent": {
+                "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Adubação adequada baseada na análise do solo;",
+            "text": "Adubação adequada baseada na análise do solo;",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/65",
+            "parent": {
+                "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Tratamento de sementes;",
+            "text": "Tratamento de sementes;",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/66",
+            "parent": {
+                "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Rotação de culturas\r\n               \r\n               ;",
+            "text": "Rotação de culturas\r\n               \r\n               ;",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/67",
+            "parent": {
+                "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Eliminação dos restos culturais;",
+            "text": "Eliminação dos restos culturais;",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/68",
+            "parent": {
+                "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Controle de plantas daninhas e tigueras que podem ser hospedeiras de algumas doenças da soja;",
+            "text": "Controle de plantas daninhas e tigueras que podem ser hospedeiras de algumas doenças da soja;",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/69",
+            "parent": {
+                "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Plantio de acordo com o calendário agrícola;",
+            "text": "Plantio de acordo com o calendário agrícola;",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/70",
+            "parent": {
+                "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Respeito ao\r\n               \r\n                vazio sanitário da soja\r\n               \r\n               ;",
+            "text": "Respeito ao\r\n               \r\n                vazio sanitário da soja\r\n               \r\n               ;",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/71",
+            "parent": {
+                "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Limpeza de máquinas e de equipamentos após utilização;",
+            "text": "Limpeza de máquinas e de equipamentos após utilização;",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/72",
+            "parent": {
+                "$ref": "#/groups/2"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Aplicação de fungicidas de acordo com o patógeno causador da doença.",
+            "text": "Aplicação de fungicidas de acordo com o patógeno causador da doença.",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/73",
+            "parent": {
+                "$ref": "#/texts/58"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Vale lembrar que adotar apenas uma dessas estratégias de forma isolada não é uma abordagem eficiente para prevenir e controlar doenças que atacam a cultura da soja.",
+            "text": "Vale lembrar que adotar apenas uma dessas estratégias de forma isolada não é uma abordagem eficiente para prevenir e controlar doenças que atacam a cultura da soja."
+        },
+        {
+            "self_ref": "#/texts/74",
+            "parent": {
+                "$ref": "#/texts/58"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Somente a integração de diferentes práticas de manejo é capaz de proteger a lavoura e garantir que ela se desenvolva de forma saudável.",
+            "text": "Somente a integração de diferentes práticas de manejo é capaz de proteger a lavoura e garantir que ela se desenvolva de forma saudável."
+        },
+        {
+            "self_ref": "#/texts/75",
+            "parent": {
+                "$ref": "#/texts/58"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Gostou do conteúdo? Aprenda mais sobre o manejo de doenças no\r\n             \r\n              blog da Agro Bayer\r\n             \r\n             !",
+            "text": "Gostou do conteúdo? Aprenda mais sobre o manejo de doenças no\r\n             \r\n              blog da Agro Bayer\r\n             \r\n             !"
+        },
+        {
+            "self_ref": "#/texts/76",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/77"
+                },
+                {
+                    "$ref": "#/groups/3"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Você pode gostar",
+            "text": "Você pode gostar",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/77",
+            "parent": {
+                "$ref": "#/texts/76"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Separamos alguns artigos que também podem ser do seu interesse",
+            "text": "Separamos alguns artigos que também podem ser do seu interesse"
+        },
+        {
+            "self_ref": "#/texts/78",
+            "parent": {
+                "$ref": "#/groups/3"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Artigo",
+            "text": "Artigo",
+            "level": 4
+        },
+        {
+            "self_ref": "#/texts/79",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [
+                {
+                    "$ref": "#/groups/4"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Como funcionam as diamidas?",
+            "text": "Como funcionam as diamidas?",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/80",
+            "parent": {
+                "$ref": "#/groups/4"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Artigo",
+            "text": "Artigo",
+            "level": 4
+        },
+        {
+            "self_ref": "#/texts/81",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [
+                {
+                    "$ref": "#/groups/5"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Como a plantabilidade pode ajudar a assegurar sua produtividade?",
+            "text": "Como a plantabilidade pode ajudar a assegurar sua produtividade?",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/82",
+            "parent": {
+                "$ref": "#/groups/5"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Artigo",
+            "text": "Artigo",
+            "level": 4
+        },
+        {
+            "self_ref": "#/texts/83",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [
+                {
+                    "$ref": "#/groups/6"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Mofo branco nas plantas: o que é e como identificar",
+            "text": "Mofo branco nas plantas: o que é e como identificar",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/84",
+            "parent": {
+                "$ref": "#/groups/6"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Artigo",
+            "text": "Artigo",
+            "level": 4
+        },
+        {
+            "self_ref": "#/texts/85",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [
+                {
+                    "$ref": "#/groups/7"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Plataforma digital da Bayer chega a 22 milhões de hectares mapeados no Brasil",
+            "text": "Plataforma digital da Bayer chega a 22 milhões de hectares mapeados no Brasil",
+            "level": 2
+        },
+        {
+            "self_ref": "#/texts/86",
+            "parent": {
+                "$ref": "#/groups/8"
+            },
+            "children": [
+                {
+                    "$ref": "#/groups/9"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Produtos e Soluções",
+            "text": "Produtos e Soluções",
+            "level": 5
+        },
+        {
+            "self_ref": "#/texts/87",
+            "parent": {
+                "$ref": "#/groups/9"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Produtos para Proteção de Cultivos",
+            "text": "Produtos para Proteção de Cultivos",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/88",
+            "parent": {
+                "$ref": "#/groups/9"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Sementes",
+            "text": "Sementes",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/89",
+            "parent": {
+                "$ref": "#/groups/9"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Tratamentos de Sementes",
+            "text": "Tratamentos de Sementes",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/90",
+            "parent": {
+                "$ref": "#/groups/9"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "PRO Carbono",
+            "text": "PRO Carbono",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/91",
+            "parent": {
+                "$ref": "#/groups/9"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "VAlora Milho",
+            "text": "VAlora Milho",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/92",
+            "parent": {
+                "$ref": "#/groups/9"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Onde Comprar",
+            "text": "Onde Comprar",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/93",
+            "parent": {
+                "$ref": "#/groups/8"
+            },
+            "children": [
+                {
+                    "$ref": "#/groups/10"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Impulso Bayer",
+            "text": "Impulso Bayer",
+            "level": 5
+        },
+        {
+            "self_ref": "#/texts/94",
+            "parent": {
+                "$ref": "#/groups/10"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Impulso Bayer",
+            "text": "Impulso Bayer",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/95",
+            "parent": {
+                "$ref": "#/groups/10"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Conheça o Programa",
+            "text": "Conheça o Programa",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/96",
+            "parent": {
+                "$ref": "#/groups/10"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Benefícios",
+            "text": "Benefícios",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/97",
+            "parent": {
+                "$ref": "#/groups/10"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Serviços",
+            "text": "Serviços",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/98",
+            "parent": {
+                "$ref": "#/groups/10"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Calculadora",
+            "text": "Calculadora",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/99",
+            "parent": {
+                "$ref": "#/groups/8"
+            },
+            "children": [
+                {
+                    "$ref": "#/groups/11"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Conteúdos Agro",
+            "text": "Conteúdos Agro",
+            "level": 5
+        },
+        {
+            "self_ref": "#/texts/100",
+            "parent": {
+                "$ref": "#/groups/11"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Blog do Agro",
+            "text": "Blog do Agro",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/101",
+            "parent": {
+                "$ref": "#/groups/11"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Conteúdos Impulso Bayer",
+            "text": "Conteúdos Impulso Bayer",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/102",
+            "parent": {
+                "$ref": "#/groups/11"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Alvos e Culturas",
+            "text": "Alvos e Culturas",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/103",
+            "parent": {
+                "$ref": "#/groups/8"
+            },
+            "children": [
+                {
+                    "$ref": "#/groups/12"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "Sobre a Bayer",
+            "text": "Sobre a Bayer",
+            "level": 5
+        },
+        {
+            "self_ref": "#/texts/104",
+            "parent": {
+                "$ref": "#/groups/12"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Bayer é Agro",
+            "text": "Bayer é Agro",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/105",
+            "parent": {
+                "$ref": "#/groups/12"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Conexão Mulheres",
+            "text": "Conexão Mulheres",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/106",
+            "parent": {
+                "$ref": "#/groups/12"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Converse Bayer:",
+            "text": "Converse Bayer:",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/107",
+            "parent": {
+                "$ref": "#/groups/12"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "support_agent\r\n            \n\n\n\n\r\n              0800 0115 560",
+            "text": "support_agent\r\n            \n\n\n\n\r\n              0800 0115 560",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/108",
+            "parent": {
+                "$ref": "#/groups/12"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "question_answer\r\n            \n\n\n\n\r\n              Whatsapp",
+            "text": "question_answer\r\n            \n\n\n\n\r\n              Whatsapp",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/109",
+            "parent": {
+                "$ref": "#/groups/12"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "mail_outline\r\n            \n\n\n\n\r\n              Fale Conosco",
+            "text": "mail_outline\r\n            \n\n\n\n\r\n              Fale Conosco",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/110",
+            "parent": {
+                "$ref": "#/groups/8"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/111"
+                },
+                {
+                    "$ref": "#/texts/112"
+                },
+                {
+                    "$ref": "#/groups/13"
+                }
+            ],
+            "content_layer": "body",
+            "label": "section_header",
+            "prov": [],
+            "orig": "ADVERTÊNCIAS",
+            "text": "ADVERTÊNCIAS",
+            "level": 5
+        },
+        {
+            "self_ref": "#/texts/111",
+            "parent": {
+                "$ref": "#/texts/110"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "PROTEÇÃO À SAÚDE HUMANA, ANIMAL E AO MEIO AMBIENTE. ATENÇÃO: ESTE PRODUTO É PERIGOSO À SAÚDE HUMANA, ANIMAL E AO MEIO AMBIENTE; USO AGRÍCOLA; VENDA SOB RECEITUÁRIO AGRONÔMICO; CONSULTE SEMPRE UM AGRÔNOMO; INFORME-SE E REALIZE O MANEJO INTEGRADO DE PRAGAS; DESCARTE CORRETAMENTE AS EMBALAGENS E OS RESTOS DOS PRODUTOS; UTILIZE SEMPRE OS EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPI’S); NÃO PERMITA QUE MENORES DE IDADE TRABALHEM NA APLICAÇÃO DESTE PRODUTO; NÃO LAVE AS EMBALAGENS OU EQUIPAMENTOS EM LAGOS, FONTES, RIOS E DEMAIS CORPOS D’ÁGUA; AS EMBALAGENS VAZIAS DEVEM SER ENXAGUADAS TRÊS VEZES E A CALDA RESTANTE DEVE SER ACRESCENTADA À PREPARAÇÃO E SER PULVERIZADA (TRÍPLICE LAVAGEM); APLIQUE SOMENTE AS DOSES RECOMENDADAS; MANTENHA CRIANÇAS, ANIMAIS DOMÉSTICOS E PESSOAS DESPROTEGIDAS AFASTADOS DAS ÁREAS DE APLICAÇÃO; NÃO COMA, NÃO BEBA E NÃO FUME DURANTE O MANUSEIO DO PRODUTO; NÃO DESENTUPA BICOS, ORIFÍCIOS OU VÁLVULAS COM A BOCA; NÃO UTILIZE AS EMBALAGENS VAZIAS; PRIMEIROS SOCORROS E DEMAIS INFORMAÇÕES VIDE RÓTULO, BULA E RECEITA; PERICULOSIDADE AMBIENTAL E DEMAIS INFORMAÇÕES VIDE RÓTULO, BULA E RECEITA; EVITE CONTAMINAÇÃO AMBIENTAL, PRESERVE A NATUREZA; NÃO UTILIZE EQUIPAMENTOS DE APLICAÇÃO COM VAZAMENTOS; LEIA ATENTAMENTE E SIGA AS INSTRUÇÕES CONTIDAS NO RÓTULO, A BULA E O RECEITUÁRIO AGRONÔMICO, OU FAÇA-O PARA QUEM NÃO SOUBER LER. USO EXCLUSIVO AGRÍCOLA.",
+            "text": "PROTEÇÃO À SAÚDE HUMANA, ANIMAL E AO MEIO AMBIENTE. ATENÇÃO: ESTE PRODUTO É PERIGOSO À SAÚDE HUMANA, ANIMAL E AO MEIO AMBIENTE; USO AGRÍCOLA; VENDA SOB RECEITUÁRIO AGRONÔMICO; CONSULTE SEMPRE UM AGRÔNOMO; INFORME-SE E REALIZE O MANEJO INTEGRADO DE PRAGAS; DESCARTE CORRETAMENTE AS EMBALAGENS E OS RESTOS DOS PRODUTOS; UTILIZE SEMPRE OS EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPI’S); NÃO PERMITA QUE MENORES DE IDADE TRABALHEM NA APLICAÇÃO DESTE PRODUTO; NÃO LAVE AS EMBALAGENS OU EQUIPAMENTOS EM LAGOS, FONTES, RIOS E DEMAIS CORPOS D’ÁGUA; AS EMBALAGENS VAZIAS DEVEM SER ENXAGUADAS TRÊS VEZES E A CALDA RESTANTE DEVE SER ACRESCENTADA À PREPARAÇÃO E SER PULVERIZADA (TRÍPLICE LAVAGEM); APLIQUE SOMENTE AS DOSES RECOMENDADAS; MANTENHA CRIANÇAS, ANIMAIS DOMÉSTICOS E PESSOAS DESPROTEGIDAS AFASTADOS DAS ÁREAS DE APLICAÇÃO; NÃO COMA, NÃO BEBA E NÃO FUME DURANTE O MANUSEIO DO PRODUTO; NÃO DESENTUPA BICOS, ORIFÍCIOS OU VÁLVULAS COM A BOCA; NÃO UTILIZE AS EMBALAGENS VAZIAS; PRIMEIROS SOCORROS E DEMAIS INFORMAÇÕES VIDE RÓTULO, BULA E RECEITA; PERICULOSIDADE AMBIENTAL E DEMAIS INFORMAÇÕES VIDE RÓTULO, BULA E RECEITA; EVITE CONTAMINAÇÃO AMBIENTAL, PRESERVE A NATUREZA; NÃO UTILIZE EQUIPAMENTOS DE APLICAÇÃO COM VAZAMENTOS; LEIA ATENTAMENTE E SIGA AS INSTRUÇÕES CONTIDAS NO RÓTULO, A BULA E O RECEITUÁRIO AGRONÔMICO, OU FAÇA-O PARA QUEM NÃO SOUBER LER. USO EXCLUSIVO AGRÍCOLA."
+        },
+        {
+            "self_ref": "#/texts/112",
+            "parent": {
+                "$ref": "#/texts/110"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "text",
+            "prov": [],
+            "orig": "Copyright © Bayer Crop Science 2024",
+            "text": "Copyright © Bayer Crop Science 2024"
+        },
+        {
+            "self_ref": "#/texts/113",
+            "parent": {
+                "$ref": "#/groups/13"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Condições Gerais",
+            "text": "Condições Gerais",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/114",
+            "parent": {
+                "$ref": "#/groups/13"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Política de Privacidade",
+            "text": "Política de Privacidade",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/115",
+            "parent": {
+                "$ref": "#/groups/13"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Regulamento Impulso Bayer",
+            "text": "Regulamento Impulso Bayer",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/116",
+            "parent": {
+                "$ref": "#/groups/13"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Política de Privacidade de Redes Sociais",
+            "text": "Política de Privacidade de Redes Sociais",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/117",
+            "parent": {
+                "$ref": "#/groups/13"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Imprint",
+            "text": "Imprint",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/118",
+            "parent": {
+                "$ref": "#/groups/13"
+            },
+            "children": [],
+            "content_layer": "body",
+            "label": "list_item",
+            "prov": [],
+            "orig": "Configurações de Cookies",
+            "text": "Configurações de Cookies",
+            "enumerated": false,
+            "marker": "-"
+        }
+    ],
+    "pictures": [],
+    "tables": [],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {}
+}

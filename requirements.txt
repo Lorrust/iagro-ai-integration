@@ -1,3 +1,22 @@
+# scraping
 beautifulsoup4
 requests
 docling
+
+# fastapi
+fastapi
+uvicorn
+python-multipart
+
+# AI / RAG
+openai
+chromadb
+
+# firebase
+firebase-admin
+
+# environment variables
+python-dotenv
+
+# logging
+loguru

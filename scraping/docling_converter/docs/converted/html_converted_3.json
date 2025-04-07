@@ -1,1203 +1,1203 @@
 {
-    "schema_name": "DoclingDocument",
-    "version": "1.3.0",
-    "name": "tmpp_e1wcoe",
-    "origin": {
-        "mimetype": "text/html",
-        "binary_hash": 4577194683646799948,
-        "filename": "tmpp_e1wcoe.html"
-    },
-    "furniture": {
-        "self_ref": "#/furniture",
-        "children": [],
-        "content_layer": "furniture",
-        "name": "_root_",
-        "label": "unspecified"
-    },
-    "body": {
-        "self_ref": "#/body",
-        "children": [
-            {
-                "$ref": "#/groups/0"
-            },
-            {
-                "$ref": "#/texts/16"
-            }
-        ],
-        "content_layer": "body",
-        "name": "_root_",
-        "label": "unspecified"
-    },
-    "groups": [
-        {
-            "self_ref": "#/groups/0",
-            "parent": {
-                "$ref": "#/body"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/0"
-                }
-            ],
-            "content_layer": "body",
-            "name": "header-1",
-            "label": "section"
-        },
-        {
-            "self_ref": "#/groups/1",
-            "parent": {
-                "$ref": "#/texts/0"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/2"
-                },
-                {
-                    "$ref": "#/texts/3"
-                },
-                {
-                    "$ref": "#/texts/4"
-                },
-                {
-                    "$ref": "#/texts/5"
-                },
-                {
-                    "$ref": "#/texts/6"
-                },
-                {
-                    "$ref": "#/texts/7"
-                },
-                {
-                    "$ref": "#/texts/8"
-                }
-            ],
-            "content_layer": "body",
-            "name": "list",
-            "label": "list"
-        },
-        {
-            "self_ref": "#/groups/2",
-            "parent": {
-                "$ref": "#/texts/0"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/9"
-                },
-                {
-                    "$ref": "#/texts/10"
-                },
-                {
-                    "$ref": "#/texts/11"
-                },
-                {
-                    "$ref": "#/texts/12"
-                },
-                {
-                    "$ref": "#/texts/13"
-                },
-                {
-                    "$ref": "#/texts/14"
-                },
-                {
-                    "$ref": "#/texts/15"
-                }
-            ],
-            "content_layer": "body",
-            "name": "list",
-            "label": "list"
-        },
-        {
-            "self_ref": "#/groups/3",
-            "parent": {
-                "$ref": "#/texts/41"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/42"
-                },
-                {
-                    "$ref": "#/texts/43"
-                },
-                {
-                    "$ref": "#/texts/44"
-                }
-            ],
-            "content_layer": "body",
-            "name": "list",
-            "label": "list"
-        },
-        {
-            "self_ref": "#/groups/4",
-            "parent": {
-                "$ref": "#/texts/41"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/45"
-                }
-            ],
-            "content_layer": "body",
-            "name": "list",
-            "label": "list"
-        },
-        {
-            "self_ref": "#/groups/5",
-            "parent": {
-                "$ref": "#/texts/41"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/46"
-                },
-                {
-                    "$ref": "#/texts/47"
-                },
-                {
-                    "$ref": "#/texts/48"
-                },
-                {
-                    "$ref": "#/texts/49"
-                }
-            ],
-            "content_layer": "body",
-            "name": "list",
-            "label": "list"
-        },
-        {
-            "self_ref": "#/groups/6",
-            "parent": {
-                "$ref": "#/texts/51"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/52"
-                },
-                {
-                    "$ref": "#/texts/53"
-                },
-                {
-                    "$ref": "#/texts/54"
-                }
-            ],
-            "content_layer": "body",
-            "name": "list",
-            "label": "list"
-        },
-        {
-            "self_ref": "#/groups/7",
-            "parent": {
-                "$ref": "#/texts/51"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/55"
-                }
-            ],
-            "content_layer": "body",
-            "name": "list",
-            "label": "list"
-        },
-        {
-            "self_ref": "#/groups/8",
-            "parent": {
-                "$ref": "#/texts/51"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/56"
-                },
-                {
-                    "$ref": "#/texts/57"
-                },
-                {
-                    "$ref": "#/texts/58"
-                },
-                {
-                    "$ref": "#/texts/59"
-                }
-            ],
-            "content_layer": "body",
-            "name": "list",
-            "label": "list"
-        }
+  "schema_name": "DoclingDocument",
+  "version": "1.3.0",
+  "name": "tmpp_e1wcoe",
+  "origin": {
+    "mimetype": "text/html",
+    "binary_hash": 4577194683646799948,
+    "filename": "tmpp_e1wcoe.html"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/16"
+      }
     ],
-    "texts": [
-        {
-            "self_ref": "#/texts/0",
-            "parent": {
-                "$ref": "#/groups/0"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/1"
-                },
-                {
-                    "$ref": "#/groups/1"
-                },
-                {
-                    "$ref": "#/groups/2"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "6 de abril de  2025 - 22:18h",
-            "text": "6 de abril de  2025 - 22:18h",
-            "level": 1
-        },
-        {
-            "self_ref": "#/texts/1",
-            "parent": {
-                "$ref": "#/texts/0"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "A Folha Agrícola",
-            "text": "A Folha Agrícola"
-        },
-        {
-            "self_ref": "#/texts/2",
-            "parent": {
-                "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "agronegócio",
-            "text": "agronegócio",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/3",
-            "parent": {
-                "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "agropecuário",
-            "text": "agropecuário",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/4",
-            "parent": {
-                "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "agricultura",
-            "text": "agricultura",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/5",
-            "parent": {
-                "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Cotações",
-            "text": "Cotações",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/6",
-            "parent": {
-                "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Versão Digital",
-            "text": "Versão Digital",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/7",
-            "parent": {
-                "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Artigos",
-            "text": "Artigos",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/8",
-            "parent": {
-                "$ref": "#/groups/1"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "anuncie",
-            "text": "anuncie",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/9",
-            "parent": {
-                "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "agronegócio",
-            "text": "agronegócio",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/10",
-            "parent": {
-                "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "agropecuário",
-            "text": "agropecuário",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/11",
-            "parent": {
-                "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "agricultura",
-            "text": "agricultura",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/12",
-            "parent": {
-                "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Cotações",
-            "text": "Cotações",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/13",
-            "parent": {
-                "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Versão Digital",
-            "text": "Versão Digital",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/14",
-            "parent": {
-                "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Artigos",
-            "text": "Artigos",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/15",
-            "parent": {
-                "$ref": "#/groups/2"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "anuncie",
-            "text": "anuncie",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/16",
-            "parent": {
-                "$ref": "#/body"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/17"
-                },
-                {
-                    "$ref": "#/texts/18"
-                },
-                {
-                    "$ref": "#/texts/19"
-                },
-                {
-                    "$ref": "#/texts/20"
-                },
-                {
-                    "$ref": "#/texts/21"
-                },
-                {
-                    "$ref": "#/texts/22"
-                },
-                {
-                    "$ref": "#/texts/23"
-                },
-                {
-                    "$ref": "#/texts/24"
-                },
-                {
-                    "$ref": "#/texts/25"
-                },
-                {
-                    "$ref": "#/texts/26"
-                },
-                {
-                    "$ref": "#/texts/35"
-                },
-                {
-                    "$ref": "#/texts/50"
-                },
-                {
-                    "$ref": "#/texts/60"
-                },
-                {
-                    "$ref": "#/texts/63"
-                }
-            ],
-            "content_layer": "body",
-            "label": "title",
-            "prov": [],
-            "orig": "Pragas e doenças podem comprometer até 90% da produção agrícola",
-            "text": "Pragas e doenças podem comprometer até 90% da produção agrícola"
-        },
-        {
-            "self_ref": "#/texts/17",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "É preciso controle rígido para impedir sua ação no clima tropical",
-            "text": "É preciso controle rígido para impedir sua ação no clima tropical"
-        },
-        {
-            "self_ref": "#/texts/18",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "O fenômeno El Niño está no seu pico. Com isso, as temperaturas devem ficar ainda mais extremas. E, segundo a Administração Norte Americana de Oceano e Atmosfera (NOAA), ele deve continuar influenciando o clima pelo menos até meados de abril de 2024. “Esse fenômeno climático é uma das principais preocupações dos agricultores, pois altera as janelas de semeadura no Cerrado, causando atrasos nos plantios devido ao menor índice de precipitações nessas regiões. Já na região sul do país, o fenômeno é caracterizado pelo aumento das chuvas. Tal cenário é ideal para o aumento da presença de pragas e doenças na agricultura”, alerta Paulo Laurente, Head de Marketing da ORÍGEO",
-            "text": "O fenômeno El Niño está no seu pico. Com isso, as temperaturas devem ficar ainda mais extremas. E, segundo a Administração Norte Americana de Oceano e Atmosfera (NOAA), ele deve continuar influenciando o clima pelo menos até meados de abril de 2024. “Esse fenômeno climático é uma das principais preocupações dos agricultores, pois altera as janelas de semeadura no Cerrado, causando atrasos nos plantios devido ao menor índice de precipitações nessas regiões. Já na região sul do país, o fenômeno é caracterizado pelo aumento das chuvas. Tal cenário é ideal para o aumento da presença de pragas e doenças na agricultura”, alerta Paulo Laurente, Head de Marketing da ORÍGEO"
-        },
-        {
-            "self_ref": "#/texts/19",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Relatório do Sindicato Nacional da Indústria de Produtos para Defesa Vegetal (Sindiveg) mostra que a ocorrência de pragas cresceu 20% no primeiro semestre de 2023. Na soja, foi registrado aumento de 6% e no milho, 10%. O fluxo irregular de chuvas e temperaturas extremas estão entre os principais motivos para esse aumento.",
-            "text": "Relatório do Sindicato Nacional da Indústria de Produtos para Defesa Vegetal (Sindiveg) mostra que a ocorrência de pragas cresceu 20% no primeiro semestre de 2023. Na soja, foi registrado aumento de 6% e no milho, 10%. O fluxo irregular de chuvas e temperaturas extremas estão entre os principais motivos para esse aumento."
-        },
-        {
-            "self_ref": "#/texts/20",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Os insetos mosca-branca e percevejo-marrom –\r\n            \r\n             Bemisia tabaci\r\n            \r\n            e\r\n            \r\n             Euschistus Heros\r\n            \r\n            , respectivamente – são as pragas que mais afetam o cultivo de soja. “Esses estão sendo favorecidos pelas altas temperaturas e clima seco que está ocorrendo no Cerrado. Enquanto o percevejo se alimenta das vagens da soja, infectando as plantas, a mosca-branca suga a seiva das folhas, o que as enfraquece e prejudica o seu crescimento. Ambas as pragas diminuem significativamente o potencial produtivo do cultivo, com perdas de 30% a 50%”, ressalta Paulo.",
-            "text": "Os insetos mosca-branca e percevejo-marrom –\r\n            \r\n             Bemisia tabaci\r\n            \r\n            e\r\n            \r\n             Euschistus Heros\r\n            \r\n            , respectivamente – são as pragas que mais afetam o cultivo de soja. “Esses estão sendo favorecidos pelas altas temperaturas e clima seco que está ocorrendo no Cerrado. Enquanto o percevejo se alimenta das vagens da soja, infectando as plantas, a mosca-branca suga a seiva das folhas, o que as enfraquece e prejudica o seu crescimento. Ambas as pragas diminuem significativamente o potencial produtivo do cultivo, com perdas de 30% a 50%”, ressalta Paulo."
-        },
-        {
-            "self_ref": "#/texts/21",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "“El Niño ainda intensifica outro problema: o aumento de incidência de doenças, que já é realidade em determinados estados, como Rio Grande do Sul, Santa Catarina e Paraná, Devido ao excesso de chuvas, o clima ficou extremamente favorável para o desenvolvimento desses inimigos, principalmente a ferrugem asiática, fungo biotrófico, que está caminhando rapidamente para as demais regiões produtoras, como Mato Grosso do Sul, segundo o consórcio Antiferrugem da Embrapa. Assim, no Cerrado, principalmente nas áreas onde a semeadura se estendeu devido ao atraso e à falta de chuva, a tendência é ter significativos prejuízos fitossanitários na safra 2023/2024.” Informa Paulo Laurente.",
-            "text": "“El Niño ainda intensifica outro problema: o aumento de incidência de doenças, que já é realidade em determinados estados, como Rio Grande do Sul, Santa Catarina e Paraná, Devido ao excesso de chuvas, o clima ficou extremamente favorável para o desenvolvimento desses inimigos, principalmente a ferrugem asiática, fungo biotrófico, que está caminhando rapidamente para as demais regiões produtoras, como Mato Grosso do Sul, segundo o consórcio Antiferrugem da Embrapa. Assim, no Cerrado, principalmente nas áreas onde a semeadura se estendeu devido ao atraso e à falta de chuva, a tendência é ter significativos prejuízos fitossanitários na safra 2023/2024.” Informa Paulo Laurente."
-        },
-        {
-            "self_ref": "#/texts/22",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "A ferrugem asiática, causada pelo fungo\r\n            \r\n             Phakopsora pachirhizi\r\n            \r\n            , é a doença mais severa enfrentada pela soja. De acordo com a Embrapa, ela pode causar perdas de até 90% se não controlada com eficácia. As condições climáticas são determinantes para a incidência da doença e favorecem o seu desenvolvimento.",
-            "text": "A ferrugem asiática, causada pelo fungo\r\n            \r\n             Phakopsora pachirhizi\r\n            \r\n            , é a doença mais severa enfrentada pela soja. De acordo com a Embrapa, ela pode causar perdas de até 90% se não controlada com eficácia. As condições climáticas são determinantes para a incidência da doença e favorecem o seu desenvolvimento."
-        },
-        {
-            "self_ref": "#/texts/23",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Para o controle das pragas, o manejo integrado de pragas (MIP) é a mais eficaz estratégia. “O MIP combina tecnologias e a utilização de táticas mais sustentáveis, que visam o monitoramento das pragas e o aumento da produtividade, além de reduzir os custos com defensivos agrícolas. Em relação às doenças, é crucial a utilização de defensivos agrícolas devidamente registrados para a cultura, respeitando o número máximo de aplicações durante o ciclo como também os intervalos de aplicação. A utilização de fungicidas multissítios traz maior segurança e efetividade no manejo. Nós, da ORÍGEO, oferecemos soluções ideais para aplicação dessas estratégias, que também levam em consideração o meio ambiente e o manejo do agricultor. Com isso, cumprimos nossa função de contribuir para o sucesso produtivo da agricultura de maneira sustentável”, finaliza Paulo Laurente.",
-            "text": "Para o controle das pragas, o manejo integrado de pragas (MIP) é a mais eficaz estratégia. “O MIP combina tecnologias e a utilização de táticas mais sustentáveis, que visam o monitoramento das pragas e o aumento da produtividade, além de reduzir os custos com defensivos agrícolas. Em relação às doenças, é crucial a utilização de defensivos agrícolas devidamente registrados para a cultura, respeitando o número máximo de aplicações durante o ciclo como também os intervalos de aplicação. A utilização de fungicidas multissítios traz maior segurança e efetividade no manejo. Nós, da ORÍGEO, oferecemos soluções ideais para aplicação dessas estratégias, que também levam em consideração o meio ambiente e o manejo do agricultor. Com isso, cumprimos nossa função de contribuir para o sucesso produtivo da agricultura de maneira sustentável”, finaliza Paulo Laurente."
-        },
-        {
-            "self_ref": "#/texts/24",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Sobre a ORÍGEO",
-            "text": "Sobre a ORÍGEO"
-        },
-        {
-            "self_ref": "#/texts/25",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Fundada em 2022, ORÍGEO é uma joint venture de Bunge e UPL e está comprometida com o produtor e o seu legado na terra, oferecendo um conjunto de soluções sustentáveis e técnicas de gestão – antes e depois da porteira. A empresa fornece soluções de ponta a ponta para grandes agricultores de Bahia, Maranhão, Mato Grosso, Pará, Piauí, Rondônia e Tocantins, valendo-se do conhecimento de equipes técnicas altamente qualificadas, com foco em aumento de produtividade, rentabilidade e sustentabilidade. Para mais informações, acesse origeo.com.",
-            "text": "Fundada em 2022, ORÍGEO é uma joint venture de Bunge e UPL e está comprometida com o produtor e o seu legado na terra, oferecendo um conjunto de soluções sustentáveis e técnicas de gestão – antes e depois da porteira. A empresa fornece soluções de ponta a ponta para grandes agricultores de Bahia, Maranhão, Mato Grosso, Pará, Piauí, Rondônia e Tocantins, valendo-se do conhecimento de equipes técnicas altamente qualificadas, com foco em aumento de produtividade, rentabilidade e sustentabilidade. Para mais informações, acesse origeo.com."
-        },
-        {
-            "self_ref": "#/texts/26",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/27"
-                },
-                {
-                    "$ref": "#/texts/28"
-                },
-                {
-                    "$ref": "#/texts/29"
-                },
-                {
-                    "$ref": "#/texts/30"
-                },
-                {
-                    "$ref": "#/texts/31"
-                },
-                {
-                    "$ref": "#/texts/32"
-                },
-                {
-                    "$ref": "#/texts/33"
-                },
-                {
-                    "$ref": "#/texts/34"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Cotações\r\n               \r\n               Agrícola",
-            "text": "Cotações\r\n               \r\n               Agrícola",
-            "level": 1
-        },
-        {
-            "self_ref": "#/texts/27",
-            "parent": {
-                "$ref": "#/texts/26"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Milho",
-            "text": "Milho"
-        },
-        {
-            "self_ref": "#/texts/28",
-            "parent": {
-                "$ref": "#/texts/26"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Soja",
-            "text": "Soja"
-        },
-        {
-            "self_ref": "#/texts/29",
-            "parent": {
-                "$ref": "#/texts/26"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Trigo",
-            "text": "Trigo"
-        },
-        {
-            "self_ref": "#/texts/30",
-            "parent": {
-                "$ref": "#/texts/26"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Feijão",
-            "text": "Feijão"
-        },
-        {
-            "self_ref": "#/texts/31",
-            "parent": {
-                "$ref": "#/texts/26"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Boi",
-            "text": "Boi"
-        },
-        {
-            "self_ref": "#/texts/32",
-            "parent": {
-                "$ref": "#/texts/26"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Suíno",
-            "text": "Suíno"
-        },
-        {
-            "self_ref": "#/texts/33",
-            "parent": {
-                "$ref": "#/texts/26"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "Leite",
-            "text": "Leite"
-        },
-        {
-            "self_ref": "#/texts/34",
-            "parent": {
-                "$ref": "#/texts/26"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "text",
-            "prov": [],
-            "orig": "BRASIL",
-            "text": "BRASIL"
-        },
-        {
-            "self_ref": "#/texts/35",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/36"
-                },
-                {
-                    "$ref": "#/texts/37"
-                },
-                {
-                    "$ref": "#/texts/38"
-                },
-                {
-                    "$ref": "#/texts/39"
-                },
-                {
-                    "$ref": "#/texts/40"
-                },
-                {
-                    "$ref": "#/texts/41"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Leia mais",
-            "text": "Leia mais",
-            "level": 1
-        },
-        {
-            "self_ref": "#/texts/36",
-            "parent": {
-                "$ref": "#/texts/35"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Ativos do Sicredi crescem 22,3% em 2024",
-            "text": "Ativos do Sicredi crescem 22,3% em 2024",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/37",
-            "parent": {
-                "$ref": "#/texts/35"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Tecnoshow COMIGO 2025 começa nesta segunda-feira com autoridades e novidades para o agro",
-            "text": "Tecnoshow COMIGO 2025 começa nesta segunda-feira com autoridades e novidades para o agro",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/38",
-            "parent": {
-                "$ref": "#/texts/35"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Aneel revoga concessões de 16 usinas eólicas no Nordeste",
-            "text": "Aneel revoga concessões de 16 usinas eólicas no Nordeste",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/39",
-            "parent": {
-                "$ref": "#/texts/35"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Novus participa do Simpósio Brasil Sul de Avicultura com foco em soluções inovadoras",
-            "text": "Novus participa do Simpósio Brasil Sul de Avicultura com foco em soluções inovadoras",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/40",
-            "parent": {
-                "$ref": "#/texts/35"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Veterinária alerta: diagnóstico e tratamento de doenças inflamatórias em cães e gatos exigem atenção especial dos tutores",
-            "text": "Veterinária alerta: diagnóstico e tratamento de doenças inflamatórias em cães e gatos exigem atenção especial dos tutores",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/41",
-            "parent": {
-                "$ref": "#/texts/35"
-            },
-            "children": [
-                {
-                    "$ref": "#/groups/3"
-                },
-                {
-                    "$ref": "#/groups/4"
-                },
-                {
-                    "$ref": "#/groups/5"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "OVOS: Médias caem em março, mas ficam acima das de um ano atrás",
-            "text": "OVOS: Médias caem em março, mas ficam acima das de um ano atrás",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/42",
-            "parent": {
-                "$ref": "#/groups/3"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "A Folha Agrícola",
-            "text": "A Folha Agrícola",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/43",
-            "parent": {
-                "$ref": "#/groups/3"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Políticas Editoriais",
-            "text": "Políticas Editoriais",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/44",
-            "parent": {
-                "$ref": "#/groups/3"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Envie Sua Matéria",
-            "text": "Envie Sua Matéria",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/45",
-            "parent": {
-                "$ref": "#/groups/4"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Anuncie Conosco",
-            "text": "Anuncie Conosco",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/46",
-            "parent": {
-                "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Agronegócio",
-            "text": "Agronegócio",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/47",
-            "parent": {
-                "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Agricultura",
-            "text": "Agricultura",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/48",
-            "parent": {
-                "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Agropecuário",
-            "text": "Agropecuário",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/49",
-            "parent": {
-                "$ref": "#/groups/5"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Artigos",
-            "text": "Artigos",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/50",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/51"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Nos acompanhe nas redes sociais:",
-            "text": "Nos acompanhe nas redes sociais:",
-            "level": 1
-        },
-        {
-            "self_ref": "#/texts/51",
-            "parent": {
-                "$ref": "#/texts/50"
-            },
-            "children": [
-                {
-                    "$ref": "#/groups/6"
-                },
-                {
-                    "$ref": "#/groups/7"
-                },
-                {
-                    "$ref": "#/groups/8"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "@folhaagrícola",
-            "text": "@folhaagrícola",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/52",
-            "parent": {
-                "$ref": "#/groups/6"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "A Folha Agrícola",
-            "text": "A Folha Agrícola",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/53",
-            "parent": {
-                "$ref": "#/groups/6"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Políticas Editoriais",
-            "text": "Políticas Editoriais",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/54",
-            "parent": {
-                "$ref": "#/groups/6"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Envie Sua Matéria",
-            "text": "Envie Sua Matéria",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/55",
-            "parent": {
-                "$ref": "#/groups/7"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Anuncie Conosco",
-            "text": "Anuncie Conosco",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/56",
-            "parent": {
-                "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Agronegócio",
-            "text": "Agronegócio",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/57",
-            "parent": {
-                "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Agricultura",
-            "text": "Agricultura",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/58",
-            "parent": {
-                "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Agropecuário",
-            "text": "Agropecuário",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/59",
-            "parent": {
-                "$ref": "#/groups/8"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "list_item",
-            "prov": [],
-            "orig": "Artigos",
-            "text": "Artigos",
-            "enumerated": false,
-            "marker": "-"
-        },
-        {
-            "self_ref": "#/texts/60",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [
-                {
-                    "$ref": "#/texts/61"
-                },
-                {
-                    "$ref": "#/texts/62"
-                }
-            ],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Nos acompanhe nas redes sociais:",
-            "text": "Nos acompanhe nas redes sociais:",
-            "level": 1
-        },
-        {
-            "self_ref": "#/texts/61",
-            "parent": {
-                "$ref": "#/texts/60"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "@folhaagrícola",
-            "text": "@folhaagrícola",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/62",
-            "parent": {
-                "$ref": "#/texts/60"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "/folhaagrícola",
-            "text": "/folhaagrícola",
-            "level": 2
-        },
-        {
-            "self_ref": "#/texts/63",
-            "parent": {
-                "$ref": "#/texts/16"
-            },
-            "children": [],
-            "content_layer": "body",
-            "label": "section_header",
-            "prov": [],
-            "orig": "Copyright © 2022 Folha Agrícola. Todos os direitos reservados.",
-            "text": "Copyright © 2022 Folha Agrícola. Todos os direitos reservados.",
-            "level": 1
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
         }
-    ],
-    "pictures": [],
-    "tables": [],
-    "key_value_items": [],
-    "form_items": [],
-    "pages": {}
+      ],
+      "content_layer": "body",
+      "name": "header-1",
+      "label": "section"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/texts/41"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/texts/41"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/texts/41"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/texts/51"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/texts/51"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/55"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/texts/51"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/groups/1"
+        },
+        {
+          "$ref": "#/groups/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "6 de abril de  2025 - 22:18h",
+      "text": "6 de abril de  2025 - 22:18h",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/texts/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "A Folha Agrícola",
+      "text": "A Folha Agrícola"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "agronegócio",
+      "text": "agronegócio",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "agropecuário",
+      "text": "agropecuário",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "agricultura",
+      "text": "agricultura",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Cotações",
+      "text": "Cotações",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Versão Digital",
+      "text": "Versão Digital",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Artigos",
+      "text": "Artigos",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "anuncie",
+      "text": "anuncie",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "agronegócio",
+      "text": "agronegócio",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "agropecuário",
+      "text": "agropecuário",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "agricultura",
+      "text": "agricultura",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Cotações",
+      "text": "Cotações",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Versão Digital",
+      "text": "Versão Digital",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Artigos",
+      "text": "Artigos",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "anuncie",
+      "text": "anuncie",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/63"
+        }
+      ],
+      "content_layer": "body",
+      "label": "title",
+      "prov": [],
+      "orig": "Pragas e doenças podem comprometer até 90% da produção agrícola",
+      "text": "Pragas e doenças podem comprometer até 90% da produção agrícola"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "É preciso controle rígido para impedir sua ação no clima tropical",
+      "text": "É preciso controle rígido para impedir sua ação no clima tropical"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "O fenômeno El Niño está no seu pico. Com isso, as temperaturas devem ficar ainda mais extremas. E, segundo a Administração Norte Americana de Oceano e Atmosfera (NOAA), ele deve continuar influenciando o clima pelo menos até meados de abril de 2024. “Esse fenômeno climático é uma das principais preocupações dos agricultores, pois altera as janelas de semeadura no Cerrado, causando atrasos nos plantios devido ao menor índice de precipitações nessas regiões. Já na região sul do país, o fenômeno é caracterizado pelo aumento das chuvas. Tal cenário é ideal para o aumento da presença de pragas e doenças na agricultura”, alerta Paulo Laurente, Head de Marketing da ORÍGEO",
+      "text": "O fenômeno El Niño está no seu pico. Com isso, as temperaturas devem ficar ainda mais extremas. E, segundo a Administração Norte Americana de Oceano e Atmosfera (NOAA), ele deve continuar influenciando o clima pelo menos até meados de abril de 2024. “Esse fenômeno climático é uma das principais preocupações dos agricultores, pois altera as janelas de semeadura no Cerrado, causando atrasos nos plantios devido ao menor índice de precipitações nessas regiões. Já na região sul do país, o fenômeno é caracterizado pelo aumento das chuvas. Tal cenário é ideal para o aumento da presença de pragas e doenças na agricultura”, alerta Paulo Laurente, Head de Marketing da ORÍGEO"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Relatório do Sindicato Nacional da Indústria de Produtos para Defesa Vegetal (Sindiveg) mostra que a ocorrência de pragas cresceu 20% no primeiro semestre de 2023. Na soja, foi registrado aumento de 6% e no milho, 10%. O fluxo irregular de chuvas e temperaturas extremas estão entre os principais motivos para esse aumento.",
+      "text": "Relatório do Sindicato Nacional da Indústria de Produtos para Defesa Vegetal (Sindiveg) mostra que a ocorrência de pragas cresceu 20% no primeiro semestre de 2023. Na soja, foi registrado aumento de 6% e no milho, 10%. O fluxo irregular de chuvas e temperaturas extremas estão entre os principais motivos para esse aumento."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Os insetos mosca-branca e percevejo-marrom –\r\n            \r\n             Bemisia tabaci\r\n            \r\n            e\r\n            \r\n             Euschistus Heros\r\n            \r\n            , respectivamente – são as pragas que mais afetam o cultivo de soja. “Esses estão sendo favorecidos pelas altas temperaturas e clima seco que está ocorrendo no Cerrado. Enquanto o percevejo se alimenta das vagens da soja, infectando as plantas, a mosca-branca suga a seiva das folhas, o que as enfraquece e prejudica o seu crescimento. Ambas as pragas diminuem significativamente o potencial produtivo do cultivo, com perdas de 30% a 50%”, ressalta Paulo.",
+      "text": "Os insetos mosca-branca e percevejo-marrom –\r\n            \r\n             Bemisia tabaci\r\n            \r\n            e\r\n            \r\n             Euschistus Heros\r\n            \r\n            , respectivamente – são as pragas que mais afetam o cultivo de soja. “Esses estão sendo favorecidos pelas altas temperaturas e clima seco que está ocorrendo no Cerrado. Enquanto o percevejo se alimenta das vagens da soja, infectando as plantas, a mosca-branca suga a seiva das folhas, o que as enfraquece e prejudica o seu crescimento. Ambas as pragas diminuem significativamente o potencial produtivo do cultivo, com perdas de 30% a 50%”, ressalta Paulo."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "“El Niño ainda intensifica outro problema: o aumento de incidência de doenças, que já é realidade em determinados estados, como Rio Grande do Sul, Santa Catarina e Paraná, Devido ao excesso de chuvas, o clima ficou extremamente favorável para o desenvolvimento desses inimigos, principalmente a ferrugem asiática, fungo biotrófico, que está caminhando rapidamente para as demais regiões produtoras, como Mato Grosso do Sul, segundo o consórcio Antiferrugem da Embrapa. Assim, no Cerrado, principalmente nas áreas onde a semeadura se estendeu devido ao atraso e à falta de chuva, a tendência é ter significativos prejuízos fitossanitários na safra 2023/2024.” Informa Paulo Laurente.",
+      "text": "“El Niño ainda intensifica outro problema: o aumento de incidência de doenças, que já é realidade em determinados estados, como Rio Grande do Sul, Santa Catarina e Paraná, Devido ao excesso de chuvas, o clima ficou extremamente favorável para o desenvolvimento desses inimigos, principalmente a ferrugem asiática, fungo biotrófico, que está caminhando rapidamente para as demais regiões produtoras, como Mato Grosso do Sul, segundo o consórcio Antiferrugem da Embrapa. Assim, no Cerrado, principalmente nas áreas onde a semeadura se estendeu devido ao atraso e à falta de chuva, a tendência é ter significativos prejuízos fitossanitários na safra 2023/2024.” Informa Paulo Laurente."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "A ferrugem asiática, causada pelo fungo\r\n            \r\n             Phakopsora pachirhizi\r\n            \r\n            , é a doença mais severa enfrentada pela soja. De acordo com a Embrapa, ela pode causar perdas de até 90% se não controlada com eficácia. As condições climáticas são determinantes para a incidência da doença e favorecem o seu desenvolvimento.",
+      "text": "A ferrugem asiática, causada pelo fungo\r\n            \r\n             Phakopsora pachirhizi\r\n            \r\n            , é a doença mais severa enfrentada pela soja. De acordo com a Embrapa, ela pode causar perdas de até 90% se não controlada com eficácia. As condições climáticas são determinantes para a incidência da doença e favorecem o seu desenvolvimento."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Para o controle das pragas, o manejo integrado de pragas (MIP) é a mais eficaz estratégia. “O MIP combina tecnologias e a utilização de táticas mais sustentáveis, que visam o monitoramento das pragas e o aumento da produtividade, além de reduzir os custos com defensivos agrícolas. Em relação às doenças, é crucial a utilização de defensivos agrícolas devidamente registrados para a cultura, respeitando o número máximo de aplicações durante o ciclo como também os intervalos de aplicação. A utilização de fungicidas multissítios traz maior segurança e efetividade no manejo. Nós, da ORÍGEO, oferecemos soluções ideais para aplicação dessas estratégias, que também levam em consideração o meio ambiente e o manejo do agricultor. Com isso, cumprimos nossa função de contribuir para o sucesso produtivo da agricultura de maneira sustentável”, finaliza Paulo Laurente.",
+      "text": "Para o controle das pragas, o manejo integrado de pragas (MIP) é a mais eficaz estratégia. “O MIP combina tecnologias e a utilização de táticas mais sustentáveis, que visam o monitoramento das pragas e o aumento da produtividade, além de reduzir os custos com defensivos agrícolas. Em relação às doenças, é crucial a utilização de defensivos agrícolas devidamente registrados para a cultura, respeitando o número máximo de aplicações durante o ciclo como também os intervalos de aplicação. A utilização de fungicidas multissítios traz maior segurança e efetividade no manejo. Nós, da ORÍGEO, oferecemos soluções ideais para aplicação dessas estratégias, que também levam em consideração o meio ambiente e o manejo do agricultor. Com isso, cumprimos nossa função de contribuir para o sucesso produtivo da agricultura de maneira sustentável”, finaliza Paulo Laurente."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Sobre a ORÍGEO",
+      "text": "Sobre a ORÍGEO"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Fundada em 2022, ORÍGEO é uma joint venture de Bunge e UPL e está comprometida com o produtor e o seu legado na terra, oferecendo um conjunto de soluções sustentáveis e técnicas de gestão – antes e depois da porteira. A empresa fornece soluções de ponta a ponta para grandes agricultores de Bahia, Maranhão, Mato Grosso, Pará, Piauí, Rondônia e Tocantins, valendo-se do conhecimento de equipes técnicas altamente qualificadas, com foco em aumento de produtividade, rentabilidade e sustentabilidade. Para mais informações, acesse origeo.com.",
+      "text": "Fundada em 2022, ORÍGEO é uma joint venture de Bunge e UPL e está comprometida com o produtor e o seu legado na terra, oferecendo um conjunto de soluções sustentáveis e técnicas de gestão – antes e depois da porteira. A empresa fornece soluções de ponta a ponta para grandes agricultores de Bahia, Maranhão, Mato Grosso, Pará, Piauí, Rondônia e Tocantins, valendo-se do conhecimento de equipes técnicas altamente qualificadas, com foco em aumento de produtividade, rentabilidade e sustentabilidade. Para mais informações, acesse origeo.com."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Cotações\r\n               \r\n               Agrícola",
+      "text": "Cotações\r\n               \r\n               Agrícola",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/texts/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Milho",
+      "text": "Milho"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/texts/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Soja",
+      "text": "Soja"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/texts/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Trigo",
+      "text": "Trigo"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/texts/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Feijão",
+      "text": "Feijão"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/texts/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Boi",
+      "text": "Boi"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/texts/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Suíno",
+      "text": "Suíno"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/texts/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Leite",
+      "text": "Leite"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/texts/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "BRASIL",
+      "text": "BRASIL"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Leia mais",
+      "text": "Leia mais",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/texts/35"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Ativos do Sicredi crescem 22,3% em 2024",
+      "text": "Ativos do Sicredi crescem 22,3% em 2024",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/texts/35"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Tecnoshow COMIGO 2025 começa nesta segunda-feira com autoridades e novidades para o agro",
+      "text": "Tecnoshow COMIGO 2025 começa nesta segunda-feira com autoridades e novidades para o agro",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/texts/35"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Aneel revoga concessões de 16 usinas eólicas no Nordeste",
+      "text": "Aneel revoga concessões de 16 usinas eólicas no Nordeste",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/texts/35"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Novus participa do Simpósio Brasil Sul de Avicultura com foco em soluções inovadoras",
+      "text": "Novus participa do Simpósio Brasil Sul de Avicultura com foco em soluções inovadoras",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/texts/35"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Veterinária alerta: diagnóstico e tratamento de doenças inflamatórias em cães e gatos exigem atenção especial dos tutores",
+      "text": "Veterinária alerta: diagnóstico e tratamento de doenças inflamatórias em cães e gatos exigem atenção especial dos tutores",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/texts/35"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/3"
+        },
+        {
+          "$ref": "#/groups/4"
+        },
+        {
+          "$ref": "#/groups/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "OVOS: Médias caem em março, mas ficam acima das de um ano atrás",
+      "text": "OVOS: Médias caem em março, mas ficam acima das de um ano atrás",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "A Folha Agrícola",
+      "text": "A Folha Agrícola",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Políticas Editoriais",
+      "text": "Políticas Editoriais",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Envie Sua Matéria",
+      "text": "Envie Sua Matéria",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Anuncie Conosco",
+      "text": "Anuncie Conosco",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Agronegócio",
+      "text": "Agronegócio",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Agricultura",
+      "text": "Agricultura",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Agropecuário",
+      "text": "Agropecuário",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Artigos",
+      "text": "Artigos",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Nos acompanhe nas redes sociais:",
+      "text": "Nos acompanhe nas redes sociais:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/texts/50"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/6"
+        },
+        {
+          "$ref": "#/groups/7"
+        },
+        {
+          "$ref": "#/groups/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "@folhaagrícola",
+      "text": "@folhaagrícola",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "A Folha Agrícola",
+      "text": "A Folha Agrícola",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Políticas Editoriais",
+      "text": "Políticas Editoriais",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Envie Sua Matéria",
+      "text": "Envie Sua Matéria",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Anuncie Conosco",
+      "text": "Anuncie Conosco",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Agronegócio",
+      "text": "Agronegócio",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Agricultura",
+      "text": "Agricultura",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Agropecuário",
+      "text": "Agropecuário",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Artigos",
+      "text": "Artigos",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Nos acompanhe nas redes sociais:",
+      "text": "Nos acompanhe nas redes sociais:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/texts/60"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "@folhaagrícola",
+      "text": "@folhaagrícola",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/texts/60"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "/folhaagrícola",
+      "text": "/folhaagrícola",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/texts/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Copyright © 2022 Folha Agrícola. Todos os direitos reservados.",
+      "text": "Copyright © 2022 Folha Agrícola. Todos os direitos reservados.",
+      "level": 1
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {}
 }

@@ -4,7 +4,7 @@ from config import BASE_URL
 
 class Scraper:
     
-    def fetch_data():
+    def fetch_data(self):
         results = []
         for url in BASE_URL:
             try:

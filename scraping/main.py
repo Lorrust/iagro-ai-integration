@@ -10,40 +10,43 @@ from docling_converter.docs.raw.doc_paths import DOC_LOCAL_PATHS
 
 class Main:
 
+    def __init__(self):
+        self.converter = Converter(path="")
+        self.scraper = Scraper()
+
     def file_path_convertion(self):
-        converter= Converter(path="")
+        converted_files = self.converter.convert_local_pdf_to_markdown(DOC_LOCAL_PATHS)
 
-        markdown_data= converter.doc_converter_by_file_path(DOC_LOCAL_PATHS)
-        convertion_counter= 0
-
-        if markdown_data:
-            convertion_counter += 1
-            converter.save_to_markdown(markdown_data, output_dir="docling_converter/docs/converted", filename=f"pdf_file_converted_{convertion_counter}")
+        for filename, markdown_data in converted_files:
+            self.converter.save_to_markdown(
+                data=markdown_data,
+                output_dir="docling_converter/docs/converted",
+                filename=filename
+            )
 
 
     def url_file_convertion(self):
-        converter= Converter(path="")
+        converted_files= self.converter.convert_url_pdf_to_markdown(DOC_URL_PATHS)
 
-        markdown_data= converter.doc_converter_by_url(DOC_URL_PATHS)
-        convertion_counter= 0
-
-        if markdown_data:
-            convertion_counter += 1
-            converter.save_to_markdown(markdown_data, output_dir="docling_converter/docs/converted", filename=f"pdf_url_converted_{convertion_counter}")
+        for filename, markdown_data in converted_files:
+            self.converter.save_to_markdown(
+                data=markdown_data,
+                output_dir="docling_converter/docs/converted",
+                filename=filename
+            )
 
 
     def html_convertion(self):
-        scrape = Scraper()
-        html_contents = scrape.fetch_data()
-        converter = Converter(path="")
+        html_contents = self.scraper.fetch_data()
 
         for i, html in enumerate(html_contents):
-            markdown_data = converter.doc_converter_by_html(html)
+            markdown_data = self.converter.convert_html_to_markdown(html, doc_id= i+1)
+
             if markdown_data:
-                converter.save_to_markdown(markdown_data, output_dir="docling_converter/docs/converted", filename=f"html_converted_{i+1}")
+                self.converter.save_to_markdown(markdown_data, output_dir="docling_converter/docs/converted", filename=f"html_converted_{i+1}")
 
 if __name__ == "__main__":
     main = Main()
-    # main.html_convertion()
+    main.html_convertion()
     main.file_path_convertion()
-    # main.url_file_convertion()
+    main.url_file_convertion()

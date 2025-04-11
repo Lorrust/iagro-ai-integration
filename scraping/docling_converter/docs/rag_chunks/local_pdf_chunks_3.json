@@ -1,0 +1,514 @@
+[
+  {
+    "text": ") DA AGRICULTURA, DO ABASTECIMENTO E M  AGR`RIA  - MAARA\nA DE DEFESA AGROPECU`RIA Departamento de Defesa e Inspeçªo  Vegetal\nEMBRAPA EMPRESA BRASILEIRA DE PESQUISA AGROPECU`RIA",
+    "metadata": {
+      "chunk_index": 0,
+      "tokens": 26,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "MinistØrio  da Agricultura,  do Abastecimento e  da Reforma AgrÆria  - MAARA Ministro:\nJosØ  Eduardo de Andrade Vieira\nEmpresa Brasileira de Pesquisa AgropecuÆria  - EMBRAP  A Presidente: Alberto Duque Portugal Diretores: Elza  AngeJa Battaggia Brito da Cunha JosØ  Roberto Rodrigues  Peres Dante Daniel  GiacomeOi  ScoJari\nSecretaria de Defesa  AgropecuÆria -SDAlMAARA SecretÆrio: AnioAntonio Marques Pereira Departamento de Defesa e Inspeçªo Vegetal\nDiretor: Jorge SaUm Waquin",
+    "metadata": {
+      "chunk_index": 1,
+      "tokens": 63,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Eng. ~. DØcio  L\"iz  Gavoni Eng. ~. JosØ  Tadasbi Yorinori\nEMBRAPA Serviço de Produçªo de Informaçªo\nBrasília 1995\nSÉRIE MANUAIS  DE  IDENTIFICA˙ˆO DE  PRAGAS  E  DOEN˙AS. 1\nExemplares desta publicaçªo podem ser adquiridos no: Serviço de Produçªo de Informaçªo - SPI SAIN Parque Rural  W-3  Norte (final) Caixa Postal  040315 Tel. (061) 348-4236 Fax  (061)  272-4168 CEP  70770-901 Brasília,  DF\nCoordenaçªo e Produçªo Editorial: EMBRAPA -SPI\nEditor ResponsÆvel: DØcio Luiz Gazzoni, Eng. Agr.\nRevisªo  de texto: Antônio Carlos Naves, Eng. Agr.; Ivan  Carlos  Corso, Eng. Agr.  EMBRAPA - CNPSo; LØo  Pires Ferreira, Eng. Agr.  EMBRAPA - CNPSo.",
+    "metadata": {
+      "chunk_index": 2,
+      "tokens": 97,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Fica expressamente proibida a reproduçªo total ou parcial desta obra sem autorizaçªo expressa da EMBRAPA · SPI\nCIP .  Brasil  Catalogaçªo  - na - publicaçªo Serviço de Produçªo  de Informaçªo  (SPI)  da EMBRAPA\nGAZZONI,  D. L. YORINORI,  ]. T.  Manual de  identificaçªo de  pragas  e  doenças da  soja.  Brasília: EMBRAP  A . SPI,  1995. 128p.  (Manuais de  Identificaçªo  de  Pragas e Doenças,  1).\n1.  Soja - Doença. 2.  Soja· Praga. I. YORINORI, ]. T. 11. EMBRAPA Serviço de Produçªo  de Informaçªo  (Brasília, DF). m. Título.  IV.  SØrie .\nCDD  633.349\n' EMBRAPA - 1995",
+    "metadata": {
+      "chunk_index": 3,
+      "tokens": 94,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "o MinistØrio da Agricultura,  do  Abas› tecimento  e  da  Reforma  AgrÆria  estÆ-se reestruturando  para  melhor  atender  aos interesses nacionais,  atravØs  da prestaçªo  de serviços  de  qualidade,  com  a presteza requerida  pelo  processo  agrícola. Entre  os seus clientes  preferenciais,  encontram-se os agricultores  e  pecuaristas,  assim como  todo o  complexo  agroindrustrial a  montante  e  a jusante da produçªo  agropecuÆria.\nSªo  objetivos  do  MAARA  garantir a sanidade e  a  qualidade  dos  produtos agro› pecuÆrios,  com  o  propósito  de  oferecer produtos  de  alto  padrªo ao  consumidor brasileiro,  e  propiciar melhores condiçıes  de intercâmbio  internacional  aos  produtos agropecuÆrios  nacionais. Para tanto, o MAARA considera a sanidade vegetal como patrimônio nacional,  sendo  sua obrigaçªo  protegŒ-la  e melhorÆ-la,  para  salvaguardar o  produtor agrícola e  obter  melhores  condiçıes  de competitividade  para os nossos produtos.\nNeste sentido,  oferecemos aos  nossos tØcnicos e  aos  agrônomos  que  prestam serviços profissionais  na  Ærea  de  Defesa Vegetal  a  sØrie  Manuais  de  Identificaçªo de Pragas e  Doenças, como uma ferramenta para cumprir o programa de governo de apoio à agricultura.",
+    "metadata": {
+      "chunk_index": 4,
+      "tokens": 166,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "1 - Manejo Integrado de Pragas da Soja, 1 = 9. • 2 - Pragas Principais, 1 = 10. 2.1 - Lagarta-da-soja, Anticarsia gemmatalis, 1 = 10. 2.2 - Percevejo-verde, Nezara viridula, 1 = 12. 2.3 - Percevejo-pequeno, Piezodorus guildinii, 1 = 14. 2.4 - Percevejo-marrom, Euschistus heros, 1 = 16. 2.5 - Danos das Pragas Principais, 1 = 18. 3 - Pragas SecundÆrias, 1 = 20. 3.1 - Lagarta-falsa-medideira, Chrisodeixis (PseudoPlusia) includens, 1 = 22. 3.2 - Lagarta-enroladeira, Omiodes (Hedylepta) indicata, 1 = 24. 3.3 - Lagarta-das-vagens, Spodoptera spp., 1 = 26. 3.4 - Broca-das-axilas, Epinotia aporema, 1 = 28. 3.5 - Broca-do-colo, ElasmopalPus lignosellus, 1 = 30. 3.6 - Broca-das-vagens, Etiella zinckenella, 1 = 32. 3.7 - Outros Percevejos, 1 = 34. 3.8 - Coleópteros Desfolhadores, 1 = 36. 4 - Principais Inimigos Naturais de Pragas da Soja, 1 = 38. 4.1 - Predadores, 1 = 38. 4.2 - Parasitóides, 1 = 40. 4.3 - Entomopatógenos, 1 = 44. 5 - Amostragem das Pragas da Soja, 1 = 46\n6 - Doenças da Soja - JosØTadashi Yorinori, 1 = 48. 6.1 - Mancha-olho-de-rª, 1 = 48. 6.2 - Mancha-parda ou Septoriose, 1 = 50. 6.3 - Mancha-pœrpura da semente e crestamento-foliar-de-cercóspora, 1 = 52. 6.4 - Míldio, 1 = 54. 6.5 - Oídio, 1 = 56. 6.6 - Ferrugem, 1 = 58. 6.7 - Mancha-foliar-de-ascoquita, 1 = 60. 6.8 - Mancha-foliar-de-microtØcio, 1 = 62. 6.9 - Necrose-da-base-do-pecíolo (pœlvino) (NBP), 1 = 64. 6.10- Mancha-alvo e podridªo-radicular-de-corinØspora, 1 = 66. 6.11- Antracnose, 1 = 68. 6.12 - Seca-da-haste-e-da-vagem ou fomópsis-da-semente (Phs), 1 = 70. 6.13 - Cancro-da-haste, 1 = 74. 6.14 - Podridªo-branca-da-haste ou podridªo-de-esderotínia, 1 = 76. 6.15 - MeIa ou requeima, 1 = 80. 6.16 - Podridªo-negra-da-raiz e da-base-da-haste, 1 = 82. 6.17 - Podridªo-parda-da-haste (PPH), 1 = 84. 6.18 -Tombamento e morte-em-reboIeira, 1 = 86\n86",
+    "metadata": {
+      "chunk_index": 5,
+      "tokens": 310,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "6.19 -Tombamento e murcha-de-esclerócio, 1 = 8R. 6.20 - Podridªo-vemelha-rla-raiz (PVR) ou síndrome-da-mortc-sœbita(SOS), 1 = 92. 6.21 - Podridªo-radicular-d e-roselínia, 1 = 94. 6.22 - Podridªo Negra da Raiz (PNR), 1 = 96. 6.23 - Podridªo-radicular- de-fitóftora (PRP), 1 = 98. 6.24 - Crestamento-baderiano, 1 = 102. 6.25 - Pœstula-baderiana, 1 = 104. 6.26 - Fogo-selvagem, 1 = 106. 6.27 - Mosaico-comum, 1 = 108. 6.28 - Queima-do-broto-da-soja, 1 = 110. 6.29 - Mosaico-anªo (MAS), 1 = 112. 6.30 - NemalÓide-das-galhas, 1 = 114. (J. : ~ 1- Nermltóide-de-cisto, 1 = 116. HihlioJUafia consultada, 1 = 121",
+    "metadata": {
+      "chunk_index": 6,
+      "tokens": 97,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "o MIP-Soja Ø  um conceito moderno de controle de pragas, introduzido pela EM B  RAPA  , em meados da dØcada  de 70, a partir da cultura da soja. Em con› junto com outras empresas de pesquisa e com o apoio do sistema de assistŒncia  Øcnica,  o programa foi im› t plantado junto aos agricultores e, atualmente, existe tecnologia disponível  para praticamente todas as cul› turas importantes da lavoura brasileira.\nO conceito de MIP implica a integraçªo de to› das as tØcnicas  disponíveis  no controle das pragas de uma determinada cultura para evitar o uso exclu› sivo  de  produtos químicos. Assim  mesmo, esses somente sªo aplicados para evitar que a populaçªo de pragas ultrapasse o nível  econômico de danos, o mesmo ocorrendo com inseticidas biológicos, como Ø o caso  do Baculovirus anticarsia. Outras medidas I de controle biológico e de controle cultural necessi› tam integrar-se dentro do conceito de MIP para ser aplicadas em benefício  do agricultor e da Natureza.\nAssim procedendo, os agricultores nªo  apenas aumentam seu lucro, diminuindo custos e evitando reduçªo da produçªo e da qualidade, como tambØm eliminam -ou reduzem ao mínimo  -os efeitos margi› nais na saœde  pœblica,  preservando  o meio ambiente.",
+    "metadata": {
+      "chunk_index": 7,
+      "tokens": 196,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Consideram-se pragas principais aquelas que, por sua capacidade de causar danos à  cultura, por sua dis› tribuiçªo geogrÆfica  por sua freqüŒncia e apareci› e d mento, representam um risco mais elevado à produ› çªo e à qualidade dos cultivos.",
+    "metadata": {
+      "chunk_index": 8,
+      "tokens": 39,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Essa lagarta Ø a  desfolhadora mais comum da soja no Brasil, sendo encontrada em todos os locais de produçªo. Costuma atacar as lavouras a partir de novembro, nas regiıes  setentrionais, e a partir de ja› neiro, no extremo sul do País.\nApresenta coloraçªo  geral verde, com estrias brancas sobre o dorso. Em condiçıes de alta popula› çªo  assume a coloraçªo  negra, mantendo as estrias brancas. Possui quatro pares de patas abdominais e passa por seis ˝nstares larvais, podendo medir atØ  4050mm de comprimento. Sua capacidade de consumo cresce com a idade da lagarta, e, ao final dessa fase, que tem duraçªo de 12 a 14 dias, um indivíduo  pode consumir atØ  100 cm::! de folhas.\nA fase de pupa Ø  de sete dias no solo, após o que emerge o adulto, que Ø  uma mariposa que pode assu-\nFot.o  1 - Lagarta-da-soja. forma verde (D. L  Gazzoni)\nFoto 2 - Lagarta-da-soja, forma  preta  (D.  L  Gazzoni)\nFoto 3 - Pupa (D.  L  Gazzoni)\nFoto 4 - Adulto  (D.  L  Gazzoni)\nmir coloraçªo variada, porØm  sempre apresentando uma listra transversal escura unindo as pontas das asas. A oviposiçªo ocorre à noite, com ovos isolados depositados no caule, nos ramos e pecíolos  e no dor› so inferior das folhas.",
+    "metadata": {
+      "chunk_index": 9,
+      "tokens": 207,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Os percevejos em geral sªo  responsÆveis  por reduçªo na produçªo e na qualidade da semente, de› corrente da transmissªo  de molØstias  e da retençªo foliar  da soja. Por  essa razªo,  o complexo de perceve› jos constitui o maior risco à soja. Alimentam-se direta› mente dos grªos de soja e costumam atacar a cultura a partir  do início  da formaçªo de vagens.\nOs ovos do percevejo-verde sªo  de cor bege, depositados na face  inferior das folhas, em massas regulares (semelhantes a colmeias) de 50-100 ovos cada. Nos dois primeiros ínstares,  as ninfas, de colora› çªo preta  e manchas brancas sobre o dorso, permane› cem agregadas e, praticamente, nªo causam danos às plantas. A partir  do terceiro ínstar,  as ninfas passam a alimentar-se dos  grªos da soja, com intensidade cres› cente, atØ  o quinto ou œltimo  ínstar.  O período  ninfal\nFoto  5 - Postura do  percevejo-verde  (D.  L.  Gazzoni)\nFoto 6 - Ninfa pequena do  percevejo-verde (D.  L.  Gazzoni)\nFoto 7 - Ninfa grande do percevejo-verde (D.  L  Gazzoni)\nFoto 8 - Adulto do  percevejo-verde  (D.  L.  Gazzoni)\npode durar entre 15 e 20 dias, em funçªo  das condi› çıes de temperatura e da qualidade do alimento.\nO adulto Ø  um percevejo totalmente verde, com tamanho entre 12 e 15mm, podendo sobreviver atØ 50 dias, se as condiçıes ambientais forem adequadas. Esse percevejo Ø encontrado com mais freqüŒncia nas regiıes ao sul do Trópico de Capricórnio.",
+    "metadata": {
+      "chunk_index": 10,
+      "tokens": 234,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Esse percevejo possui distribuiçªo ampla, sen› do encontrado em praticamente todas as regiıes pro› dutoras de soja do Brasil e dos países  circunvizinhos. Seus danos sªo similares aos ocasionados pelo perce› vejo-verde.\nOs ovos  do  percevejo-pequeno,  de  coloraçªo preta, sªo colocados em fileiras pareadas, em nœmero de 10 a 20 por postura, e podem ser encontrados na superfície  das folhas, em sua parte ventral, nas va› gens ou nas partes do caule e dos ramos.\nAs ninfas recØm-eclodidas  possuem comporta› mento gregÆrio,  permanecendo próximo à postura. AtØ o  segundo  ínstar, os  danos  causados  sªo negligíveis,  aumentando de intensidade a partir do\nFoto 9 - Postura do percevejo-pequeno (D. L  Gazzoni)\nFoto 10 - Ninfa pequena do percevejo-pequeno (D. L. Gazzoni)\nFoto 11- Ninfa grande do percevejo-pequeno (D. L. Gazzoni)\nFoto 12 -Adulto do percevejo-pequeno (D. L. Gazzoni)\nterceiro e atØ  o quinto ínstar.  A duraçªo da fase ninfal varia entre 15  e  20  dias,  em funçªo  das condiçıes ambientais. Nesse período,  as ninfas apresentam, ini› cialmente, coloraçªo preta e avermelhada e, ao final, gradativamente assumindo maior intensidade de co› loraçªo verde.\nO adulto Ø  um percevejo de aproximadamente 10mm de comprimento, de cor geral verde, que, ao final  de seu ciclo, tende para o amarelo. Apresenta uma listra transversal marrom na altura do pronoto, que Ø  uma característica  inconfundível  de identifica› çªo da espØcie .",
+    "metadata": {
+      "chunk_index": 11,
+      "tokens": 225,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Esse percevejo possui distribuiçªo  restrita às regiıes  tropicais e subtropicais, sendo sua populaçªo mais intensa nas Æreas rodutoras localizadas ao nor› p te do Trópico de Capricórnio. Os danos causados por essa espØcie  sªo similares aos descritos anteriormente para o percevejo-verde e para o percevejo-pequeno.\nOs ovos do percevejo-marrom sªo depositados em pequenas massas, normalmente com 5-8 ovos de cor bege por massa, apresentando mancha rósea pró-\nFoto  13 - Postura do percevejo-marrom  (D. L  Gazzoni)\nFoto  14• Ninfa pequena do percevejo-marrom (D.  L  Gazzoni)\nFoto 15 - Ninfa grande do percevejo-marrom (D.  L  Gazzoni)\nFoto  16 - Adulto do  percevejo-marrom  (D.  L  Gazzoni)\nximo à edosào das ninfas. Sªo  colocados, principal› mentt\" nas folhas ou nas vagens da planta de soja.\nAs  ninfas  recØm-eclodidas possuem  hÆbito g-regÆrio,  permanecendo  próximo à postura, e  nªo causam danos à cultltra. Possuem coloraçªo marrom› escura e medem cerca de 2mm de comprimento. JÆ as ninfas de terceiro instar passam a alimentar-se dos grªos de soja e, ao atingir o quinto instar, seus danos sªo  semelhantes àqueles causados pelos adultos. A dura,'ªo da fase de ninfa varia entre 15 e 20 dias.\nO adulto Ø  um percevejo marrom-escuro, com dois prolongamentos laterais do pro  noto, em forma de espinhos, o que facilita sua identifica,'ào.",
+    "metadata": {
+      "chunk_index": 12,
+      "tokens": 210,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "O dano causado pela lagarta-da-soja Ø  constituí› do pela reduçªo de Ærea  oliar, na forma de pequenos f , buracos  nas  folhas.  A  medida  que  aumenta  o desfolhamento, os buracos unem-se e, nos casos mais severos, hÆ erda total da folha, inclusive das nervuras p e  do pedolo.  Em funçªo  da Øpoca  de ataque e  das condiçıes ambientais, a reduçªo da Ærea  oliar pode f redundar em perdas de produçªo variÆveis.\nFigura  17 - Lavour'l desfolhada \\l('la lagarta-da-soja (D. 1_  Gazzoni)\nFiJ.rura  IR· (;rªos dI' soja danificados por pcrccwjos (D. L.  Gazzoni)\nFil{llra  19 . Hf'l('n~'ã() (olhar causada por pcrccvrjos (O. L Ga7.7.oni)\nOs danos causados pelos percevejos podem ser de quatro ordens:\na reduçªo da produtividade por causa do aborto de vagens e/  ou grªos,  reduçªo de seu peso ou tamanho;\nb reduçªo  do poner germinativo e do vigor da se› mente e alteraçıes bioquímicas  nas fraçıes  protØica e lipídica  do grªo;\nc - vectaçªo de patógenos de sementes, em especial fungos; e d retençªo foliar da soja, em que, apesar de os grªos estarem prontos para a colheita, a planta nªo  se des› faz  de suas folhas ou permanece com os ramos e o caule verdes. Quando a lavoura enfrenta esse distœr› bio, a colheita nªo  pode ser efetuada em condiçıes ideais, o que causa perda adicional da produçªo e da qualidade do grªo.",
+    "metadata": {
+      "chunk_index": 13,
+      "tokens": 226,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Sªo  consideradas pragas secundÆrias  aqueles insetos que se enquadram em uma ou mais das condi› çıes seguintes:\na - o dano nªo Ø  suficiente para, isoladamente, atingir o nível  de dano econômico e. via de regra, adiciona-se ao dano de espØcies  de hÆbito limentar assemelhado; a\nb - possuem ocorrŒncia eogrÆfica estrita, embora, g r nos locais de ocorrŒncia, eu dano possa ser  conside› s rÆvel; e c  possuem freqüŒncia  temporal de  surgimento errÆtico  e imprevisível,  embora, nos anos que ocor› rem na lavoura, o façam em altas populaçıes.",
+    "metadata": {
+      "chunk_index": 14,
+      "tokens": 89,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "A lagarta apresenta coloraçªo verde-clara, com algumas linhas longitudinais esbranquiçadas  no dor› so. Possui apenas dois pares de patas abdominais, o que faz cóm que se movimente arqueando o corpo, comumente denominado de movimento \"mede pal› mos\". A  parte posterior do corpo Ø  mais abaulada que a anterior. O ciclo da lagarta pode durar cerca de 15 dias, e, durante esse período,  pode consumir atØ  120 cm de folhas de soja. A fase de pupa, de cor verde, Ø 2 passada em uma teia sob as folhas de soja, e o adulto Ø  uma mariposa marrom, com manchas em cada par de asa\nFoto 21 - Pupa (o. L. Gazzoni)\nFoto 22 - Adulto (D. L. Gazzoni)\nFoto 23 - Dano da lagarta-falsa-medideira (O. L. Gazzoni)",
+    "metadata": {
+      "chunk_index": 15,
+      "tokens": 126,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Essa lagarta possui o hÆbito e enrolar uma fo› d lha de soja, ou de  juntar duas folhas próximas, unindo› as com uma secrecªo  em forma de fibras brancas e , criando um abrigo no interior do qual passa a fase de lagarta.\nAlimenta-se raspando o parŒnquima as folhas, d para evitar a destruiçªo da epiderme externa, a qual, supostamente, tem a funçªo de atuar como barreira à açªo de predadores, parasitóides e entomopatógenos. A lagarta Ø  de cor verde- escura, de aspecto oleoso, podendo medir, ao final do ciclo, cerca de 12-15mm. A pupa, de cor marrom, permanece no interior do abri› go construído  pela lagarta e, na eclosªo  da mariposa, rompe a fina epiderme que restou após a alimentaçªo da lagarta.  A  mariposa apresenta coloraçªo  geral alaranjada, com pontos negros nas asas.\nEsse inseto Ø  encontrado com mais freqüŒncia nos estados de Sªo  Paula e  ParanÆ,  porØm  sua fre› qüŒncia e ataque Ø  muito baixa. d\nFoto 24 - Lagarta-enroladeira (D.  L  Gazzoni)\nFoto 25 - Pupa da  lagarta-enroladeira (D.  L  Gazzoni)\nFoto  26 - Adulto da lagarta-enroladeira (D. L  Gazzoni)\nFoto 27 - Abrigo da lagarta-eroladeira (D. L  Gazzoni)",
+    "metadata": {
+      "chunk_index": 16,
+      "tokens": 192,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "As espØcies mais freqüentes  na cultura sªo S  latifascia e S  en·dania, e, alØm  de vagens, alimen› tam-se tambØm  de grªos  e  folhas.  Com menor fre› qüŒncia  ambØm  Ø  encontrada t Sfrugiperda, a lagarta› do-cartucho do milho. As mariposas de S  latifascia depositam os ovos em massas sobre as folhas. Após a eclosªo,  as lagartas possuem cor geral marrom, mo› dificando a coloraçªo para preta, com listras longitudi› nais brancas e marrons, e, finalmente, assumindo cor preto-brilhante, com 16 pontuaçıes douradas sobre o dorso, distribuídas  em duas linhas longitudinais, de cor alaranjada.\nA lagarta de S  eridania pode medir 50mm de comprimento, apresentando cor geral castanho a cin› za-escura, com trŒs  istras longitudinais sobre o dor› l so. Essas listras podem variar de coloraçªo, sendo nor› malmente amarelas ou alaranjadas. Sobre o dorso tam› bØm  sªo encontrados 20 triângulos  pretos, com uma pontuaçªo  amarela no seu interior. O adulto Ø uma mariposa de cor cinza, com uma mancha preta no pri› meiro par de asas. Aparentemente, prefere alimen› tar-se das  vagens de soja, podendo consumir tambØm as folhas das plantas.\nFoto 28•  Lagarta de Spodoptera lailiascia\nFoto 29 -Adulto de Spodoptera eridania\nFoto 30 - Dano da lagarta",
+    "metadata": {
+      "chunk_index": 17,
+      "tokens": 198,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Este  inseto  tem  marcada  preferŒncia  por regiıes  de clima frio,  sendo encontrado com mais abundância nas regiıes  Sul e Sudoeste do Estado do ParanÆ.\nPossui o hÆbito e penetrar no interior do caule d da soja, atravØs  da axila situada na base do pedolo, cavando uma galeria descendente, a qual serve de abrigo ao inseto. Alimenta-se da medula do caule ou dos ramos da soja, podendo causar quebra dos ramos ou do caule, e, pelo orifício  de entrada da galeria, po› dem ocorrer infecçıes patogŒnicas.  Outro hÆbito o d inseto Ø o  de unir os trŒs  olíolos  de um broto de soja, f atravØs  de uma teia tecida pela broca, formando um abrigo para o inseto. A lagarta, em vez de provocar o dano característico  de broca, passa a alimentar-se de pequenas porçıes  do tecido foliar.  O broto atacado pode morrer ou desenvolver-se com a porçªo do teci› do foliar destruído.\nA lagarta pequena apresenta coloraçªo branca e cÆpsula efÆlica reta, enquanto nas œltimas  fases c p larvais  assume  coloraçªo  bege,  com  a  cÆpsula cefÆlica  arrom. m\nFoto 31- Broca-das-axilas (D. L Gazzoni)\nFoto 32 - Dano da broca no caule da soja (D. L  Gazzoni)\nFoto 33 - Dano da broca-das-axilas nos ponteiros (D. L  Gazzoni)",
+    "metadata": {
+      "chunk_index": 18,
+      "tokens": 207,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Essa broca possui hÆbito olífago,  alimentando› p se de diversas plantas cultivadas ou silvestres, em es› pecial gramíneas  e leguminosas. Prefere solos areno› sos e, para o seu estabelecimento na lavoura, necessi› ta de um período  de seca prolongado durante a Øpoca de plantio. O seu ataque inicia-se logo após a germina› çªo da soja, podendo estender-se por 30-40 dias.\nOs ovos podem ser colocados sobre a planta ou no solo. ocorrendo a eclosªo em dois ou trŒs ias. As d lagartas passam por seis instares, com duraçªo variÆ› vel entre dois e quatro dias por ínstar.  A duraçªo total dessa fase pode chegar a 19 dias. As lagartas possu› em coloraçªo  branco-esverdeada a amarelada, com faixas transversais marrom .ou marrom-avermelhadas. A coloraçªo verde tende a tornar-se mais ftxa com o desenvolvimento da lagarta.\nA lagarta penetra na planta logo abaixo do nível do solo, onde cava uma galeria ascendente. As plantas atacadas podem morrer imediatamente ou sofrer da› nos posterioremte, sob a açªo  de chuvas, vento ou implementos agrícolas.  A mesma lagarta pode atacar atØ  trŒs lantas. p\nA pupa apresenta coloraçªo inicial amarelada ou verde, nos segmentos abdominais, passando a mar› rom e.logo antes da eclosªo do adulto, assume a colo› raçªo preta. O adulto Ø  uma mariposa de cor cinza.",
+    "metadata": {
+      "chunk_index": 19,
+      "tokens": 213,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Trata-se de uma lagarta que penetra no interior das vagens, causando danos diretamente nos grªos de soja.\nA lagarta tem coloraçªo amarelo-esverdeada ou azulada, com manchas negras na porçªo anterior do corpo, mede cerca de 20mm de comprimento e assu› me coloraçªo rosada intensa, antes de transfonnar-se em pupa. Penetra nas vagens atravØs  de um orifício provocado pela alimentaçªo da lagarta e, uma vez no interior da mesma, alimenta~se diretamente dos grªos de soja. A mesma lagarta pode danificar diversas va› gens em seu processo de alimentaçªo.",
+    "metadata": {
+      "chunk_index": 20,
+      "tokens": 87,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "AlØm  dos percevejos principais, tambØm  podem ser encontrados outras espØcies  da mesma família atacando os grªos de soja. Entre eles podem-se citar Dichelopsfurcatus e espØcies  do gŒnero Acrostemum. Esses insetos isoladamente nªo chegam a formar po› pulaçıes que ameacem a produtividade e a qualidade da cultura, porØm  seus danos acumulam-se ao das ,. ... espeCles pnnclprus.",
+    "metadata": {
+      "chunk_index": 21,
+      "tokens": 56,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "As espØcies mais freqüentes  sªo Diabrotica speciosa,  Cerotoma sp.  e Colaspis sp. Atacam a Ærea foliar da soja, porØm,  raramente atingem o nível  eco› nômico  de  dano.  O  desfolhamento  causado  por coleópteros soma-se ao efetuado pelas lagartas, que sªo  os principais desfolhadores da soja. A postura de D. speciosa Ø  realizada no solo, com cerca de 30 ovos por massa. As larvas sªo de cor amarelo-pÆlida,  endo t o tórax, a cabeça  e as patas torÆcicas retas. Alimen› p tam-se de raízes  de plantas, especialmente ervas da› ninhas, sendo a fase de pupa passada dentro de um casulo no solo. Os adultos medem 4-5mm, apresen› tam cor geral verde, com seis manchas amarelas ou alaranjadas sobre os Ølitros.\nOs ovos de Cerotoma sp.  medem 0,8mm, tŒm formato ovalado e podem permanecer em incubaçªo por 10 dias. A larva Ø  branca, com cabeça preta, po› dendo medir atØ  10mm. A duraçªo  dessa fase pode variar entre 20-25 dias. O adulto apresenta coloraçªo variÆvel, endo mais comum espØcimes  de coloraçªo s geral bege, com duas manchas grandes e duas peque› nas em cada Ølitro,  de cor marrom-escura.\nFoto 39 -Adulto de Diabrotica speciosa (D. L  Gazzoni)\nFoto 40 -Adulto de Cerotoma sp. (D. L  Gazzoni)\nFoto 41-Adulto de Colaspis sp. (D. L  Gazzoni)\nOs ovos de Colaspis sp. tŒm  tamanho inferior a lmm, e sªo  de cor branco amarelado.  A larva pode medir atØ  7mm, aprsentando cor branco-acinzentada. O adulto mede 5mm, apresentando sulcos e pontua› çıes em toda a extensªo do corpo, com cor geral ver› de-metÆlico.",
+    "metadata": {
+      "chunk_index": 22,
+      "tokens": 256,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Predadores sªo  aquelas espØcies  que necessi› tam de mais de uma presa para completar o seu ciclo biológico. Os principais predadores estªo concentra› dos  entre  os  insetos,  em especial  hemípteros e coleópteros, embora o grupo dos aracnídeos  tambØm seja importante.\nNªo  existe uma classificaçªo adequada das ara› nhas que habitam o ecossistema composto pela soja, embora todas as espØcies  encontradas possam ser consideradas como predadoras.\nEntre os hemípteros,  os predadores mais im› portantes sªo  as espØcies  de Onus, Nabis e Geocons.\nFoto 42 -Adulto de Nabis spp. (D. L. Gazzoni)\nFoto 43 -Adulto de Geocoris sp.  (D. L. Gazzoni)\nFoto 44 - Aracnídeo (D. L. Gazzoni)\nFoto 45 - Callida sp. (D. L. Gazzoni)\nFoto 46 - Callida scutellaris (D. L  Gazzoni)\nSªo  insetos pequenos,  medindo  menos de  5mm (Orius e Geocon's) ou atØ  lOmm (Nabis) ,  alimentam› se de formas jovens de pragas, em especial ovos, la› gartas pequenas ou pequenas ninfas de percevejos.\nEntre os coleópteros, encontram-se com mai› or freqüŒncia  espØcies  de Callida, Lebia concina e Calosoma granulatum. Todos sªo insetos polífagos, alimentando-se de diversas pragas que atacam a cultura.",
+    "metadata": {
+      "chunk_index": 23,
+      "tokens": 183,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Ao  contrÆrio  dos predadores, os parasitóides necessitam de apenas uma presa para completar o  seu ciclo  biológico.  As  espØcies  de parasitóides mais  comuns  pertencem  às ordens  Diptera  e Hymenoptera.\nComo  regra geral,  a  fŒmea  adulta efetua  a oviposiçªo diretamente na postura ou sobre formas jovens Oagartas ou ninfas) das pragas de soja. Após a eclosªo,  as larvas dos parasitóides passam a alimen› tar-se dos tecidos internos do hospedeiro, porØm  nªo causam a morte imediata do mesmo, de forma a po-\nFoto 47· Lebia concina (D. L  Gazzoni)\nFoto 48 · Calosoma granulatum (D. L  Gazzoni)\nFoto 49 · Doru lineare (O. L  Gazzoni)\nFoto 50 · Podisus sp. (D. L Gazzoni)\nder completar o ciclo biológico do parasitóide no inte› rior do hospedeiro. A fase de pupa pode ser passada no interior do hospedeiro, ou entªo a larva desenvol› vida retira-se do corpo do hospedeiro para transfor› mar-se em pupa no exterior. O hospedeiro parasitado morre no decorrer desse processo, ou após a emer› gŒncia o adulto, o qual reinicia o ciclo de parasitismo. d\nSªo  considerados parasitóides eficientes aque› les que impedem que o hospedeiro cause danos à cultura e, em especial, os que interrompem o ciclo biológico  da praga,  impedindo  o  seu crescimento populacionaL Nesse particular, os parasitóides que atacam ovos de pragas sªo  os mais eficiente, pois difi› cultam o estabelecimento de populaçıes da praga na lavoura\nFoto 51Trissolcus basalis sobre postura de N  viridula (D. L. Gazzoni). Foto 52 CopitÚJsom'.l  truncatellum em C. includens(D. L. Gazzoní) Foto 53 -Ovos de EuPledrus Pluteri sobre A. gemmatalis (D. L. Gazzoni). Foto 54 -Adulto de Eutrichopodsis nitens em N  viridula (D. L. Gazzoni).",
+    "metadata": {
+      "chunk_index": 24,
+      "tokens": 274,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "As pragas da soja sªo  suscetíveis  a diversas mo› lØstias  causadas por microrganismos como fungos, vírus  e bactØrias,  constituindo-se, sob condiçıes favo› rÆveis, m excelentes agentes de controle natural. e\nA lagarta-da-soja Ø  atacada pela doença-branca, causada pelo fungo Nomuraea rileyi, considerado o mais importante agente de controle natural dessa pra› ga. As lagartas sªo contaminadas pelo contato com os esporos do fungo  presentes sobre as folhas ou no solo. Após o início  do desenvolvimento do micØlio,  as lagartas diminuem a alimentaçªo, sobrevindo a mor› te. As lagartas ficam duras e, com o desenvolvimento externo do micØlio  do fungo, assumem coloraçªo bran› ca, tornando-se verdes com a formaçªo dos esporos, em condiçªo de alta umidade relativa do ar.\nA. gemmatalis tambØm Ø  atacada  por Baculovírus  anticÆrsia, endo infectada pela ingestªo s dos poliedros presentes nas folhas. Após a ingestªo, as partículas  livres localizam-se no nœcleo  das cØlulas das lagartas, onde se reproduzem. As lagartas assu› mem aspecto descolorido, diminuem sua movimenta› çªo e alimentaçªo, sobrevindo a morte aproximada› mente uma semana após a infecçªo.\nFoto 55 - Lagarta infectada por Nomuraea ri/e'; (D. L  Gazzoni)\nFoto 56 -Lagarta infectada por N  rile,;, fase reprodutiva (D. L  Gazzoni)\nFoto 57 -Lagarta.<Ja-soja infectada por Baculovírus  anticÆrsia (D. L Gazzoni).",
+    "metadata": {
+      "chunk_index": 25,
+      "tokens": 207,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "As lagartas e os percevejos que atacam a soja sªo  amostrados atravØs  do mØtodo  do pano. Para tan› to,  utiliza-se um pano, ou plÆstico  branco, de 1m de comprimento e  largura adaptÆvel  ao  espaçamento entre as filas de soja, com um suporte de madeira em cada borda lateral. O pano, enrolado sobre os supor› tes, Ø colocado entre duas filas  adjacentes de soja, com cuidado para nªo perturbar os insetos presentes na Ærea  ser amostrada. A seguir Ø  desenrolado atØ a encostar no caule das plantas, inclinando-se as mes› mas sobre ele. Bate-se vigorosamente sobre as plan› tas de maneira que os insetos caiam sobre o pano, após o que recolocam-se as plantas na sua posiçªo original. Efetua-se a contagem das pragas presentes no pano, transferindo-se o resultado para uma ficha especial.\nPara a avaliaçªo dos danos da broca-das-axilas, conta-se  o  nœmero de ponteiros atacados em  100 plantas próximas ao ponto de amostragem, transfe› rindo-se  o  resultado  para a  mesma ficha  utilizada anteriormente.\nFoto  58 - Colocando o pano entre as filas  (D. L. Gazzoni)\nFoto  59 - Batendo as plantas sobre o pano  (D. L. Gazzoni)\nFoto 60 - Contando os insetos  (D. L. Gazzoni)",
+    "metadata": {
+      "chunk_index": 26,
+      "tokens": 196,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Essa doença, que ocorre em todas as regiıes produtoras de soja, Ø causada pelo fungo Cercospora sojina e apresenta sintomas nas folhas, hastes, vagens e sementes. As lesıes  iniciam como pequenos pon› tos ou manchas de encharcarnento (anasarca) e mu› dam de coloraçªo para castanho-clara no centro e bor› dos castanho-avermelhados, na pÆgina  superior da folha e coloraçªo cinza na pÆgina  nferior, onde ocorre i a esporulaçªo. O tamanho das lesıes varia de 1 a 5mm de diâmetro. As lesıes  menores apresentam colora› ~'ão mais escura. Exanlinando-se as lesıes,  com o au› xilio de uma lupa, verifica-se a presença de conídios hialinos e conidióforos de coloraçªo negra na face in› ferior das folhas. As lesıes  nas hastes e vagens apa› recem ao final da granaçªo e apresentam aspectos de anasarca na fase inicial, evoluindo para manchas circu› lares,  castanho-escuras,  nas vagens,  e  manchas elípticas  ou alongadas. com centro cinza a castanho› claro. com bordas castanho-avermelhdas, na haste. Nas sementes. o tegumento apresenta rachaduras e manchas de tamanho variÆvel.  de coloraçªo parda a · cinza\nControle: Utilizar cultivares resistentes.\nFoto 61  - Mancha-olho-de-rª  nas folhas de soja  O  T.  Yorinori) .\nFoto  62  - Mancha-olho-de-rª:  folha,  haste c  vaRem  O .T.  Yorinori)",
+    "metadata": {
+      "chunk_index": 27,
+      "tokens": 201,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "O agente causal dessa molØstia  Ø o  fungo Septoria glycines, o qual Ø  inicialmente introduzido na lavoura atravØs  de sementes infectadas. Os primeiros sinto› mas aparecem cerca de duas semanas após a emer› gŒncia,  como pequenas pontuaçıes  ou manchas de contornos angulares, castanho-avermelhadas, nas fo› lhas unifolioladas. Em situaçıes favorÆveis,  doença a pode atingir os primeiros trifólios e  causar severa desfolha atØ  os primeiros 3540 dias, após o qual as plantas se recuperam. Um novo surto da doença  ocor› re ao final do enchimento das vagens, após o estÆdio R6 (ver EST`DIOS  DE DESENVOLVIMENTO DA SOJA). Nas folhas verdes surgem pontuaçıes pardas, menores que lmm de diâmetro, as quais evoluem e formam manchas com halos amarelados e centros de contornos angulares, de coloraçªo parda na parte su› perior da folha e rosada na pÆgina  nferior, medindo i de 2 a 3mm de diâmetro. Em infecçıes severas, causa desfolha e maturaçªo prematura, com conseqüente reduçªo do rendimento. O fungo Ø  introduzido na la› voura atravØs  da semente e  sobrevive nos restos culturais.\nControle: rotaçªo/sucessªo  de cultura, manejo do solo e adubaçªo equilibrada, com Œnfase o potÆssio,  aplicaçªo n e de fungicida na parte aØrea,  no estÆdio  R5.5.\nFoto 63 - Mancha-parda na folha unitoliolada O.T  Yorinori)\nFoto 64 - Mancha-parda em folha adulta O.T Yorinori)\nFoto 65 - Mancha-parda no final do ciclo da soja O . T. Yorinori)",
+    "metadata": {
+      "chunk_index": 28,
+      "tokens": 228,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "O fungo Cercospora kikuchii ataca todas as par› tes da planta e pode ser responsÆvel or severas re› p duçıes  no rendimento e na qualidade da semente. Nas folhas os sintomas aparecem a partir do final da granaçªo e sªo caracterizados por pontuaçıes casta› nho-avermelhadas, as quais coalescem e formam gran› des  manchas  escuras que  resultam  em  severo crestamento e desfolha prematura. Nas vagens apa› recem pontuaçıes vermelhas que evoluem para man› chas castanho-avermelhadas. AtravØs  da  vagem o fun› go atinge a semente e  causa a mancha-pœrpura no tegumento, daí  a denominaçªo da doença  como man› cha-pœrpura.  Nas hastes, o fungo causa manchas ver› melhas, geralmente superficiais, limitadas ao córtex. Em certas situaçıes  (solos de baixa fertilidade nos primeiros anos de cultivo em Cerrado), quando a in› fecçªo ocorre nos nós, o fungo pode penetrar na has› te e causar necrose com coloraçªo avermelhada da medula. O fungo Ø  introduzido na lavoura atravØs  da semente e sobrevive nos restos culturais.\nControle: Sementes livres do  patógeno,  tratamento químico da  semente, adubaçªo  equilibrada, com Œnfase no  potÆssio,  e  aplicaçªo  de fungicida na parte aØrea,  no estÆdio  RS.5.",
+    "metadata": {
+      "chunk_index": 29,
+      "tokens": 185,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Essa doença Ø  causada pelo fungo Peronospora manshurica, o qual ataca folhas e sementes em for› maçªo. A doença tem início  nas folhas unifolioladas e progride para cima. podendo atingir toda a parte aØ› rea. Os sintomas iniciais do ataque do fungo sªo  re› presentados por pontuaçıes amarelas na parte supe› rior das folhas, as quais aumentam de tamanho, po› dendo atingir 3-5mm de diâmetro. Em situaçıes seve› ras,  as  lesıes coalescem  e  podem  resultar  em crestamento da  folha. No verso da mancha amarelada na folha,  aparecem as estruturas de frutificaçªo  do fungo, de aspecto cotonoso e de coloraçªo bege a le› vemente rosada,  característica do  míldio. Após  a necrose da parte infectada, as manchas  formadas apre› sentam muita semelhança com a mancha-olho-de-rª, devendo-se ter o cuidado de nªo  confundir as doen› ças. As infecçıes na  vagem podem resultar em deteri› oraçªo da semente ou infecçªo parcial, com desenvol› vimento de uma crosta pulverulenta, constituída  de micØlio  e esporos do fungo, dando uma coloraçªo bege a castanho-clara ao tegumento.\nO fungo Ø  introduzido na lavoura atravØs  de se› mentes infectadas e por esporos disseminados pelo vento.\nControle: Cultivar resistente e tratamento da semente.\nFoto 68 - Míldio  nas  pÆginas  nferior (esq.) e superior (dir.)\ni O.T. Yorinori).\nFoto 69 - Míldio  na semente O.T. Yorinori)",
+    "metadata": {
+      "chunk_index": 30,
+      "tokens": 215,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "O oídio  Ø  uma doença  ainda de pouca expressªo, porØm,  estÆ umentando nas regiıes  altas dos cerra› a dos (p.ex., Patos de Minas e Presidente OlegÆrio, m e Minas Gerais) e em campos de multiplicaçªo de se-, mentes, na entressafra, sob irrigaçªo. E causada pelo fungo MicrosPhaera diflusa (sin. Erysiphe polygonz) , que tambØm  infecta diversas espØcies  de leguminosas. E um parasita obrigatório, que se desenvolve em toda a parte aØrea  da soja, incluindo hastes e vagens, po› rØm,  Ø  mais visível  nas folhas. O esporo (conídio  ou ascósporo) do fungo, ao cair na superfície· da folha, germina e produz uma teia de micØlio  que se espalha pela superficie da planta. O micØlio  penetra nas cØlu› las epidermais e atravØs  de haustórios intracelulares nutre-se do conteœdo  das cØlulas.  Na superfície  da planta forma-se uma  fina camada de micØlio  e esporos (conídios) pulverulentos que, de pequenos pontos brancos, podem cobrir toda a folha, as vagens e par› tes da haste.\nOs sintomas apresentados pelo oídio  podem va› riar de clorose, ilhas verdes, manchas ferruginosas, desfolba acentuada ou combinaçıes desses sintomas, dependendo da reaçªo das cultivares. Todavia, o mais evidente Ø a  prórpia estrutura branca e pulverulenta do fungo sobre a superfície  das partes infectadas. Controle: Cultivar resistente (em fase de avaliaçªo).",
+    "metadata": {
+      "chunk_index": 31,
+      "tokens": 210,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Causada pelo fungo Phakopsora pachyrhizi, a fer› rugem-da-soja ocorre com regularidade no final de ciclo na regiªo  do Vale do Parnaíba,  em Minas Gerais, e em soja em casa-de-vegctaçªo. O sintoma da doença  Ø  carac› terizado por pequenos pontos com menos de lmm de diâmetro, de coloraçªo pardo-avermelhada, na parte su› perior da folha. Em infecçıes severas, as lesıes podem coalescer, formar grandes manchas castanhas e causar o amarelecimento e queda da folha. Na fase inicial pode ser confundida por septoriose, porØm,  difere desta por apresentar coloraçªo mais avennelhada e pela ausŒncia de halo amarelado ao redor  da lesªo.  Na parte inferior da folha, a lesªo  Ø  de coloraçªo castanho-clara a castanho› escura, tendo uma pequena elevaçªo no centro, de colo› raçªo mais clara. Essa parte mais clara do centro consti› tui  a  cutícula, que  cobre  a  massa  de  esporos (uredósporos) produzida no interior do tecido da  folha. Ao romper a cutícula,  forma-se um poro por onde sªo liberados os uredósporos que, a princípio,  aparentam uma fina  camada de poeira, de coloraçªo  levemente rósea.  Um  leve  toque  na parte  superior libera os uredósporos, os quais podem ser vistos suspensos no ar como uma fina poeira.\nControle:  Nªo  semear a  soja fora  de Øpoca. Diversas cultivares sªo  resistentes à doença.\n...",
+    "metadata": {
+      "chunk_index": 32,
+      "tokens": 210,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Essa  mancha  foliar  Ø causada  pelo  fungo Ascochyta sojae e ocorre nos cerrados. Em casos se› veros pode causar mais de SO% de desfolha. As culti› vares IT-ll e IT-Cristalina tem sido mais afetadas, porØm, nªo  hÆ  estudos sobre a reaçªo  das demais cultivares.\nO fungo pode infectar a soja em qualquer idade, porØm,  Ø observada no  campo após a floraçªo.  As manchas foliares inciam-se como pequenos pontos castanho-avermelhados, expandem-se para lesıes  cir-, culares, atingindo atØ  1,Scm. A medida que as manchas se expandem, a parte central torna-se castanho› clara,  diferenciando-se  das  bordas  castanho› avermelhadas. A parte central rompe-se com facilida› de, deixando a folha furada ou rasgada. Na parte mais clara do centro, observa-se pequenos pontos casta› nho-escuros  que  constituem  as  estruturas  de frutificaçªo  (picnídios)  do fungo. Os esporos (conídios) sªo  hialinos, elípticos  e constituídos  de uma ou duas cØlulas;  os conídios  bicelulados Ø  que caracterizam o fungo Ascochyta. Os conídios sªo  expelidos  dos picnídios  em forma de massa de esporos (cirros) e só\npodem ser dispersos, primeiro, pela açªo da chuva e, posteriormente, pelo vento, que pode levÆ-los  curta a ou  longa  distâncias Dessa forma,  a  mancha-de› ascoquita  normalmente  inicia-se  em  forma  de reboleiras.\nControle: Os mveis atuais nªo justificam qualquer controle.",
+    "metadata": {
+      "chunk_index": 33,
+      "tokens": 204,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Causada pelo fungo Myrothecium roridum, Ø  de ocorrencia generalizada nos cerrados. Tem sido mais severa no Maranhªo  e no Piauí.  Pode ser confundida com mancha-de-ascoquita e olho-de-rª.  O fungo pode atacar toda a parte aØrea  da planta, mas Ø  mais carac› terístico  na folha. A lesªo  inicia-se por uma mancha circular verde-clara e evolui para manchas arredonda› das, atingindo 3-Smm de diâmetro. Na parte superior da folha,  as manchas apresentam um centro casta› nho-claro e margem castanho-escura. Na pÆgina  nfe› i rior, a coloraçªo Ø  uniformemente castanho-escura e, sob condiçªo de alta umidade, apresenta pontos bran› cos como pequenos flocos de algodªo, os quais cons› tituem o micØlio  do fungo. Esse micØlio  dÆ rigem à o frutificaçªo  (esporodóquios sØsseis)  e transforma-se\nFoto  75 - Desfolha acentuada por mancha·de-mirotØcio (J.T. Yorinori).\nFoto  7fi· Mancha-de-mirotØcio vista na parte superior da folha (J.T. Yorinori) .\nFoto  77 - Mancha-de-mirotØcio  com frutificaçıes  negras no centro, vista na pagina inferior da folha (J.T. Yorinori).\nem pontos negros, formando  pequenas massas de esporos no centro das lesıes.  Os esporos sªo  disper› sados pela açªo da chuva e, com a açªo do vento, sªo disseminados a curta ou longa distâncias, dependen› do da sua intensidade. A ocorrŒncia  da mancha-de› mirotØcio  tem início  em forma de reboleiras e, poste› riormente, generaliza-se na lavoura.\nControle. O nível  de incidŒncia inda nªo exige o controle. a",
+    "metadata": {
+      "chunk_index": 34,
+      "tokens": 226,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Uma morte foliar freqüentemente notada em soja atraiu maior atençªo na safra 1990/91, causando danos severos em Mato Grosso (Alto Garça e Campo N  ovo dos Parecis) e no ParanÆ Arapoti e Sªo Miguel ( do Iguaçu). Em Alto Garça atingiu 100% de desfolha prematura, provocando perdas de rendimento estima› da em 50%. Sua ocorrŒncia stÆ ssociada com perío› e a dos de alta pluviosidade e alta temperatura, e tem sido observada a partir dos estÆdios  5.2/R5.3, em plan› R tas aparentemente sadias, ou associadas com sinto› mas de antracnose na haste e na vagem. AtØ  o mo› mento a etiologia da doença nªo  foi esclarecida, po› rØm,  parece estar mais relacionada com problemas nutricionais ou fisiológicos.\nFoto  78 - Necrose-da-base-do-pecíolo (pœlvino), causa  nªo  definida OT. Yorinori).\no sintoma inicia-se por um ponto de cor casta› nho-escura a castanho-avermelhada, aparentemente de dentro para  fora. Sob alta umidade, a parte carnosa apresenta aspecto de podridªo-mole e, ao secar, per› de a turgescŒncia,  tecido retrai-se e, ao final, a base o do pecíolo  fica fina e de cor avermelhada a negra; a folha adquire uma coloraçªo  amarelada a castanha, seca e cai ou fica pendente ao longo da haste. Com freqüŒncia  necrose expande-se para a haste, resul› a tando em sintoma semelhante ao da antracnose ou do cancro-da-haste. Com maior  freqüŒncia corre a rÆpi› o da necrose do pœlvino  e a queda da folha, deixando no local  da  inserçªo  do  pecíolo uma leve  cicatriz avermelhada.",
+    "metadata": {
+      "chunk_index": 35,
+      "tokens": 243,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Essas  doenças sªo  causadas pelo  fungo Corynespora cassiicola e estªo presentes em todas as regiıes  produtoras de soja. A mancha-alvo Ø  caracte› rizada por lesıes  que se iniciam por pontuaçıes  de coloraçªo parda, com halo amarelado, evoluindo para grandes manchas circulares de coloraçªo castanho› clara a castanho-escura, atingindo atØ  2cm de diâme-\nFoto 79 - Sintoma foliar de mancha-alvo O.T Yorinori)\nFoto 80 - Maturaçªo desuniforme devida à podridªo-radicular-de .çorinØspora  O.T  Yorinori).\nFoto 81- Podridªo-radicular com esporulaçªo de C. cassiicola no córtex O.T Yorinori).\ntro.  Normalmente, as manchas apresentam pontua› çªo no centro e anØis  concŒntricos e coloraçªo mais d escura, advindo daí  o nome de mancha-alvo. As culti› vares recomendadas apresentam boa resistŒncia à infecçªo foliar, e a presença  da doença  só Ø  notada nas folhas inferiores, ao final do ciclo da cultura. Cultiva› res suscetíveis  podem sofrer severa desfolha, com manchas na haste e nas vagens.\nA podridªo-radicular Ø  observada com mais fre› qüŒncia m semeadura direta. As plantas infectadas e aparecem distribuídas  ao acaso, com amarelecimento das follias e maturaçªo prematura. As raízes  infectadas apresentam cor castanho-clara. Após a morte da plan› ta, em solo œmido,  ficam cobertas poruma fina cama› da negra de esporos.\nControle:  Usar cultivares  resistentes;  fazer  rotaçªo/ sucessªo de culturas com milho e espØcies  de gramíneas  e revolvimento do solo, em caso de monocultura de soja.",
+    "metadata": {
+      "chunk_index": 36,
+      "tokens": 223,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Essa doença, causada pelo fungo Colletotrichum dematium varo truncata, estÆ isseminada em todas d as Æreas e cultivo de soja e infecta a cultura em qual› d quer fase  do  seu  ciclo,  podendo  causar morte de plântulas, necrose dos pedolos e manchas nas folhas, hastes e vagens. O sintoma mais evidente ocorre nas\nFoto  82  - Sintomas de  antracnose  nas folhas  (Cortezia de Y.R.  Mehta)\nFoto 83  - Sintomas de  antracnose nas vagens a. T. Yorinori)\nFoto 84  - Tombamento de  plântulas a.T. Yorinori)\nvagens. As vagens infectadas no estÆdio  nicial de for› i maçªo adquirem coloraçªo castanho-escura a negra e ficam retorcidas; nas vagens em granaçªo, as lesıes iniciam-se por estrias de  anasarca e  evoluem para manchas negras, podendo atingir toda a vagem. Em períodos  de alta umidade, as partes infectadas ficam cobertas  por  pontuaçıes  negras  que  sªo  as frutificaçıes  (acØrvulos)  do fungo. Dessas pequenas pontuaçıes surgem estruturas escuras, denominadas setas. As sementes infectadas apresentam manchas deprimidas de coloraçªo castanho-escura. Plântulas originadas de  sementes  infectadas  apresentam necrose dos cotilØdones,  a qual pode se estender para o hipocótilo e causar o tombamento das plântulas. O fungo sobrevive nas sementes e nos restos de cultura. Controle: Uso de sementes livres do patógeno; tratamento químico  da semente; espaçamento e densidade de plantas adequados e adubaçªo  potÆssica  equilibrada.",
+    "metadata": {
+      "chunk_index": 37,
+      "tokens": 215,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "E  causada  por  duas  espØcies do  fungo Phomopsis: P. sojae (Diaporthe Phaseolorum varo sojae) e P. longicola. Os fungos sªo transmitidos atravØs  da semente e sobrevivem nos restos culturais. Durante\no crescimento da planta, o patógeno associa-se com o tecido cortical de forma latente e pode nªo se expres› sar atØ  o final do ciclo, dependendo das condiçıes cli› mÆticas,  da fertilidade e da populaçªo. Sob condiçªo de solo fraco, principalmente de deficiŒncia e potÆs› d sio, excesso de chuva e alta populaçªo, o fungo infecta a haste, os ramos laterais e pedolos e as vagens em qualquer estÆdio e formaçªo.  Pode causar queda to› d tal das  vagens ou deterioraçªo das sementes se hou› ver atraso na colheita por excesso de chuva. As va› gens infectadas ficam chochas ou apodrecem, adqui› rem coloraçªo  esbranquiçada a castanho-clara. Sob condiçªo  de  alta  umidade,  o  fungo  desenvolve frutificaçıes  negras (picnídios),  dispostas de forma linear nas partes  infectadas. Sementes  infectadas apre› sentam enrugamento e rachaduras no tegumento, fi› cam sem brilho e cobertas com micØlio  de coloraçªo esbranquiçada  a bege.\nControle:  Usar  semente  livre  do  patógeno;  fazer tratamento  químico  da semente;  semear  em espaçamento  e  densidade  adequados  e  adubar conforme a anÆlise  de solo.",
+    "metadata": {
+      "chunk_index": 38,
+      "tokens": 201,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "A doença  Ø  causada por um fungo que apresenta uma fase imperfeita, denominada Phomopsis Phaseoli f. sp. meridionalis: e  uma fase  perfeita,  chamada Diaporthe phaseolorum f.  sp. meridionalis. A primei› ra  inicia  a  esporulaçªo  (picnídios) nos  tecidos infectados da planta ainda viva e continua durante a entressafra, contaminando os restos culturais. A fase perfeita (peritØcio)  ocorre nas plantas infectadas ou nos restos contaminados por esporos da fase imper› feita, e Ø  responsÆvel elo CH na safra seguinte. Du› p rante a safra nªo  ocorre infecçªo secundÆria.\nOs primeiros sintomas sªo  visíveis 12-15 dias após a infecçªo, na forma de pontuaçıes pretas. Estas evoluem para manchas pretas e grandes lesıes casta› nho-avermelhadas, atingindo vÆrios  centímetros  ao longo da haste. AlØm  do sintoma externo, o fungo penetra no interior da haste tornando de coloraçªo castanha a castanho-avermelhada o lenho e a medula. As folhas das plantas infectadas apresentam clorose e\nFoto 87 - Lavoura afetada por CH, perda superior a 90% a.T Yorinori) Foto 88 - Hastes com CH a. T. Yorinori) .\nFoto 90 - Esporulaçªo  (peritØcios  e ascósporos) em resteva a. T. Yorinori).\nFoto 89 - Cancro-da-haste com necroses do lenho e da medula a.T Yorinori).\nnecrose entre as nervuras, caracterizando a chamada folha \"carijó\".\nO cancro-da-haste Ø  uma doença  de desenvolvi› mento lento, e as plØilltas  infectadas logo após a emer› gŒncia ªo morrer  a partir do final da  floraçªo ou início v da formaçªo das vagens.\nControle: Utilizar cultivar resistente.",
+    "metadata": {
+      "chunk_index": 39,
+      "tokens": 242,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "· E uma das doenças mais antigas da soja e Ø  causada pelo fungo Sclerotinia sclerotiorum. A fase mais vulnerÆvel  da soja Ø nos estÆdios  da floraçªo  plena (R2) ao início  da  formaçªo das vagens (R3/R4). O fun› go Ø  capaz de infectar qualquer parte da planta, po› rØm,  as infecçıes  iniciam-se com mais freqüŒncia  a partir das inflorescŒncias  das axilas das folhas e dos e ramos laterais com a haste principal. Os primeiros sin› tomas sªo  manchas de anasarca, que evoluem para uma coloraçªo  castanho-clara e  logo desenvolvem abundante formaçªo de micØlio  branco e denso. Em poucos dias o micØlio  transforma-se em uma massa\nnegra, rígida,  constituindo o esclerócio, que Ø a  forma de resistŒncia  do fungo.  Os esclerócios variam em tamanho de poucos milímetros  a alguns centímetros e sªo  formados tanto na superfície  como no interior da haste e das vagens infectadas.\nOs esclerócios caídos  no solo, sob condiçªo de alta umidade ,e  temperaturas variando  de  lO-21°C, germinam e  produzem, na superfície do  solo,  as estruturas chamadas apotØcios,  os quais produzem os ascósporos, que sªo liberados no ar  e sªo responsÆveis pela infecçªo das  plantas.\nControle: Rotaçªo de culturas com espØcies  resistentes; incorporaçªo  dos restos culturais; maior espaçamento e menor densidade populacional.",
+    "metadata": {
+      "chunk_index": 40,
+      "tokens": 204,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "A  meIa,  causada pelo fungo Thanatephorus cucumeris ou Rhizoctonia solani, Ø  uma doença que estÆ e tornando comum nos cerrados do Maranhªo. s O fungo Ø o  mesmo que causa a mela-do-feijoeiro e pode infectar a soja em qualquer estÆdio e desenvol› d vimento, por toda a parte aØrea  das plantas; porØm,  os sintomas sªo mais evidentes nas folhas, nos pecíolos e ramos  laterais. De  pequenas  lesıes de encharcamento evoluem rapidamente para grandes manchas ou reboleiras de plantas mortas. As partes infectadas secam rapidamente, adquirem coloraçªo castanho-clara a  castanho-escura. As folhas  e  os pecíolos  infectados ficam pendentes ao longo da has› te ou caem spbre plantas vizinhas, propagando a do› ença. Nas partes mortas, o fungo forma finas teias de micØlio  e abundantes microesclerócios, que variam da cor bege a  castanho-escura. As infecçıes  nas hastes  e  vagens  produzem  lesıes  castanho› -avermelhadas.\nControle: Evitar o plantio adensado; controlar as plantas daninhas; fazer  a  rotaçªo/sucessªo de culturas com gramíneas  e  manter a adubaçªo  equilibrada.",
+    "metadata": {
+      "chunk_index": 41,
+      "tokens": 162,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Essa doença, causada por Rhizoctonia solani, foi constatada pela primeira vez na safra 1987/88 na Fa› zenda  Itamarati-Sul,  em  Ponta  Porª,  MS,  em Rondonópolis, MT, e em Sªo  Gotardo, MG. Desde entªo,  tem ocorrido em diversas localidades, mas pa› rece estar restrita a regiıes  dos cerrados e  a anos mais chuvosos. A ocorrŒncia  pode ser de algumas plantas mortas a extensas reboleiras. As plantas co› meçam a morrer a partir do início da formaçªo  de vagens.\nO sintoma inicia-se por uma podridªo aquosa e castanha da haste, próximo ao nível  do solo, esten› dendo-se para baixo e para cima. O sistema radicular adquire cor castanho-escura, o tecido cortical amole› ce e solta-se com facilidade, expondo um lenho firme, branco a castanho-claro. Na parte inferior da haste, a podridªo atinge vÆrios entímetros  acima do nível  do c solo. Inicialmente de cor  castanho-clara e aspecto aquo› so, torna-se negra. A haste necrosada pode apresen-\nFoto 95·  Morte em reboleira com podridªo-negra·da-base O:r. Yorinori). Foto 96 - Podridªo-negra-da-base com formaçªo de cancro 0.1: Yorinori). Foto  97 - Podridªo-negra-da-base com afinamento da haste OT Yorinori).\ntar um ligeiro afinamento em relaçªo à  parte superior ou formar cancro em um dos lados, ficando a parte afetada deprimida, estendendo-se a vÆrios centíme› tros acima do nível  do solo. O  tecido cortical infectado destaca-se com facilidade, dando a impressªo de uma podridªo  superficial. As folhas amarelas murcham e ficam pendentes na haste.\nControle: Eliminar a compactaçªo; evitar solo encharcado.",
+    "metadata": {
+      "chunk_index": 42,
+      "tokens": 242,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Identificada no Rio Grande do Sul, na safra 1988/ 89, a podridªo-parda-dahaste (pPH), causada pelo fungo PhialoPhora gregata, tem sido responsÆvel or p sØrios  prejuízos  no Planalto MØdio  do Rio Grande do Sul e em  Santa Catarina. Esse patógeno do solo pene› tra na planta atravØs  do sistema radicular e desenvol› ve-se no interior da planta, causando o bloqueio do sistema vascular. As plantas infectadas apresentam uma leve coloraçªo castanha na raiz e intensa necrose da medula, em toda a extensªo da haste. Ao contrÆrio do cancro-da-haste (CH), que tambØm  causa necrose da medula, a PPH nªo  apresenta sintoma externo nem necrose ou escurecimento da parte lenhosa da haste, mas causa acentuado sintoma de folha \"carijó\". Em\nFoto 98 - Sintoma de folha \"carijó\" e necrose da medula por PPH.\nregiıes  onde ocorre a PPH e  o cancro-da-haste,  Ø possível  haver confusªo e subestimar-se a incidŒncia da PPH em plantas com sintoma de CH. Um detalhe observado no campo parece indicar que as plantas com PPH apresentam necrose da medula mais acen› tuada na extremidade da haste principal e dos ramos laterais do que as com CH.\nControle: Rotaçªo  de cultura com espØcies  gramineas e usar cultivares resistentes.",
+    "metadata": {
+      "chunk_index": 43,
+      "tokens": 198,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Causadas pelo fungo Rhizoctonia solani, o tom› bamento ocorre entre a prØ-emergŒncia   30-35 dias e após a emergŒncia, ob condiçıes de temperatura e s umidade elevadas; a morte-em-reboleira ocorre em plantas adultas, em anos chuvosos e com temperatu› ras amenas, em solos mais leves do Sul e das Æreas altas dos cerrados.\nTombamento: o sintoma inicia-se por  estrias cas› tanho-avermelhadas na raiz, nos primeiros centíme› tros abaixo do nível  do solo. As estrias expandem-se, coalescem e resultam em podridªo seca de coloraçªo , ' castanha a castanho-avermelhada. E freqüente a for-\nmaçªo de anØis  que estrangulam o colo abaixo do ní› vel do solo; as plântulas  murcham e tombam ou sobre› vivem emitindo raízes  acima da regiªo afetada. Estas geralmente tombam antes da floraçªo.\nMorte-em-reboleira: Ø  caracterizada por mor› te de plantas adultas, formando grandes reboleiras na lavoura. As plantas apresentam podridªo radicu1ar seca de coloraçªo castanha, com formaçªo de cancros cas› tanho-avermelhados na base da haste.  As  plantas infectadas murcham, secam e  ficam  com as folhas pendentes ao longo da haste.\nControle:  A - tombamento:  tratamento  da  semente. B - morte-em-reboleira:  manejo  do  solo  e  rotaçªo  de cultura.",
+    "metadata": {
+      "chunk_index": 44,
+      "tokens": 189,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "O tombamento e a murcha de planta adulta sªo causadas pelo fungo Sclerotium rolfsii. O tombamen› to ocorre sob solo œmido  e alta temperatura, princi› palmente onde hÆ  resteva em decomposiçªo. A fase de murcha ocorre em lavouras fechadas, em perío› dos de alta umidade e alta temperatura.\nTombamento: o tombamento resulta de uma podridªo mole, aquosa, que geralmente se inicia logo\nabaixo do nível do solo. As plântulas afetadas mur› cham e, ao serem puxadas, rompem-se com facilida› de no ponto de infecçªo. Sobre a Ærea  nfectada desen› i volve um micØlio  branco e pequenas estruturas esfØ› ricas (esclerócios) de cerca de lmm e de cor branca a castanho-escura.\nMurcha de planta adulta: após o fechamento das ruas, oS. rolfsii desenvolve-se em substratos or› gânicos em decomposiçªo, como folhas e resteva da cultura anterior, localizados próximo ao colo da soja. Posteriormente infecta a soja na regiªo  do colo ou na parte aØrea.  A planta afetada fica verde-clara, murcha e seca. Nos pontos de infecçªo ocorre abundante for› maçªo de micØlio  de  cor branca a castanho-clara  e pro› fusa formaçªo de esclerócios.\nControle:  Evitar  o  plantio  adensado  e  usar  maior espaçamento entre as ruas.  Eliminar a compactaçªo  do solo e adubar de acordo com a anÆlise e solo. d\nFoto 104 -Tombamento causado por S. rolfsii O.T Yorinori)\nFoto 105 - Podridªo-aquosa-da-raiz causada por S. rolfsii O.T. Yorinori)\nFoto 106 - MicØlio de S. rolfsii na base da haste infectada O .T. Yorinori)\nFoto 107 S. rolfsii na parte aØrea  e  formaçªo  de esclerócios O.T. Yorinori).",
+    "metadata": {
+      "chunk_index": 45,
+      "tokens": 256,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "A PVR Ø  causada pelo fungo Fusarium solani e foi observada pela primeira vez na safra 1981/82 em Sªo  Gotardo, MG, na cultivar UFV-l.  Desde entªo, tem sido observada nas principais regiıes produtoras de semente do Sul e das regiıes  altas dos cerrados.\nO sintoma na raiz incicia-se com uma mancha avermelhada, mais visível  na raiz principal, geralmen› te localizada logo abaixo do nível  do solo. A mancha expande-se,  circunda a  raiz,  passa da  coloraçªo avermelhada para vermelho-arroxeada e, finalmente, negra. Essa necrose acentuada localiza-se mais no te› cido cortical, enquanto o lenho adquire uma coloraçªo castanho-clara, estendendo-se a vÆrios  centímetros acima do nível  do solo. Sob condiçıes de alta umidade, forma-se  um  anel  vermelho  na  base  da  haste, freqüentemente com uma cobertura pulverulenta de coloraçªo bege, constituída  de esporos (conídios)  do fungo. Nessa fase, observa-se na parte aØrea  a forma› çªo de manchas amarelas nas folhas, progredindo para uma acentuada clorose e necrose entre as nervuras das folhas (folha \"carijó\"). As raízes  secundÆrias ed\ngradam-se rapidamente, ficando apenas a raiz princi› pal. Sob condiçªo de solo œmido,  o córtex da raiz prin› cipal destaca-se com facilidade, expondo o lenho bran› co da raiz principal.\nControle: Usar cultivares resistentes.",
+    "metadata": {
+      "chunk_index": 46,
+      "tokens": 199,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "O fungo causador da doença pertence ao gŒne› ro Roseltinia e pode ser uma das duas espØcies  mais comuns, R. bunodes e R.  necatrix; porØm,  faltam estu› dos a respeito. A doença  Ø  encontrada  em praticamente todas as lavouras de soja com alguns anos de cultivo. A primeira indicaçªo da ocorrŒncia a doença  Ø a  pre› d sença  de plantas isoladas, ou agrupadas, distribuídas ao acaso, que se destacam entre o verde por apresen› tar folhas com um amarelo intenso, freqüentemente mais acentuado em uma metade do folíolo,  podendo tambØm  apresentar necrose entre as nervuras (folha \"carijó\"). A raiz das plantas com folhas amarelas apre› senta uma podridªo  seca que  decompıe  o  tecido lenhoso, tornando-o quebradiço. Ao puxar a planta, a raiz rompe-se com facilidade, saindo apenas um toco. Freqüentemente, a infecçªo de uma raiz secundÆria\nFoto 110 - Sintoma foliar da podridªo-radicular-de-roselínia O.T. Yorinori).\nFoto 111Podridªo-de-roseIínia com micØlio  branco O.T. Yorinori).\nFoto 112 - Formaçªo de \"esporıes\"  (estroma) de RoselUnia O.T Yorinori).\nresulta em amarelecimento de folhas localizadas do lado em que estÆ ssa raiz. O fungo geralmente pro› e duz um estroma negro na Ærea  nfectada e, sob condi› i çªo  de solo œmido, produz uma camada de micØlio branco e estruturas como esporıes,  que sªo visíveis no nível  do solo. Os danos por Rosellinia sp. podem tornar  inviÆveis  a  continuidade  da  soja  em monocultura\nControle: Rotaçªo de cultura com espØcies  de gramíneas.",
+    "metadata": {
+      "chunk_index": 47,
+      "tokens": 235,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Essa Ø  uma das doenças mais importantes em, pelo menos, metade das Æreas e soja do Brasil. EstÆ d diretamente relacionada ao mau manejo do solo e à deficiŒncia  hídrica.  O  fungo MacroPhomina Phaseolina, causador da PNR, Ø  um fungo oportunista que infecta as  raízes  da soja quando esta  passa  por  um período  de estiagem e Ø  seguida de períodos  chuvo› sos. As raízes  debilitadas ou mortas durante a estia› gem servem de substrato para o fungo, que entra em atividade durante o período  seguinte de umidade. As plantas com as raízes  colonizadas enfraquecem, so› frem o ataque das doenças de final de ciclo e rapida-\n.\nmente entram em maturaçªo, reduzindo drasticamen› te o potencial de rendimento.  Em casos severos, as plantas mortas prematuramente ficam com as folhas pendentes ao longo da haste. As ra˝Zes das plantas murchas ou mortas apresentam, inicialmente, uma coloraçªo  castanho-clara, mantŒm-se  fibrosas e  sol› tam a casca (córtex) com facilidade, como uma bana› na madura Algum tempo após a morte da planta, man› tendo-se o solo œmido, o fungo produz abundantes microesclerócios negros, conferindo ao lenho da base da planta e das raízes,  uma coloraçªo cinza a negra, advindo daí  o nome da doença.\nControle: Manejo físico  e químico  do solo, plantio direto e cobertura vegetal, para evitar estresse hídrico.",
+    "metadata": {
+      "chunk_index": 48,
+      "tokens": 216,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Identificada pela primeira  vez na safra 1994/95, na regiªo  do Planalto MØdio  do Rio Grande do Sul, a PRP,  causada pelo  fungo  do  solo Phytophthora megasperma f.sp. glycinea, poderÆ  ornar-se um sØrio t problema para a cultura da soja na regiªo Sul. O fungo Ø  favorecido por solos pesados, encharcados e mal drenados e pode infectar a soja em qualquer idade, desde a prØ-emergŒncia  tØ  planta adulta. a\nA infecçªo em prØ  e pós-emergŒncia ausa po› c dridªo  de encharcamento e resulta em tombamento e reduçªo de estande. Em plântulas maiores, as raízes infectadas apresentam aspecto de encharcamento, com coloraçªo castanho-clara; as folhas unifolioladas amarelam e a planta pode murchar ou secar sob a açªo do sol.\nO sintoma em planta adulta Ø  caracterizado pela podridªo e deterioraçªo do sistema radicular, que ad› quire coloraçªo castanha. Na haste, uma podridªo cas› tanha evolui da base para cima, podendo atingir atØ um terço da altura da planta.  As folhas  inferiores amarelam, apresentam necrose entre as nervuras e as folhas superiores ficam  c1oróticas,  murcham ou secam sob a açªo do sol, ficando pendentes ao longo da haste.\nControle: Descompactar ou drenar bem o solo e evitar terrenos encharcados; usar cultivares resistentes quando houver;  fazer  rotaçªo  de  cultura  com  espØcies de . grammeas.\nFoto  115 - Planta morta por PRP (Cortesia de  Leila Costamilan, CNP1).",
+    "metadata": {
+      "chunk_index": 49,
+      "tokens": 222,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Essa  doença  Ø  causada  pela  bactØria Pseudomonas syringae pv. glycinea. O patógeno Ø  trans› mitido atravØs  das sementes e estas, ao germinarem, servem de fonte de inóculo primÆrio  no campo, e as primeiras plantas infectadas aparecem em reboleiras. As plântulas originadas de sementes infectadas apre› sentam lesıes de encharcamento e necrose nas bor› das dos cotilØdones. Seguem-se deformaçıes  na plœmula,  com sintomas de encharcamento, clorose e, finalmente, necrose nas bordas e manchas no limbo da folha unifoliolada. Os primeiros sintomas nas fo› lhas sªo  manchas translœcidas, de aspecto oleoso, cercadas por uma borda  verde-amarelada. Essas man› chas tornam-se negras no centro e adquirem um halo amarelo, medindo 1-2mm de diâmetro. Posteriormen› te, essas manchas coalescem e formam grandes le› sıes  negras entre as nervuras da folha. Com a açªo do vento, as Æreas ecrosadas rompem-se, deixando n as folhas rasgadas. Na face inferior da folha as man› chas sªo negras e apresentam uma película  brilhante formada por cØlulas  secas de bactØrias  exsudadas dos tecidos necrosados. Em infecçıes severas, nos estÆ-\nFoto 116· Crestamento·bacteriano  em folhas unifolioladas O.T Yorinori) . Foto 117·  Crestamento-bacteriano em planta adulta O.T. Yorinori).\ndios iniciais de desenvolvimento da planta, as folhas mais novas apresentam enrugamento, aparentando sintoma de virose ou de açªo de herbicida. Geralmen› te, a bacteriose Ø  mais severa nos estÆdios ue ante› q cedem a floraçªo, podendo atingir atØ  50% de  desfolha. Controle: Usar cultivar resistente.",
+    "metadata": {
+      "chunk_index": 50,
+      "tokens": 233,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Causada pela bactØriaXanthomonas  campestris pv. glycines, essa doença ataca principalmente as fo› lhas da soja. A partir de sementes contaminadas, ou de restos de cultura, a bactØria  penetra na planta da soja atravØs  de aberturas, como estômatos ou lesıes causadas nos tecidos.  No  início surgem pequenas manchas de coloraçªo verde-amarelada, as quais se tornam castanho-avermelhadas, com um leve halo amarelo. Na pÆgina  nferior da folha a coloraçªo Ø  le› i vemente mais clara do que na pÆgina uperior e apre› s senta  uma  leve saliŒncia o centro. n As manchas distri› buem-se de forma bastante uniforme na folha e, em situaçıes de alta infecçªo, as  folhas apresentam colo› raçªo castanho-clara, secam e caem. Em certas culti› vares e, principalmente, quando observadas próximo\nFoto 118 - Pœstula-bacteriana  na pÆgina uperior dafolba s G.T. Yorinori).\nFoto 119 - Pœstula-bacteriana  na pÆgina  nferior da  folha G.T. Yorinori) i\n-\n•\nà maturaçªo da soja, as lesıes  de pœstula-bacteriana podem ser confundidas com crestamento-bacteriano. A lesıes na pÆgina  nferior adquirem coloraçªo quase i negra e  a saliŒncia  no  centro fica  pouco evidente, exigindo o auxílio  de uma lente de aumento. Em ca› sos severos, a pœstula-bacteriana  pode causar total desfolha, com conseqüente reduçªo do rendimento. Controle: Usar cultivar resistente.",
+    "metadata": {
+      "chunk_index": 51,
+      "tokens": 205,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "O  agente causal  dessa  doença Ø  a bactØria Pseudomonas syringae pv. tabaci, sendo as principais fontes  de inóculo  as sementes contaminadas e  os restos de cultura nªo  enterrados. A doença inicia-se com a penetraçªo  da bactØria  atravØs  de lesıes  da pœstula-bacteriana.  Ao penetrar no interior da  folha, a bactØria  produz  uma  forte toxina que se difunde pelos tecidos da  folha, causando grandes lesıes necróticas (atØ lcm de diâmetro) com halos amarelados.  Em casos severos,  as folhas  ficam  crestadas e  caem, podendo atingir total desfolha das plantas suscetíveis. Controle. Usar cultivares resistentes à pœstula-bacteriana.",
+    "metadata": {
+      "chunk_index": 52,
+      "tokens": 93,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "O mosaico-comum-da-soja (MCS), causada pelo V˝rus do mesmo nome, Ø a  virose mais comum da soja. O vírus  Ø  transmitido atravØs  da semente e de diversas espØcies  de pulgıes. A expressªo da doença Ø mais  evidente em regiıes  de temperaturas amenas. Em regiıes  quentes, o vírus  pode estar presente e nªo  se expressar. Os sintomas mais evidentes dessa virose sªo a reduçªo do porte (nanismo) da planta, a deformaçªo das folhas, com estreitamento e forma› çªo de ilhas amareladas ou mais verdes e salientes e sementes com manchas no tegumento, da mesma cor do hilo. As plantas infectadas produzem poucas e va› gens menores do  que as de plantas normais e  a maturaçªo Ø  retardada, podendo causar problema na colheita em situaçıes de infecçıes severas. A produ› çªo Ø  reduzida significativamente e a freqüŒncia e d sementes com mancha-cafØ acima de  10 % pode inviabilizar o lote para semente.\nControle:  Usar sementes livres  de  mancha-cafØ e cultivares resistentes.",
+    "metadata": {
+      "chunk_index": 53,
+      "tokens": 158,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Essa molØstia  Ø  causada pelo tobacco streak virns› TSV. As plantas infectadas por este vírus  apresentam grande variaçªo de sintomas, dependendo da severi› dade da doença. A severidade depende da idade em que a planta for infectada. Plantas infectadas nos pri› meiros estÆdios  de desenvolvimento  apresentam nanismo, morte (queima) das gemas laterais e apicais, severa necrose da medula e a planta fica totalmente desprovida de vagens. Plantas infectadas próximo à floraçªo  apresentam sintomas menos severos, com necrose de flores,  vagens e  sementes e  um verde mais intenso que o das plantas normais, podendo ter folíolos  deformados com necrose nas nervuras e man› chas amareladas, distribuídas  irregularmente. As plan› tas apresentam porte mais reduzido, poucas vagens e,  em certos casos, apresentam superbrotamento. Características  comuns em todas as plantas infectadas pelo vírus-da-queima-do-broto  sªo  a necrose da me› dula e a permanŒncia e plantas com haste verde após d a maturaçªo das plantas sadias. A transmissªo  do ví› rus ocorre atravØs  de sementes e de tripes do gŒnero Frankliniella, os quais se contaminam em plantas cul› tivadas ou silvestres (cravorana) hospedeiras do ví› rus, transmitindo-o para a soja posteriormente. Controle:  Semear a  soja após  um  período de  chuvas;\neliminar plantas de cravorana na lavoura.\nFoto 123 - Sintomas do vírus-da-queima-do-broto a.T. Yorinori)\nFoto  124 - Necrose da medula  pelo  vírus-da -queima-do-broto a.T. Yorinori) .\nFoto 125 -Superbrotamento causado pelo VQBS a.T. Yorinori)",
+    "metadata": {
+      "chunk_index": 54,
+      "tokens": 229,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "O mosaico-anªo-da-soja  (MAS) Ø  causado pelo mesmo  vírus do  mosaico-do-amendoim-bravo (EuPhorbia  heterophyla) . O vírus Ø transmitido do amendoim-bravo para a  soja pela mosca-branca (Bemisia tabac,) .  A  severidade do sintoma na soja de› pende do estÆdio m que a soja Ø  infectado pelo vírus. e Quanto mais cedo ocorrer a infecçªo, maior o efeito, com as plantas parando o crescimento com 15 a 20 cm de altura. Os sintomas  vªo-se atenuando à medida que a infecçªo  ocorre mais tarde. As plantas infectadas nos estÆdios  niciais de desenvolvimento ficam des› i providas de vagem e permanecem verdes no campo após o tØrmino  do ciclo da soja sadia.  Os sintomas foliares apresentam semelhança com o mosaico-co› mum-da-soja. A freqüŒncia o mosaico-anªo- depen› d de da Øpoca  de semeadura, da presença  de amendo› im-bravo com o vírus  e da populaçªo de mosca-bran› ca. Quanto mais tardio for o plantio da soja, maior serÆ a incidŒncia a virose na soja, em virtude de maior d freqüŒncia  de plantas de amendoim-bravo com o ví› rus e  de maior populaçªo  de mosca branca. A soja\nFoto 126·  Planta infectada pelo vírus-do-mosaico-anªo (MAS) O.T. Yorinori) . Foto 127 - Sintoma foliar de MAS em soja (esq.) e em amendoim-bravo\n(dir.). O.T. Yorinori) .\nsafrinha semeada em final de fevereiro e março apre› sentarÆ  aior incidŒncia o vírus. m d\nControle:  Eliminar a  infestaçªo  de amendoim-bravo  e evitar a safrinha de soja, Øpoca  em que hÆ  nfestaçªo dessa i planta  daninha.",
+    "metadata": {
+      "chunk_index": 55,
+      "tokens": 244,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "As espØcies  constatadas atØ  o momento no Bra› sil  sªo Meloidogyne  javanica,  M. incognita,  M. arenaria e M.  inormata. Por seus próprios meios, a capacidade de movimentaçªo  destes nematóides Ø muito pequena, sendo disseminados atravØs  de movi› mentos do solo. Após a eclosªo, as  larvas do nematóide penetram nas raízes,  onde assumem hÆbito edentÆ› s rio. Como parte do processo de alimentaçªo, injetam substâncias químicas  nos tecidos circunvizinhos, in› duzindo a formaçªo de cØlulas  gigantes (sincícios),  as quais nutrem as fŒmeas os nematóides. Esta prollie› d raçªo celular conduz à formaçªo de  galhas de  variados tamanhos. Sob ataque severo, as galhas juntam-se e assumem uma aparŒncia isforme, inibindo a forma› d çªo  de raízes secundÆrias.  Abrindo-se as galhas, Ø possível  observar  a presença  das fŒmeas  aduras de m cor branca, com menos de lmm de comprimento.\nFoto 128 -Sintomas do nematóide-das-galhas nas raízes  O. T  Yorinori)\nFoto 129 - Sintoma de folha \"carijó\" por nematóide de galhas (J. T  Yorinori) .\nAs plantas atacadas apresentam porte mais re› duzido,  poucas  vagens,  folha  \"carijó\",  maior suscetibilidade a doenças  de final de ciclo (septoriose e  crestamento-foliar-de-cercóspora)  e completam o ciclo prematuramente.\nControle. Rotaçªo  de cultura com espØcies resistentes; manejo físico  e químico  do solo e cultivares resistentes.",
+    "metadata": {
+      "chunk_index": 56,
+      "tokens": 205,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Em apenas quatro anos, desde a sua identifica› çªo  (1992-1995) , o nematóide-de-cisto-da-soja (NCS), Heterodera glycines, expandiu-se para 44 municípios nos estados de GO, MG, MT, MS, SP e RS, atingindo 1 milhªo de hectares.\nO sintoma do N  CS Ø  expresso pela ocorrŒncia em rebole  iras, reduçªo do porte atØ  morte das plan› tas, amarelecimento das folhas, abortamento de flo› res e vagens, deterioraçªo das raízes  e plantas com haste verde ao final do ciclo. A intensidade dos sinto› mas depende da populaçªo do N  CS e da  fertilidade do solo. O amarelecimento das plantas Ø  típico  de defici› Œncia e manganŒs, e ferro e de potÆssio, endo mais d d s evidenciado nos locais de deposiçªo de calcÆrio.   di› O agnóstico mais preciso do NCS Ø a  presença  de cistos\n(fŒmeas)  nas raízes  ou no solo. Os cistos ficam aderi› dos nas radicelas, sªo visíveis  a olho nu e aparecem como pequenos pontos brancos ou amarelos (menos de 1  mm de diâmetro). O formato dos cistos varia de alongado (reniforme, quando imaturos) a arredonda› do  (forma de limªo  Tahiti), com cores variando de branca a castanho-escura. Os cistos permanecem viÆ› veis no solo por mais de oito anos.\nControle:  Rotaçªo  de  cultura;  uso  de  cultivares resistentes  (ainda  nªo  disponível) e  manutençªo  da fertilidade do solo.\nFoto 133 - Cistos (fŒmeas)  em diferentes estÆdios e formaçªo d OT Yorinori).",
+    "metadata": {
+      "chunk_index": 57,
+      "tokens": 230,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Gazzoni, D. L; Sosa-GomØz,  D. R.; Moscardi, F.; Hof˝lnann-Campo, C. B.; Correa-Ferreira, B. S.;  Oliveira, L. J. & Corso, I. C. 1994. Inseets. In: EMBRAPA-CNPSo/FAO Tropical Soybean Improvement and Production. FAO, Rome, p. 81-108.\nGazzoni, D. L.; E. B. de Oliveira; I. C. Corso; B. S.  Correa-Ferreira;  G.  L.  Villas  Bôas;  F. Moscardi &  A. R.  Panizzi. 1988. Manejo de Pragas de Soja. CireularTØenica  5, EMBRAPA› CNPSo,44p.\nFerreira, L  P.; Lehman, P. S. & Almeida, A. M. R 1979. Doenças da Soja no Brasil. EMBRAP  A› CNPSo CircularTØenica,  1, 41p.\nMendes, M. L. 1993. O Nematóide do Cisto da Soja. In: Arantes, N. E. & Souza, P. I. M. Cultura  da Soja nos Cerrados. Assoe. Bras. Pesq. da Potassa e do Fosfato, Piracicaba-Sp, p. 399-413.\nSinclair,  J.B. & Backman,  P.A.  (eds).  1989. Compendium of Soybean Diseases. APS Press, St Pau1.106p.\nYorinori, J .T. 1986. Doenças  da  soja no Brasil, p.30163. In: FUNDA˙ˆO CARGIIL. Soja no Brasil Central. 3.ed. Campinas, Fundaçªo Cargill, 1986. 444p.\nYorinori,  J.  T.  1990.  Cancro  da Haste da Soja. EMBRAPA-CNPSo. Com. TØc.,  44, 7p.\nYorinori, J.T.; Charchar, M. J. D'Avila; Nasser, L.C.B. & Henning, A.A.  1993. Doenças da soja e seu controle., p. 333-97.In:Arantes, N.E. &  Souza,  P.I.M  de.  Cultura do  Soja  nos Cerrados. POTAFOS, Piracicaba, SP. 535p.",
+    "metadata": {
+      "chunk_index": 58,
+      "tokens": 211,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "MinistØrio  da Agricultura, do Abastecimento e  da\nReforma AgrÆria MAARA -Secretaria de Defesa AgropecuÆria -SDA Departamento de Defesa e Inspeçªo Vegetal\nEsplanada dos MinistØrios  - BI. D Anexo B  4° ando si 406 Telefone (061) 218-2314 Fax (061) 224-3995 I 218-2316 CEP  70043-900 Brasília  - DF\nEmpresa Brasileira de Pesquisa  AgropecuÆria  EMBRAPA -Sede:\nSAIN Parque Rural- Av. W 13 Norte -Final\nTelefone (061) 348 4433\nTelex 61.2074 Fax (061) 347-1041\nCaixa Postal 04.0315\nCEP 70770-901\nBrasília,  DF\nCentro Nacional de Pesquisa de Soja -CNPSo/EMBRAPA\nRodovia Carlos  Joªo Strass (Londrina/Warta) Acesso Orlando Amaral - Distrito de Warta Telefone (043) 320-4166 Telex (43) 2208 Fax (043) 320-4186 Caixa Postal  1061 CEP 86001-970 Londrina - PR",
+    "metadata": {
+      "chunk_index": 59,
+      "tokens": 113,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "SAIN  Parque Rual  -Av. W  /3 Norte -Final Telefone  (061) 348-4162 / 348-4155 Telex (61) 2074 Fax (061) 272-4168 Caixa Postal 40765 CEP  70770-901 Brasília  - DF",
+    "metadata": {
+      "chunk_index": 60,
+      "tokens": 27,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Rodovia Celso Garcia Cid, Km 375 Telefone (043) 32~ 1525 Telex (43) 2122 Fax (043) 32~7868 Caixa Postal  1331 CEP 86047-590 Londrina -PR",
+    "metadata": {
+      "chunk_index": 61,
+      "tokens": 23,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": "Rua da Bandeira, 570 - Cabral Telefone  (041) 352-1616 Telex (41) 6283 Fax (041) 352-1698 CEP  80035-270 Curitiba - PR",
+    "metadata": {
+      "chunk_index": 62,
+      "tokens": 20,
+      "source": "local_pdf_converted_3.md"
+    }
+  },
+  {
+    "text": ".\n.",
+    "metadata": {
+      "chunk_index": 63,
+      "tokens": 2,
+      "source": "local_pdf_converted_3.md"
+    }
+  }
+]

@@ -11,6 +11,7 @@ python-multipart
 # AI / RAG
 openai
 chromadb
+sentence-transformers
 
 # firebase
 firebase-admin

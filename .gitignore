@@ -54,6 +54,24 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# ChromaDB database directory
+/chroma_db/
+*.chroma
+
+# SQLite DBs (used internally by Chroma)
+*.sqlite3
+*.db
+*.sqlite
+
+# Other binary artifacts
+*.bin
+*.pkl
+*.npy
+
+# ChromaDB cache or logs (if applicable)
+.cache/
+*.log
+
 # Translations
 *.mo
 *.pot

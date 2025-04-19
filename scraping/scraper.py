@@ -3,8 +3,24 @@ from bs4 import BeautifulSoup
 from config import BASE_URL
 
 class Scraper:
+    """
+    A web scraper class to fetch and process HTML content from a list of URLs.
+    """
     
     def fetch_data(self):
+        """
+        Fetches HTML content from the URLs specified in the BASE_URL list.
+
+        For each URL:
+        - Sends an HTTP GET request.
+        - Parses the HTML content using BeautifulSoup.
+        - Removes empty tags from the HTML.
+        - Collects the prettified HTML content.
+
+        Returns:
+            list: A list of prettified HTML strings fetched from the URLs.
+        """
+        
         results = []
         for url in BASE_URL:
             try:

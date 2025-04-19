@@ -19,6 +19,24 @@ from transformers import AutoTokenizer
 from docling.chunking import HybridChunker
 
 class Converter:
+
+    """
+    A class for converting documents (PDFs, HTML, etc.) into Markdown format and processing them into smaller chunks.
+
+    This class uses the Docling library to handle document conversion and chunking. It supports:
+    - Converting local PDF files to Markdown.
+    - Converting PDF files from URLs to Markdown.
+    - Converting HTML content to Markdown.
+    - Splitting documents into smaller chunks for further processing.
+    - Saving converted documents and chunks in Markdown or JSON format.
+
+    Attributes:
+        path (str): The path to the document or directory to be processed.
+        accelerator_options (AcceleratorOptions): Options for configuring the processing accelerator (e.g., CPU or GPU).
+        pipeline_options (PdfPipelineOptions): Options for configuring the PDF processing pipeline.
+        converter (DocumentConverter): The Docling document converter instance used for processing documents.
+    """
+
     def __init__(self, path: str):
         self.path = path
         self.accelerator_options = AcceleratorOptions(

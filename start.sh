@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo "Activating virtual environment..."
-source venv/bin/activate
+echo "Ativando ambiente virtual com Poetry..."
+poetry shell
 
-echo "Installing dependencies..."
-pip install -r requirements.txt
+echo "Instalando dependências com Poetry..."
+poetry install
 
-echo "Starting the application..."
-uvicorn app.main:app --reload
+echo "Iniciando a aplicação..."
+poetry run uvicorn app.main:app --reload

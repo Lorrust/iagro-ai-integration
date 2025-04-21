@@ -18,6 +18,9 @@ from docling.document_converter import DocumentConverter, PdfFormatOption
 from transformers import AutoTokenizer
 from docling.chunking import HybridChunker
 
+# Utils
+from scraping.utils.data_cleaning import clean_text
+
 class Converter:
 
     """
@@ -89,19 +92,20 @@ class Converter:
                         chunks = self.chunker(result.document)
 
                         # Generate a base filename for the converted file
-                        base_filename = f"url_pdf_chunks_{i}"
+                        converted_filename = f"url_pdf_converted_{i}"
+                        chunks_filename = f"url_pdf_chunks_{i}"
 
                         # Save chunks in JSON for RAG
                         self.save_chunks_to_json(
                             chunks=chunks,
                             output_dir="docling_converter/docs/rag_chunks",
-                            filename=base_filename,
-                            source=f"{base_filename}.md"
+                            filename=chunks_filename,
+                            source=f"{converted_filename}.md"
                         )
                         print("Chunks saved successfully!")
 
                         converted_file = result.document.export_to_markdown()
-                        url_files_converted.append((base_filename, converted_file))
+                        url_files_converted.append((converted_filename, converted_file))
 
                         print("File converted successfully!")
                         doc_conversion_secs = result.timings["pipeline_total"].times
@@ -148,14 +152,15 @@ class Converter:
                 if result:
                     chunks = self.chunker(result.document)
 
-                    base_filename = f"local_pdf_converted_{i}"
+                    converted_filename = f"local_pdf_converted_{i}"
+                    chunks_filename = f"local_pdf_chunks_{i}"
 
                     # Save chunks in JSON for RAG
                     self.save_chunks_to_json(
                         chunks=chunks,
                         output_dir="docling_converter/docs/rag_chunks",
-                        filename=base_filename,
-                        source=f"{base_filename}.md"
+                        filename=chunks_filename,
+                        source=f"{converted_filename}.md"
                     )
                     print("Chunks saved successfully!")
 
@@ -163,7 +168,7 @@ class Converter:
                     doc_conversion_secs = result.timings["pipeline_total"].times
                     print(f"Conversion time: {doc_conversion_secs}")
 
-                    converted_files.append((base_filename, converted_file))
+                    converted_files.append((converted_filename, converted_file))
                     print("File converted successfully!")
 
             return converted_files
@@ -248,7 +253,7 @@ class Converter:
 
     def chunker(self, doc , chunk_size: int = 1000) -> list:
         """
-        Split the data into smaller chunks.
+        Split the data into smaller chunks removing not needed characters from docuemnt text.
         Args:
             doc (Document): Docling Document to be split.
             chunk_size (int): Size of each chunk.
@@ -266,7 +271,14 @@ class Converter:
             merge_peers=True,
         )
 
-        chunker_iter= chunker.chunk(dl_doc= doc)
+        # Clean the document text
+        cleaned_text = clean_text(doc.text)
+
+        # Create a new document with the cleaned text
+        cleaned_doc = doc.copy()
+        cleaned_doc.text = cleaned_text
+
+        chunker_iter= chunker.chunk(dl_doc= cleaned_doc)
         chunks= list(chunker_iter)
 
         print(f"Total number of chunks: {len(chunks)}")

@@ -1,12 +1,13 @@
 from app.services.chroma.client import get_chroma_client
 from app.services.embeddings.generator import get_text_embeddings
 from app.models.knowledge_document import KnowledgeDocument
+from app.constants.chroma import COLLECTION_NAME
 
 class ChromaService:
 
     def __init__(self):
         self.client = get_chroma_client()
-        self.collection = self.client.get_or_create_collection(name="knowledge-base")
+        self.collection = self.client.get_or_create_collection(name=COLLECTION_NAME)
 
     def add_document(self, document: KnowledgeDocument):
         """

@@ -44,7 +44,9 @@ async def ask_ai(request: ChatRequest, chroma_results = None) -> ChatResponse:
     system_prompt = prompts.DIAGNOSIS_SYSTEM_PROMPT
 
     if chroma_results:
-        system_prompt += f"\nContexto encontrado pelo banco vetorial para auxiliar no seu diagnóstico:\n\n{chroma_results}"
+        documents = chroma_results.get('documents', [[]])[0]
+        context = "\n\n".join(documents)
+        system_prompt += f"\nContexto encontrado pelo banco vetorial para auxiliar no seu diagnóstico:\n\n{context}"
 
     logger.debug(f"[ChromaDB] Context found:\n{chroma_results}")
     logger.debug(f"[OpenAI] Final prompt:\n{system_prompt.strip()}")

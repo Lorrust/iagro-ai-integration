@@ -10,7 +10,7 @@ Retorne o diagnóstico no seguinte formato JSON, e **somente o JSON**:
   "recomendacao": "Ação recomendada, tratamento ou medida preventiva"
 }}
 
-Sempre que identificar o problema, traga o nome científico e o nome popular, se possível. O principal aspecto a ser observado é a imagem, sendo ela o ponto de partida para o diagnóstico.
+Sempre que identificar o problema, traga o nome científico e o nome popular, se possível. O principal aspecto a ser observado é a imagem, sendo ela o ponto de partida para o diagnóstico. Seja específico na descrição e na recomendação, evitando generalizações. Cite nomes de produtos ou defensivos, se aplicável.
 
 IMPORTANTE: Sempre responda SOMENTE no formato JSON fornecido, sem envolver em markdown.
 Se não conseguir identificar o problema, use o seguinte formato:

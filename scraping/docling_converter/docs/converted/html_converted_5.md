@@ -1,3 +1,33 @@
+#### TURMAS INICIAM EM ABRIL.
+          
+           CLIQUE AQUI
+          
+          E CONFIRA NOSSO CALENDÁRIO!
+
+- Quem Somos
+- Pós-Graduação
+- MBAs
+- Cursos
+    - Imersão Sucessores do Agro
+- Para Empresas
+- Biblioteca
+    - Agroclass
+    - Agroteca
+    - Conteúdo Gratuito
+- Blog
+
+- Quem Somos
+- Pós-Graduação
+- MBAs
+- Cursos
+    - Imersão Sucessores do Agro
+- Para Empresas
+- Biblioteca
+    - Agroclass
+    - Agroteca
+    - Conteúdo Gratuito
+- Blog
+
 # Principais pragas da soja na safra 2023/2024 na região Centro-Oeste
 
 Veja quais são as principais pragas da soja e quais foram as principais na safra 2023/2024 em um ano com clima predominantemente quente e seco no Centro-Oeste brasileiro, maior região produtora de soja do País.
@@ -526,7 +556,7 @@ Sobre a autora
 
 # Beatriz Nastaro Boschiero
 
-# Especialista em MKT de Conteúdo na Agroadvance
+# Especialista em Conteúdo na Agroadvance
 
 - Pós-doutora pelo CTBE/CNPEM e CENA/USP
 - Mestra e Doutora em Solos e Nutrição de Plantas (ESALQ/USP)
@@ -541,13 +571,17 @@ COMPARTILHAR
 
 Mais Lidos Da Semana
 
-###### Brachiaria:
+###### Construindo o Futuro do Agro: 10 Tendências Tecnológicas para 2025/2026
+
+###### Avanços na coinoculação de soja com
               
-              4 principais espécies e benefícios para a agricultura
+               Bradyrhizobium
+              
+              e
+              
+               Azospirillum
 
-###### 5 Variedades de cana-de-açúcar mais cultivadas no Brasil
-
-###### 7 Principais doenças da cana-de-açúcar: identificação e controle
+###### 4 Principais objeções de vendas no agro e como transformá-las em oportunidade
 
 CATEGORIAS
 
@@ -560,12 +594,12 @@ CATEGORIAS
             
             Agronegócio
             
-             39
+             41
 - ▶
             
             Bioinsumos
             
-             29
+             31
 - ▶
             
             Café
@@ -575,7 +609,7 @@ CATEGORIAS
             
             Cana
             
-             27
+             28
 - ▶
             
             Feijão
@@ -600,7 +634,7 @@ CATEGORIAS
             
             Gestão Agrícola
             
-             44
+             45
 - ▶
             
             Máquinas Agrícolas
@@ -610,7 +644,7 @@ CATEGORIAS
             
             Marketing e Vendas
             
-             13
+             15
 - ▶
             
             Milho
@@ -640,7 +674,7 @@ CATEGORIAS
             
             Soja
             
-             55
+             56
 - ▶
             
             Solos
@@ -655,43 +689,41 @@ CATEGORIAS
             
             Sustentabilidade
             
-             36
+             37
 
 VOCÊ TAMBÉM PODE GOSTAR:
 
-Pecuária
+Agronegócio
 
-###### Brachiaria:
-               
-               4 principais espécies e benefícios para a agricultura
+###### Construindo o Futuro do Agro: 10 Tendências Tecnológicas para 2025/2026
 
-Brachiaria decumbens
+Descubra as tendências tecnológicas para o agronegócio em 2025/2026, como inteligência artificial, sensores inteligentes, drones, biotecnologia e outras.
+
+Soja
+
+###### Avanços na coinoculação de soja com
                
-               ,
-               
-                Brachiaria brizantha
-               
-               ,
-               
-                Brachiaria ruziziensis
+                Bradyrhizobium
                
                e
                
-                brachiaria humidicola
+                Azospirillum
+
+Entenda como a coinoculação com
                
-               : entenda como essa forrageira melhora a fertilidade do solo e contribui para o aumento da
+                Bradyrhizobium
+               
+               e
+               
+                Azospirillum
+               
+               melhora a fixação biológica de nitrogênio e pode aumentar a produtividade da soja em até 25%
 
-Cana
+Marketing e Vendas
 
-###### 5 Variedades de cana-de-açúcar mais cultivadas no Brasil
+###### 4 Principais objeções de vendas no agro e como transformá-las em oportunidade
 
-Veja quais são as cinco variedades de cana-de-açúcar mais cultivadas no Brasil na Safra 2023/24, suas características e importância relativa em área cultivada para
-
-Cana
-
-###### 7 Principais doenças da cana-de-açúcar: identificação e controle
-
-Descubra as principais doenças da cana-de-açúcar no Brasil, como ferrugem, escaldadura e mosaico, e veja como diagnosticá-las e controlá-las no campo.
+Saiba como identificar e responder tecnicamente às quatro principais objeções de vendas no agro: ceticismo, indiferença, mal-entendido e objeção real e manter sua negociação
 
 ## Deixe um comentário
           
@@ -721,7 +753,7 @@ Site
 
 Salvar meus dados neste navegador para a próxima vez que eu comentar.
 
-Escola de Negócios Agro que conecta o campo à cidade, amplificando os resultados do agronegócio no Brasil e destacando a cultura e o valor do setor
+Agroadvance, Escola de Negócios Agro que conecta o campo à cidade, amplificando os resultados do agronegócio no Brasil e destacando a cultura e o valor do setor
 
 Entre em Contato
 
@@ -745,3 +777,23 @@ Entre em Contato
 - Termos de Uso
 
 ©2025 Todos Os Direitos Reservados.
+
+## ABERTURA DE TURMAS
+
+Clique no curso e inscreva-se
+
+- 28/04
+          
+          – MBA em Gestão de Propriedades Agrícolas
+- 28/04
+          
+          – MBA em Liderança, Gestão e Estratégia no Agronegócio
+- 28/04
+          
+          – MBA em Gestão de Times Comerciais no Agronegócio
+- 28/04
+          
+          – MBA em Marketing e Vendas no Agronegócio
+- 30/04
+          
+          – Pós-Graduação em Bioinsumos

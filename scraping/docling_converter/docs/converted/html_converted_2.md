@@ -116,13 +116,13 @@ Erva-de-santa-maria: para que serve e como utilizar o mastruz?
 
 Summit Agro
 
-Qual é a diferença entre rancho, sítio, fazenda e chácara?
+Banana: quantos tipos existem e quais são os principais
 
 4
 
 Summit Agro
 
-Banana: quantos tipos existem e quais são os principais
+Qual é a diferença entre rancho, sítio, fazenda e chácara?
 
 5
 
@@ -236,6 +236,7 @@ Copyright © 1995 - 2025 Grupo Estado
 - Sustentabilidade
 - Opinião
 - AgroSP
+- AGRISHOW 2025
 
 - Vídeos
 - Webstories

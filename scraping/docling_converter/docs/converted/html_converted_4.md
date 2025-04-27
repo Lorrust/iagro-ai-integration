@@ -556,21 +556,13 @@ Tecnologia no agronegócio: conheça 7 inovações tecnológicas
           
             #artigos
 
-Tecnologia no campo: qual a importância e os benefícios
+Afinal, o que é agricultura?
 
 #ferramentas digitais
            
           
           
             #agronegócio
-           
-          
-          
-            #software
-           
-          
-          
-            #Inovação e Tecnologia
            
           
           

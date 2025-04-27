@@ -1,21 +1,23 @@
-## 10 de abril de  2025 - 14:53h
+## 27 de abril de  2025 - 15:04h
 
 A Folha Agrícola
 
-- agronegócio
-- agropecuário
 - agricultura
+- agropecuário
+- agronegócio
+- Geral
+- Artigos
 - Cotações
 - Versão Digital
-- Artigos
 - anuncie
 
-- agronegócio
-- agropecuário
 - agricultura
+- agropecuário
+- agronegócio
+- Geral
+- Artigos
 - Cotações
 - Versão Digital
-- Artigos
 - anuncie
 
 # Pragas e doenças podem comprometer até 90% da produção agrícola
@@ -72,17 +74,17 @@ BRASIL
 
 ## Leia mais
 
-### Tractebel lança solução para mapear impactos e ações de compensação de biodiversidade
+### Com crescimento de 200% na América Latina, DJI consolida liderança em drones agrícolas
 
-### Difícil de identificar, controle da dor em equinos precisa ser rápido para devolver o bem-estar dos animais
+### Controle da mastite é foco da Vetoquinol na 18ª Expofrísia
 
-### Cresol Tradição chega à sua quinta agência em Francisco Beltrão
+### Estudo aponta escassez global de reservas subterrâneas de água
 
-### Paraná: Mel de Capanema busca Indicação Geográfica por Denominação de Origem
+### Titan apresenta na Agrishow sua nova tecnologia EFT, agora estampada em seus pneus
 
-### Deutsche Telekom Global Business Solutions se associa à ABAG para acelerar a conexão no agronegócio brasileiro
+### BOI: Demanda acima da oferta sustenta preços
 
-### SUÍNOS: Médias voltam a cair em março, mas seguem acima das de um ano atrás
+### Novo pulverizador com sensores ópticos pode gerar economia de até 95% em aplicações de herbicidas
 
 - A Folha Agrícola
 - Políticas Editoriais

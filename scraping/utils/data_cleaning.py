@@ -1,25 +1,39 @@
-# Removes not needed characters from the text generated in docling converter files and scraping
-def clean_text(text: str, preserve_paragraphs=True):
-    
+import re
+
+def clean_text(text: str, preserve_paragraphs: bool = True) -> str:
     """
-    Cleans the input text by removing or replacing newline characters.
+    Cleans the input text by removing unnecessary characters and fixing spacing issues.
 
     Args:
         text (str): The input text to be cleaned.
-        preserve_paragraphs (bool, optional): If True, replaces newline characters ('\n') 
-            with a space or another delimiter. If False, removes all newline and carriage 
-            return characters ('\n' and '\r'). Defaults to False.
+        preserve_paragraphs (bool, optional): If True, keeps paragraph breaks; 
+            otherwise, merges everything into a single line. Defaults to True.
 
     Returns:
-        str: The cleaned text with newline characters handled based on the 
-        `preserve_paragraphs` parameter.
+        str: The cleaned text.
     """
+    if not text:
+        return ""
+
+    # Remove carriage returns
+    text = text.replace('\r', '')
 
     if preserve_paragraphs:
-        
-        cleaned_text = text.replace('\n', ' ')
+        # Replace multiple newlines (\n\n+) with a single paragraph break
+        text = re.sub(r'\n\s*\n+', '\n\n', text)
+        # Replace single newlines inside paragraphs with spaces
+        text = re.sub(r'(?<!\n)\n(?!\n)', ' ', text)
     else:
-        
-        cleaned_text = text.replace('\n', ' ').replace('\r', '')
-    
-    return cleaned_text
+        # Replace all newlines with spaces
+        text = text.replace('\n', ' ')
+
+    # Remove multiple spaces
+    text = re.sub(r'[ \t]+', ' ', text)
+
+    # Remove multiple spaces, tabs, or any other invisible characters
+    text = re.sub(r'\s+', ' ', text)
+
+    # Strip leading and trailing spaces
+    text = text.strip()
+
+    return text

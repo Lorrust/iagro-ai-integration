@@ -335,7 +335,6 @@ Tratamento de sementes - pode proteger as plantas (folhas) até 25 ou 50 DAS;
 - · Proteção das panículas - utilizar fungicidas sistêmicos em 2 aplicações:
 - 1- inicio de emissão das panículas (5% de emissão);
 - 2- A segunda aplicação, quando necessário, espaçada 15 dias da primeira.
-
 - Fungicida sistemico\_
 
 Tabela 1. Fungicidas registrados para o controle de doenças em arroz.
@@ -381,7 +380,6 @@ Medidas preventivas, como:
 - · Sementes sadias;
 - · Destruição antecipada dos restos culturais (aração);
 - · Aplicação de fungicidas no tratamento de sementes e a aplicações foliares para o controle da Brusone, são efetivos no controle da mancha-parda.
-
 - · Ocorre no arroz irrigado e de terras altas em todo o Brasil;
 - · Cultivares modernos são mais suscetíveis (altas doses de N);
 - · Fontes de inóculo: sementes infectadas e restos culturais.

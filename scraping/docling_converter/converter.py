@@ -251,7 +251,7 @@ class Converter:
         except Exception as e:
             print(f"Error to save: {e}")
 
-    def chunker(self, doc , chunk_size: int = 1000) -> list:
+    def chunker(self, doc , chunk_size: int = 460) -> list:
         """
         Split the data into smaller chunks removing not needed characters from docuemnt text.
         Args:
@@ -263,23 +263,24 @@ class Converter:
         EMBED_MODEL_ID = "sentence-transformers/all-MiniLM-L6-v2"
         MAX_TOKENS = chunk_size
 
-        tokenizer = AutoTokenizer.from_pretrained(EMBED_MODEL_ID)
-
+        tokenizer = AutoTokenizer.from_pretrained(EMBED_MODEL_ID, truncation= True, padding=True)
+        tokenizer.model_max_length = 512
+        
         chunker = HybridChunker(
             tokenizer=tokenizer,
             max_tokens=MAX_TOKENS,
             merge_peers=True,
         )
 
-        # Clean the document text
-        cleaned_text = clean_text(doc.text)
-
-        # Create a new document with the cleaned text
-        cleaned_doc = doc.copy()
-        cleaned_doc.text = cleaned_text
-
-        chunker_iter= chunker.chunk(dl_doc= cleaned_doc)
+        chunker_iter= chunker.chunk(dl_doc= doc)
         chunks= list(chunker_iter)
+
+         # Verificar e truncar se necessário
+        for chunk in chunks:
+            tokens = tokenizer.encode(chunk.text)
+            if len(tokens) > 512:
+                print(f"Warning: Chunk exceeds max length: {len(tokens)}")
+                chunk.text = tokenizer.decode(tokens[:512])  # Truncar os tokens para 512
 
         print(f"Total number of chunks: {len(chunks)}")
         return chunks
@@ -299,7 +300,7 @@ class Converter:
         chunk_data = []
         for i, chunk in enumerate(chunks):
             chunk_entry = {
-                "text": chunk.text.strip(),
+                "text": clean_text(chunk.text).strip(),
                 "metadata": {
                     "chunk_index": i,
                     "tokens": len(chunk.text.split()),
@@ -313,4 +314,4 @@ class Converter:
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(chunk_data, f, ensure_ascii=False, indent=2)
 
-        print(f"Chunks salvos com sucesso em: {json_path}")
+        print(f"Chunks saved in: {json_path}")

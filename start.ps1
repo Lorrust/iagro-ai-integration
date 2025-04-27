@@ -1,8 +1,5 @@
-Write-Host "Activating virtual environment..."
-. .\venv\Scripts\Activate.ps1
+Write-Host "Installing dependencies with Poetry..."
+poetry install
 
-Write-Host "Installing dependencies..."
-pip install -r requirements.txt
-
-Write-Host "Starting the application..."
-uvicorn app.main:app --reload
+Write-Host "Starting the application with Uvicorn..."
+poetry run uvicorn app.main:app --reload

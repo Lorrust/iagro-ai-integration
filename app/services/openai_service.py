@@ -43,23 +43,30 @@ async def ask_ai(request: ChatRequest, chroma_results = None) -> ChatResponse:
     """
     system_prompt = prompts.DIAGNOSIS_SYSTEM_PROMPT
 
+    messages = [{"role": "system", "content": system_prompt.strip()}]
+
+    # TODO: Evaluate chroma context efficiency and relevance
     if chroma_results:
         documents = chroma_results.get('documents', [[]])[0]
         context = "\n\n".join(documents)
-        system_prompt += f"\nContexto encontrado pelo banco vetorial para auxiliar no seu diagnóstico:\n\n{context}"
+        messages.append({"role": "system", "content": f"Contexto adicional:\n\n{context}"})
 
-    logger.debug(f"[ChromaDB] Context found:\n{chroma_results}")
-    logger.debug(f"[OpenAI] Final prompt:\n{system_prompt.strip()}")
+    if request.message_history:
+        for msg in request.message_history:
+            messages.append({"role": msg.role, "content": msg.content})
 
-    logger.debug("Sending prompt to the model...")
+    user_content = build_user_content(request)
+    messages.append({"role": "user", "content": user_content})
+
+    logger.debug("[OpenAI] Sending request with following messages:")
+    for i, msg in enumerate(messages):
+        logger.debug("[OpenAI] message {}:\nrole: {}\ncontent:\n{}\n", i + 1, msg["role"], msg["content"])
+
 
     try:
         response = await client.chat.completions.create(
             model="gpt-4o",
-            messages=[
-                {"role": "system", "content": system_prompt.strip()},
-                {"role": "user", "content": build_user_content(request)}
-            ],
+            messages=messages,
             temperature=0.5
         )
 

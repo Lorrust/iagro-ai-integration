@@ -28,7 +28,7 @@ class ChromaService:
         )
         return f"Document {document.id} added successfully."
 
-    def query_chroma(self, query_text: str, n_results: int = 5):
+    def query_chroma(self, query_text: str, n_results: int = 3):
         """
         Queries the ChromaDB collection for relevant documents based on the provided text.
 

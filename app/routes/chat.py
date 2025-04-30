@@ -18,12 +18,6 @@ async def diagnose(request: ChatRequest):
         ChatResponse: The AI's response containing the diagnosis.
     """
 
-    # TODO: Verify if the image will be in base64 or URL format
-    # If the request contains an image
-    # image_url = None
-    # if request.image:
-    #     image_url = await firebase_service.upload_image(request.image)
-
     # Search for relevant context in the Chroma knowledge base
     chroma_results = chroma_service.query_chroma(request.message)
 

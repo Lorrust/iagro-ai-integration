@@ -1,0 +1,32 @@
+[project]
+name = "iagro-ai-integration"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Guichard²",email = "jeancharles.g.guichard@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12, <4.0"
+dependencies = [
+    "requests (>=2.32.3,<3.0.0)",
+    "docling (>=2.30.0,<3.0.0)",
+    "uvicorn (>=0.34.2,<0.35.0)",
+    "python-multipart (>=0.0.20,<0.0.21)",
+    "openai (>=1.75.0,<2.0.0)",
+    "chromadb (>=1.0.5,<2.0.0)",
+    "sentence-transformers (>=4.1.0,<5.0.0)",
+    "firebase-admin (>=6.7.0,<7.0.0)",
+    "python-dotenv (>=1.1.0,<2.0.0)",
+    "loguru (>=0.7.3,<0.8.0)",
+    "fastapi (==0.115.9)"
+]
+
+[tool.poetry]
+packages = [
+    { include = "app" },
+    { include = "scraping" }
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

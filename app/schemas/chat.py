@@ -19,10 +19,13 @@ class ChatRequest(BaseModel):
     Attributes:
         message (str): The description of the problem.
         image_url (Optional[HttpUrl]): An optional URL to an image related to the problem.
+        message_history (Optional[List[Message]]): A list of previous messages in the conversation.
+        use_context (Optional[bool]): A flag indicating whether to retrieve context from ChromaDB.
     """
     message: str
     image_url: Optional[HttpUrl] = None
     message_history: Optional[List[Message]] = None
+    use_context: Optional[bool] = None
 
 class ChatResponse(BaseModel):
     """

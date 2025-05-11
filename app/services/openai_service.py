@@ -20,7 +20,7 @@ def build_user_content(request: ChatRequest):
     Build the user content for the OpenAI model request.
 
     Args:
-        request (ChatRequest): The request containing the message and optional image URL.
+        request (ChatRequest): The request containing the message, optional image URL, message history, and context flag.
 
     Returns:
         list[dict[str, str]]: A list of dictionaries representing the user content.
@@ -30,26 +30,54 @@ def build_user_content(request: ChatRequest):
         content.append({"type": "image_url", "image_url": {"url": str(request.image_url)}})
     return content
 
-async def ask_ai(request: ChatRequest, chroma_results = None) -> ChatResponse:
+def should_use_context(request: ChatRequest) -> bool:
     """
-    Send the request to the OpenAI model, including the results from ChromaDB, if provided.
+    Defines whether to retrieve ChromaDB context based on the request.
 
     Args:
-        request (ChatRequest): The request containing the message and optional image URL.
-        chroma_results (Optional): The results from ChromaDB to include in the prompt.
+        request (ChatRequest): The request containing the message, optional image URL, message history, and context flag.
 
     Returns:
-        ChatResponse: The AI's response containing the diagnosis.
+        bool: True if context should be retrieved, False otherwise.
+    """
+    return bool(request.use_context)
+
+def add_chroma_context(request: ChatRequest, messages: list) -> None:
+    """
+    Queries ChromaDB for context and appends it to the messages list if applicable.
+
+    Args:
+        request (ChatRequest): The request containing the message, optional image URL, message history, and context flag.
+        messages (list): The list of messages to be sent to the OpenAI model.
+    """
+    chroma_results = chroma_service.query_chroma(request.message)
+    if chroma_results:
+        documents = chroma_results.get('documents', [[]])[0]
+        if documents:
+            context = "\n\n".join(documents)
+            messages.append({"role": "system", "content": f"Additional context:\n\n{context}"})
+            logger.debug("[Chroma] Context added to the request:\n{}", context)
+        else:
+            logger.debug("[Chroma] No documents found in the results.")
+    else:
+        logger.debug("[Chroma] No results found.")
+
+async def ask_ai(request: ChatRequest) -> ChatResponse:
+    """
+    Send the request to the OpenAI model, validating conversation history and context necessity.
+
+    Args:
+        request (ChatRequest): The request containing the message, optional image URL, message history, and context flag.
+
+    Returns:
+        ChatResponse: The AI's response containing the diagnosis or information requested.
     """
     system_prompt = prompts.DIAGNOSIS_SYSTEM_PROMPT
 
     messages = [{"role": "system", "content": system_prompt.strip()}]
 
-    # TODO: Evaluate chroma context efficiency and relevance
-    if chroma_results:
-        documents = chroma_results.get('documents', [[]])[0]
-        context = "\n\n".join(documents)
-        messages.append({"role": "system", "content": f"Contexto adicional:\n\n{context}"})
+    if should_use_context(request):
+        add_chroma_context(request, messages)
 
     if request.message_history:
         for msg in request.message_history:

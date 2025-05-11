@@ -2,38 +2,30 @@ import json
 from pathlib import Path
 from app.services.chroma import indexer
 
-DOCS_FOLDER = Path("scraping/docling_converter/docs/converted")
+DOCS_FOLDER = Path("scraping/docling_converter/docs/rag_chunks")
 
-def extract_text_from_docling(doc_json: dict) -> str:
+def load_chunks() -> list[dict]:
     """
-    Extracts text from a Docling JSON document.
-
-    Args:
-        doc_json (dict): The JSON representation of the Docling document.
-
-    Returns:
-        str: The extracted text from the document.
+    Loads chunks from the fixed folder.
+    Each chunk will be a separate document.
     """
-    texts = doc_json.get("texts", [])
-    return "\n".join(text.get("text", "") for text in texts if "text" in text)
-
-def load_documents() -> list[dict]:
-    """
-    Loads documents from a fixed folder and extracts their text content.
-
-    Returns:
-        list[dict]: A list of dictionaries containing the title and content of each document.
-    """
-    docs = []
+    chunks = []
     for file in DOCS_FOLDER.glob("*.json"):
         with open(file, "r", encoding="utf-8") as f:
-            data = json.load(f)
-            content = extract_text_from_docling(data)
-            title = data.get("name", file.stem)
-            docs.append({"title": title, "content": content})
-    return docs
+            chunk_list = json.load(f)
+            source = file.stem
+            for idx, chunk in enumerate(chunk_list):
+                text = chunk.get("text", "")
+                metadata = chunk.get("metadata", {})
+                metadata["source"] = source
+                chunks.append({
+                    "id": f"{source}_chunk_{idx}",
+                    "content": text,
+                    "metadata": metadata
+                })
+    return chunks
 
-if __name__ == "__main__":
-    documents = load_documents()
-    indexer.index_documents(documents)
-    print(f"Indexed {len(documents)} documents into ChromaDB.")
+def main():
+    chunks = load_chunks()
+    indexer.index_documents(chunks)
+    print(f"Indexed {len(chunks)} chunks into ChromaDB.")

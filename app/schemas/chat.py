@@ -40,6 +40,7 @@ class ChatResponse(BaseModel):
         recomendacao (Optional[str]): Recommendations based on the diagnosis.
         mensagem (Optional[str]): A message from the AI model, used for follow-up conversations.
     """
+    titulo: Optional[str] = None
     categoria: Optional[str] = None
     tipo: Optional[str] = None
     descricao: Optional[str] = None

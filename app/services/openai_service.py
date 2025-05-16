@@ -72,7 +72,7 @@ async def ask_ai(request: ChatRequest) -> ChatResponse:
     Returns:
         ChatResponse: The AI's response containing the diagnosis or information requested.
     """
-    system_prompt = prompts.DIAGNOSIS_SYSTEM_PROMPT
+    system_prompt = prompts.DIAGNOSIS_SYSTEM_PROMPT.format(titulo = prompts.TITULO_FIELD + ',\n  ' if not request.message_history else '')
 
     messages = [{"role": "system", "content": system_prompt.strip()}]
 

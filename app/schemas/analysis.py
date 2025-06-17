@@ -8,7 +8,7 @@ class AnalysisRequest(BaseModel):
     Attributes:
         data (str): The data to be analyzed (JSON).
     """
-    data: str
+    data: dict
 
 class AnalysisResponse(BaseModel):
     """

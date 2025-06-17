@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 from openai import AsyncOpenAI
 from loguru import logger
 from app.schemas.chat import ChatRequest, ChatResponse
+from app.schemas.analysis import AnalysisRequest,AnalysisResponse
 from app.services.chroma.chroma_service import ChromaService
 from app.constants import prompts, defaults
 
@@ -109,6 +110,50 @@ async def ask_ai(request: ChatRequest) -> ChatResponse:
 
             logger.warning("Response is not a valid JSON, using default fallback.")
             return ChatResponse(**defaults.FALLBACK_RESPONSE)
+
+    except Exception as e:
+        logger.exception(f"[OpenAI] Error processing response: {str(e)}")
+        raise RuntimeError(f"Erro ao processar resposta da IA: {str(e)}")
+
+async def analyze(request: AnalysisRequest) -> AnalysisResponse:
+    """
+    Analyze the request and return the AI's plain text response.
+
+    Args:
+        request (AnalysisRequest): The request containing the data to be analyzed.
+
+    Returns:
+        AnalysisResponse: The AI's response containing the analysis result.
+    """
+    system_prompt = prompts.ANALYSIS_SYSTEM_PROMPT
+
+    user_prompt = f"""
+    Análise dos dados fornecidos:
+    ```json
+    {request.data}
+    ```
+    """
+
+    messages = [
+        {"role": "system", "content": system_prompt.strip()},
+        {"role": "user", "content": user_prompt.strip()}
+    ]
+
+    logger.debug("[OpenAI] Sending request with the following messages:")
+    for i, msg in enumerate(messages):
+        logger.debug(f"[OpenAI] message {i + 1}:\nrole: {msg['role']}\ncontent:\n{msg['content']}\n")
+
+    try:
+        response = await client.chat.completions.create(
+            model="gpt-4o",
+            messages=messages,
+            temperature=0.5
+        )
+
+        content = response.choices[0].message.content
+        logger.debug(f"[OpenAI] Raw response:\n{content}")
+
+        return AnalysisResponse(analysis=content)
 
     except Exception as e:
         logger.exception(f"[OpenAI] Error processing response: {str(e)}")

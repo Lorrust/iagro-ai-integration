@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 from openai import AsyncOpenAI
 from loguru import logger
 from app.schemas.chat import ChatRequest, ChatResponse
+from app.schemas.analysis import AnalysisRequest,AnalysisResponse
 from app.services.chroma.chroma_service import ChromaService
 from app.constants import prompts, defaults
 
@@ -20,7 +21,7 @@ def build_user_content(request: ChatRequest):
     Build the user content for the OpenAI model request.
 
     Args:
-        request (ChatRequest): The request containing the message and optional image URL.
+        request (ChatRequest): The request containing the message, optional image URL, message history, and context flag.
 
     Returns:
         list[dict[str, str]]: A list of dictionaries representing the user content.
@@ -30,34 +31,71 @@ def build_user_content(request: ChatRequest):
         content.append({"type": "image_url", "image_url": {"url": str(request.image_url)}})
     return content
 
-async def ask_ai(request: ChatRequest, chroma_results = None) -> ChatResponse:
+def should_use_context(request: ChatRequest) -> bool:
     """
-    Send the request to the OpenAI model, including the results from ChromaDB, if provided.
+    Defines whether to retrieve ChromaDB context based on the request.
 
     Args:
-        request (ChatRequest): The request containing the message and optional image URL.
-        chroma_results (Optional): The results from ChromaDB to include in the prompt.
+        request (ChatRequest): The request containing the message, optional image URL, message history, and context flag.
 
     Returns:
-        ChatResponse: The AI's response containing the diagnosis.
+        bool: True if context should be retrieved, False otherwise.
     """
-    system_prompt = prompts.DIAGNOSIS_SYSTEM_PROMPT
+    return bool(request.use_context)
 
+def add_chroma_context(request: ChatRequest, messages: list) -> None:
+    """
+    Queries ChromaDB for context and appends it to the messages list if applicable.
+
+    Args:
+        request (ChatRequest): The request containing the message, optional image URL, message history, and context flag.
+        messages (list): The list of messages to be sent to the OpenAI model.
+    """
+    chroma_results = chroma_service.query_chroma(request.message)
     if chroma_results:
-        system_prompt += f"\nContexto encontrado pelo banco vetorial para auxiliar no seu diagnóstico:\n\n{chroma_results}"
+        documents = chroma_results.get('documents', [[]])[0]
+        if documents:
+            context = "\n\n".join(documents)
+            messages.append({"role": "system", "content": f"Additional context:\n\n{context}"})
+            logger.debug("[Chroma] Context added to the request:\n{}", context)
+        else:
+            logger.debug("[Chroma] No documents found in the results.")
+    else:
+        logger.debug("[Chroma] No results found.")
 
-    logger.debug(f"[ChromaDB] Context found:\n{chroma_results}")
-    logger.debug(f"[OpenAI] Final prompt:\n{system_prompt.strip()}")
+async def ask_ai(request: ChatRequest) -> ChatResponse:
+    """
+    Send the request to the OpenAI model, validating conversation history and context necessity.
 
-    logger.debug("Sending prompt to the model...")
+    Args:
+        request (ChatRequest): The request containing the message, optional image URL, message history, and context flag.
+
+    Returns:
+        ChatResponse: The AI's response containing the diagnosis or information requested.
+    """
+    system_prompt = prompts.DIAGNOSIS_SYSTEM_PROMPT.format(titulo = prompts.TITULO_FIELD + ',\n  ' if not request.message_history else '')
+
+    messages = [{"role": "system", "content": system_prompt.strip()}]
+
+    if should_use_context(request):
+        add_chroma_context(request, messages)
+
+    if request.message_history:
+        for msg in request.message_history:
+            messages.append({"role": msg.role, "content": msg.content})
+
+    user_content = build_user_content(request)
+    messages.append({"role": "user", "content": user_content})
+
+    logger.debug("[OpenAI] Sending request with following messages:")
+    for i, msg in enumerate(messages):
+        logger.debug("[OpenAI] message {}:\nrole: {}\ncontent:\n{}\n", i + 1, msg["role"], msg["content"])
+
 
     try:
         response = await client.chat.completions.create(
             model="gpt-4o",
-            messages=[
-                {"role": "system", "content": system_prompt.strip()},
-                {"role": "user", "content": build_user_content(request)}
-            ],
+            messages=messages,
             temperature=0.5
         )
 
@@ -72,6 +110,50 @@ async def ask_ai(request: ChatRequest, chroma_results = None) -> ChatResponse:
 
             logger.warning("Response is not a valid JSON, using default fallback.")
             return ChatResponse(**defaults.FALLBACK_RESPONSE)
+
+    except Exception as e:
+        logger.exception(f"[OpenAI] Error processing response: {str(e)}")
+        raise RuntimeError(f"Erro ao processar resposta da IA: {str(e)}")
+
+async def analyze(request: AnalysisRequest) -> AnalysisResponse:
+    """
+    Analyze the request and return the AI's plain text response.
+
+    Args:
+        request (AnalysisRequest): The request containing the data to be analyzed.
+
+    Returns:
+        AnalysisResponse: The AI's response containing the analysis result.
+    """
+    system_prompt = prompts.ANALYSIS_SYSTEM_PROMPT
+
+    user_prompt = f"""
+    Análise dos dados fornecidos:
+    ```json
+    {request.data}
+    ```
+    """
+
+    messages = [
+        {"role": "system", "content": system_prompt.strip()},
+        {"role": "user", "content": user_prompt.strip()}
+    ]
+
+    logger.debug("[OpenAI] Sending request with the following messages:")
+    for i, msg in enumerate(messages):
+        logger.debug(f"[OpenAI] message {i + 1}:\nrole: {msg['role']}\ncontent:\n{msg['content']}\n")
+
+    try:
+        response = await client.chat.completions.create(
+            model="gpt-4o",
+            messages=messages,
+            temperature=0.5
+        )
+
+        content = response.choices[0].message.content
+        logger.debug(f"[OpenAI] Raw response:\n{content}")
+
+        return AnalysisResponse(analysis=content)
 
     except Exception as e:
         logger.exception(f"[OpenAI] Error processing response: {str(e)}")

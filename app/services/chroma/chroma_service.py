@@ -1,12 +1,13 @@
 from app.services.chroma.client import get_chroma_client
 from app.services.embeddings.generator import get_text_embeddings
 from app.models.knowledge_document import KnowledgeDocument
+from app.constants.chroma import COLLECTION_NAME
 
 class ChromaService:
 
     def __init__(self):
         self.client = get_chroma_client()
-        self.collection = self.client.get_or_create_collection(name="knowledge-base")
+        self.collection = self.client.get_or_create_collection(name=COLLECTION_NAME)
 
     def add_document(self, document: KnowledgeDocument):
         """
@@ -27,7 +28,7 @@ class ChromaService:
         )
         return f"Document {document.id} added successfully."
 
-    def query_chroma(self, query_text: str, n_results: int = 5):
+    def query_chroma(self, query_text: str, n_results: int = 3):
         """
         Queries the ChromaDB collection for relevant documents based on the provided text.
 

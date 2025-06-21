@@ -1,0 +1,22 @@
+services:
+  iagro-ai-integration:
+    build: .
+    container_name: iagro-ai-integration
+    ports:
+      - '8000:8000'
+    env_file:
+      - .env
+    depends_on:
+      - chroma
+    volumes:
+      - .:/app
+    command: poetry run start
+
+  chroma:
+    image: chromadb/chroma
+    container_name: chroma
+    ports:
+      - '8001:8000'
+    volumes:
+      - ./chroma_db:/chroma/.chromadb
+    restart: unless-stopped
